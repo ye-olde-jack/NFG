@@ -1,6 +1,4 @@
 ---
 title: Welcome to Quartz
 ---
-Hello world. This is a big thing for me, thanks June
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to the game that the five of us are going to be playing! This website is going to be the basis for some organization on keeping track of the different notes and details for the game. Hoping that people will take notes for me to port onto this website.
