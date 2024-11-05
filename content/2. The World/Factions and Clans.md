@@ -1,11 +1,13 @@
-**Drakkenheim's Factions**
+# **Drakkenheim's Factions**
 
 - The [[Amethyst Academy]]:  
 ![[Pasted image 20241105132411.png]]
+
 The [[Amethyst Academy]] is a magical school for sorcerers and wizards, where students learn magic in remote castles and secluded universities. Directed by a shadowy cabal of powerful archmages, the [[Amethyst Academy]] also operates an enterprising mage guild that controls the manufacture of magical wares, and orchestrates an influential arcane syndicate that provides occult counsel to the nobility of the continent. However, the Academy was dealt a terrible blow following [[Drakkenheim]]’s destruction, as the city was home to their greatest stronghold: the Inscrutable Tower. Archwizard Eldrick Runeweaver leads the Academy’s efforts to access the tower and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding delerium’s supernatural qualities and unknown dangers. The mages plan to harness the crystals’ vast energies to craft magical items and power new arcane spells.
 
 - [[Followers of the Falling Fire]]: 
 ![[Pasted image 20241105133629.png]]
+
 The annihilation of Drakkenheim incited a serious religious schism within the Faith of the Sacred Flame. A new sect has emerged known as the Followers of the Falling Fire, who adhere to the prophecies of former Flamekeeper Lucretia Mathias. She attests that delerium is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated Lucretia Mathias and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan.
 
 - [[Hooded Lanterns]]: 
@@ -23,24 +25,24 @@ The Knights of the Silver Order are an organization of oathbound paladins and de
 
 The Queen’s Men are a loose affiliation between a hundred gangs of brigands, outlaws, and scoundrels, all of whom owe fealty to the enigmatic Queen of Thieves. These reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle delerium to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the city. The Queen of Thieves dreams of building an influential and powerful criminal empire forged in the anarchy and lawlessness of the ruins, and conspires against the other factions at every turn.
 
-**Valikan Clans**
+# **Valikan Clans**
 
-[[Clan Rune]]: 
+- [[Clan Rune]]: 
 ![[Pasted image 20241105132608.png]]
 
 Life among the Rune clan is no less arduous than for others in Valika. However, the clan’s deep connections to magic give its people a unique focus among the northlanders, and a notably broader worldview than that of many other clans provides an advantageous perspective. The clan is named for the sorcerer Rune, the legendary spellcaster who joined Kentigern to free the north from the scourge of Gormadraug, the Great Prismatic Wyrm. One of the most formidable of Kentigern’s companions, Rune was also one of the most widely traveled, appearing in ancient tales from across Etharis. In the tales of Valika, Rune is best known for helping hold back Gormadraug’s elemental powers during the battles that allowed the Seven Heroes to finally face off against the Prismatic Wyrm, and for imprisoning the fire elementals of Cinderghast. It is those legendary tales of spellcraft and magic against which the folk of Clan Rune measure themselves as they carry on Rune’s legacy.
 
-[[Clan Sýr]]:
+- [[Clan Sýr]]:
 ![[Pasted image 20241105133537.png]]
 
 The most legendary metalworkers of the north hail from Clan Sýr, founded by and named for Sýr the Seven-Bladed, the thrice-condemned warrior and weaponsmith who made their name among the Seven Heroes who defeated Gormadraug. Little is known of Sýr’s life before they entered Kentigern’s saga, aside from the death sentences imposed on them by various chiefs of the ancient clans, dwelling outside the territory of the elementals that ruled the northern wastes. While they lived, Sýr resisted all attempts by the skalds and lorists to unlock the secrets of their past, though it is generally accepted that their seven blades were each commissioned works, originally undertaken by Sýr for powerful chiefs and warriors. Incomplete tales also suggest that Sýr kept all those weapons for themself—even after having pocketed their extraordinary commissions—judging in the end that each was too beautiful and too deadly to ever be handled by another.
 
-[[Clan Völgr]]:
+- [[Clan Völgr]]:
 ![[Pasted image 20241105133507.png]]
 
 When most folk of the Etharis southlands think of Valika, they think of Clan Völgr, whether they know that name or not. The shape and power of the north is defined by the predations of Völgr raiders, and the attacks they’ve made against seaports, fishing villages, and river communities across the southlands of Etharis for generations. The clan is named for Völgr Clad-in-Iron, one of the Seven Heroes who slew the Great Prismatic Wyrm Gormadraug and gifted all Valika to the humanoids who now dwell there. Völgr was a legendary warrior, said to never remove the scarred black-iron full plate for which he was known, and trusting his companions to deal with all conflicts not best defeated with steel and blood. The folk of the north endure more than their share of such conflicts even today, and Völgr’s clan embraces that hardship more than those of any other clan. They are dedicated to the arts of battle and the thrill of violence—and to the knowledge that by the violence they offer to the world, they keep that world safe from ruin.
 
-[[Clan Mithra]]:
+- [[Clan Mithra]]:
 ![[Pasted image 20241105133434.png]]
 
 Clan Mithra Of all the clans of Valika, Mithra is the most cosmopolitan and the most inviting to people from beyond Valika’s borders. Governed by their elected leader Queen Andrea Helsing, the folk of Clan Mithra see themselves as a force for order in the chaos that surrounds them. While some view themselves as the light shining through the last vestiges of a dying world, others contend that the world has always been dying, gods or no, and the wisest course is to get on about the business of living well until death takes the last person standing. Named for Mithra of the Silver Harp, Clan Mithra takes the legacy of the musical ability and world-spanning knowledge of their namesake seriously. While there is no established college in Hrist, the Skald Library, where the Lord Edda was codified, is treated as a most holy place. Poetry and song competitions are common, and quarrels are frequently settled through flytings, rhyming battles-by-insult.
