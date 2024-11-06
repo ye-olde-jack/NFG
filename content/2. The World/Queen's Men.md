@@ -1,0 +1,3 @@
+![[Pasted image 20241105133834.png]]
+
+The [[Queen's Men]] are a loose affiliation between a hundred gangs of brigands, outlaws, and scoundrels, all of whom owe fealty to the enigmatic [[Queen of Thieves]]. These reprobates prey upon the pilgrims, prospectors, and explorers drawn to the city, extort and rob adventurers, smuggle [[delerium]] to disreputable clients in distant lands, and plunder the fantastic treasures and incredible wealth left behind in the city. The [[Queen of Thieves]] dreams of building an influential and powerful criminal empire forged in the anarchy and lawlessness of the ruins, and conspires against the other factions at every turn.

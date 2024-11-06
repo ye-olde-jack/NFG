@@ -1,0 +1,3 @@
+#NPCs #The_Sacred_Flame 
+Leader of the [[Faith of the Sacred Flame]]. Highest authority amongst the priesthood of the Sacred Fire, who tends the Cathedral of Saint Tarna in the holy city of [[Lumen]] in the land of [[Elyria]].
+> Although this represents the formal religious hierarchy, people of any gender identity may become clerics and paladins of the Sacred Flame and rise to positions of honor and reverence.
