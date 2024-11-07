@@ -1,5 +1,7 @@
 #Falling_Fire 
 
+![[Pasted image 20241105133629.png]]
+
 The annihilation of [[Drakkenheim]] incited a serious religious schism within the Faith of the Sacred Flame. A new sect has emerged known as the [[Followers of the Falling Fire]], who adhere to the prophecies of former Flamekeeper [[Lucretia Mathias]]. She attests that [[delerium]] is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated Lucretia Mathias and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan.
 
 # Ideals
