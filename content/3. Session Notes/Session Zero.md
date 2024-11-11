@@ -23,4 +23,4 @@
 # Campfire Stories
 - Emile D'Arlan: Trouble in [[Gueristicos]].
 - Thalia Bleakheart: The [[Knights of the Silver Order]] hunt the Exalted Darkness.
-- 
+- Rupert McNamara: Defending his home from invaders during the [[Civil War of Drakkenheim]].
