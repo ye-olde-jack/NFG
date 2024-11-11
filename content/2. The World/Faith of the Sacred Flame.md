@@ -9,7 +9,7 @@ Myths about the Sacred Flame have ancient roots, but the contemporary religion b
 # Beliefs and Tenets
 
 Faithful of the Sacred Flame do not worship a deity. Rather, devotees pray for guidance from a transcendent divine force that they believe is the source of all light and goodness. Symbolized as the Sacred Flame, this brilliant beacon inspires mortals to act with benevolence, honor, and righteousness. The religion brings a message of dutiful hope: even the smallest flame may light the way through the darkest night. The core tenets of the religion are conceptualized as follows:
-- **The Hearth** spreads compassion. One must nourish the hungry; offer shelter to the cold; and give succor to those who suffer. Spiritual warmth comes when the community is gathered together before the Flame as neighbors. h 
+- **The Hearth** spreads compassion. One must nourish the hungry; offer shelter to the cold; and give succor to those who suffer. Spiritual warmth comes when the community is gathered together before the Flame as neighbors. 
 - **The Lantern** illuminates the way of truth. The light reveals what is hidden by darkness, and shows the way to understanding. One should not silence truth, nor speak falsehoods.
 - **The Torch** displays the duty of all faithful to uphold the cause of justice. One cannot abide when evil stirs; nor stand idle when corruption spreads: callousness and indifference permit selfishness, greed, and hate to multiply.
 - **The Candle** symbolizes hope and redemption. Show those who are in darkness the light. Offer mercy to the guilty; no shadow is absolute so long as a flickering flame remains. 

@@ -1,1 +1,3 @@
 #Player_Character #Knights_Of_The_Silver_Order #The_Sacred_Flame 
+
+Recovered from [[Drakkenheim]] a year after the meteor fell, Thalia was lead into [[Emberwood Village]] Village by [[Flamekeeper Isaac]] where the two made a home for themselves at the [[Chapel of Saint Ardenna]]. She spent the following fourteen years growing her belief in the [[Faith of the Sacred Flame]] and flourished under the tutelage of Flamekeeper Isaac. Now, she has been sent to assist the [[Knights of the Silver Order]] where she was set under the study of [[Rupert McNamara]]. 
