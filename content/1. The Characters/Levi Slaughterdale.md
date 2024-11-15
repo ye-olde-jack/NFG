@@ -1,1 +1,3 @@
 #Player_Character #Queens_Men #Amethyst_Academy 
+
+Experimented upon by [[The Amethyst Academy]], Levi SlaughterDale was recognized by the [[WaterDale Troupe]] for his specific skills and capabilities. For some time, he worked with the Troupe, running job to job learning the inner workings of the city until a fateful encounter with a certain [[Doctor Archivel Gecker Mobius]]. Levi was then convinced to part ways with his Troupe, choosing to work alongside the Doctor after they made a deal. Against his better judgement, he remained with the Doctor after nearly being captured by the Amethyst Academy, and is using this newfound position to advance himself.
