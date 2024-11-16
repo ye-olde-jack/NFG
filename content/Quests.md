@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Escort [[Erin Marlowe]] to [[Emberwood Village]].
 
 
 ## Completed
