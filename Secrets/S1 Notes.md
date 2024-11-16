@@ -1,0 +1,11 @@
+# Bangs
+- Early meeting held when everyone had already arrived, character introductions.
+	- Rupert gone to meet with Emile, after securing position.
+	- Emile keeping draft horse at the side, steered to tree.
+	- Thalia posted nearby at the ready and waiting near van.
+	- Dr. Mobius previously in town, arriving as things are getting ready to go. Herding a goat.
+	- Levi tuning up bike on the outside.
+- During travel, Thalia makes a little charm for a brazier during the road trip.
+- Folk charms get taken by Levi and Dr. Mobius. Beaded necklace for Mobius, Levi taking a little prowler charm. 
+- Thalia befriends dog and does well on animal handling checks. Husky-type dog.
+- Discovery of odd rough patch of grass, Dr. Mobius identifies it as nature affected magic. 
