@@ -8,13 +8,13 @@
 	- Found a dog along the way.
 	- Saw a hawk watching us.
 - Stopped by radio tower where there was a short conversation with [[Flamekeeper Isaac]].
+	- Black Ivory Inn is running and business is booming. Heard from Flamekeeper Isaac.
 - Got some information from Erin Marlowe.
-	- Three new adventurers selling [[Delerium]] to a woman in the Red Lion inn.
-	- Selling potions from the Reed Manor.
-	- Dwarves mining south of the crater.
-	- Informed them about Gainsbury.
+	- Three new adventurers selling [[Delerium]] to a woman in the Red Lion inn. Heard from Erin Marlowe.
+	- Selling potions from the Reed Manor. Heard from Erin Marlowe.
+	- Dwarves mining south of the crater. Heard from Erin Marlowe.
+	- Informed them about Gainsbury. Heard from Erin Marlowe.
 	- Weird things happening in [[Gueristicos]], maybe caused by sorcerous houses.
-	- 
 - Met three failed adventurers coming from the city, previously five before they were injured.
 	- Rikard, [[Contamination]]-wrought man. Attacked in the middle of the night.
 	- Ludwig, noble of house Graff.
@@ -24,4 +24,7 @@
 - Learned a bit about the Pale Man.
 	- "The Noble Man, in his noble home. Withered, old, and all alone. His stare can chill you to the bone, a pale man on a pale throne."
 - Ended up approaching a crossroads by the end of the session.
-# Verbose
+
+# Quotes 
+"Of course, there's only one problem: I only have one helmet, and I never wear it." - Levi.
+"I have figured out religion!" - Dr. Mobius.
