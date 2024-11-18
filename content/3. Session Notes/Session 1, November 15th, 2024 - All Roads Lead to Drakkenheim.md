@@ -1,7 +1,7 @@
 
 
 # Bullets
-- Matt and Nick spent their tokens. 2/5 progress for Sean tokens. >:)
+- Matt and Nick spent their tokens. 2/5 progress for DM tokens. >:)
 - Campaign start: 11/15/14, end date 11/29/14.
 - Party all came together to help Ms. Erin Marlowe to help take her supplies from Altberg to [[Emberwood Village]] for the Feast of the Faithful.
 - Found an ancient battlefield a few days along the way.

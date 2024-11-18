@@ -7,5 +7,5 @@
 	- Levi tuning up bike on the outside.
 - During travel, Thalia makes a little charm for a brazier during the road trip.
 - Folk charms get taken by Levi and Dr. Mobius. Beaded necklace for Mobius, Levi taking a little prowler charm. 
-- Thalia befriends dog and does well on animal handling checks. Husky-type dog.
+- Thalia befriends dog and does well on animal handling checks. Husky-type dog. Make sure...
 - Discovery of odd rough patch of grass, Dr. Mobius identifies it as nature affected magic. 
