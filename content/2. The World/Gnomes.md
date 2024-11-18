@@ -1,0 +1,15 @@
+#Lore 
+
+Something happened to gnomes at the beginning of time. Some say that the god of kobolds hunted the gnomes nearly to extinction, and the few of them that remained fled to another plane, more wild than this one, to escape him. Others said that it was the gnome god who abandoned the gnomes in this wild plane after the gnomes greatly offended him, somehow managing to wipe the god’s perpetual smile off of his face and turning it into a scowl of anger.
+
+Whatever the actual reason is, it was lost to time and erased from all memory so that it can never be repeated, but it forever changed gnomish culture. While all gnomes are skittish, Drakkenheim gnomes take this to a new extreme. They hide away underground in the dark wilds below the surface, away from most creatures that roam the plane, but even this is not enough. Gnomes hide their faces from all by wearing masks that they never take off, even around those closest to them.
+
+Despite not even knowing what they are hiding from, hiding has become part of their culture, and they take great pride in their masks, seeing them as an extension of themselves. They animate them, using their tinkering abilities to reflect their emotions upon their masks, making them frown and smile along with their face. Gnomes only take their masks off when they feel an incredibly deep connection with someone, or upon their death.
+
+Gnomes’ fears were amplified by the other place they lived, but so was their innate gnomish curiosity. They call it their muse. They believe each and every one of them is born with one: an object of fascination that they simply must study and learn more from. A gnome crafts their mask when they’ve found their muse, making it in the muse’s image, and they dedicate their life to pursuing that muse.
+
+Gnomes with a useful muse ascend ranks quickly in both gnomish society as well as some others. There are stories of gnomes whose muse was the art of combat, and became impossibly great heroes, whereas others found their muse in medicine, or musical mastery. However, not all gnomes are quite as lucky. Some muses are not seen as valuable by as many, or by any, and this is a great source of angst among gnomes. Gnome parents discourage children from taking on any hobbies that they feel won’t lead to a good muse, and yet it still sometimes happens that a gnome finds their muse in something their culture doesn’t value. This is often a reason for gnomes to become adventurers, joining others whose muse requires them to travel to study it in more detail.
+
+There are even gnomes who can’t seem to ever find a muse, and go through life without donning a mask, though their peers shun them for it. These often leave too, in search of their muse elsewhere so that they may finally make a mask for themselves.
+
+Whatever the reason is for a gnome to leave the nest, and  whether they do it led by the invisible hand of their muse or by the lack thereof, they leave an indelible mark on anyone who meets their path. They're also referred to as 'pucks'.

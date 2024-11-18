@@ -1,0 +1,4 @@
+#Lore 
+
+Most of the population of the continent are humans, who range in all shapes, sizes, colors, skills, and beliefs. Humans tell countless tales of their origins, and tend to regard wherever they were born as home. They formed many of the great noble and royal houses of the continent, and the endless conflicts between these families have defined the political landscape of the realms. One such family, [[House von Kessel]], ruled [[Drakkenheim]] until the meteor and years of civil war ended their regal line. 
+	Humans have long mingled with other peoples, resulting in half-elves, half-orcs, and half-dragons. Though such people often bear distinct physical traits, such individuals are recognized for their shared human origin. Indeed, humanity has often intentionally sought to enhance their lineages. 

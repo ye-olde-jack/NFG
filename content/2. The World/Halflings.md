@@ -1,0 +1,3 @@
+#Lore 
+
+These smallfolk often form their own communities within settled lands, just as often as they live alongside the other people of the continent. Many live a rural life, tending farms, orchards, and fishing villages. Dozens of halfling villages surrounded Drakkenheim, the bounty of their fields feeding the city. Though these communities were not outright destroyed when the meteor struck, they have not escaped its devastation. The eldritch [[contamination]] spreading from the ruins and the threat of monstrous raiders have forced many smallfolk to abandon their homes. Their once-quaint underhill abodes and welcoming hamlets are now eerie ghost-towns.
