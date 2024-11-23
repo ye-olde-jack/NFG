@@ -23,6 +23,8 @@
 - Crunchy crits.
 	- Base weapon damage is maximized and added to a flat roll.
 	- Extra dice from features and spells are doubled, though not maximized.
+- Flanking.
+	- +2 when Flanking.
 - Known spells can be swapped out during a long rest.
 	- Update DM on swaps.
 
@@ -33,4 +35,5 @@
 - Emile D'Arlan: Trouble in [[Gueristicos]].
 - Thalia Bleakheart: The [[Knights of the Silver Order]] hunt the Exalted Darkness.
 - Rupert McNamara: Defending his home from invaders during the [[Civil War of Drakkenheim]].
+- Levi: Heist?
 - Doctor Archivel Gecker Mobius: Secret Smuggling Operation.
