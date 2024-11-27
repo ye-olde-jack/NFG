@@ -6,15 +6,16 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] Rescue Lieutenant Petra Lang
 
 
 ## In Progress
 
-- [ ] Escort [[Erin Marlowe]] to [[Emberwood Village]].
 
 
 ## Completed
 
+- [ ] Escort [[Erin Marlowe]] to [[Emberwood Village]].
 
 
 
