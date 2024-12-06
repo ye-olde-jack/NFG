@@ -1,7 +1,7 @@
 # Prep
 - # Step 1: Major Fronts
 A front is basically a villain or some kind of major issue. major issues can be something like an arcane disaster or natural catastrophe.
-	- Come up with 3 to 5 villains or major issues.
+	- Come up with 3 to 5 villains or major issues: Amiri, 
 	- Figure out the goal of each villain or the driving force behind each issue.
 	- For each front figure out 3 major milestones that they must reach in order to achieve their goals.
 - # Step 2: Major NPCs
@@ -32,6 +32,7 @@ Potential scenes that might come up during play
 	- Think of ways to include some of your PCs goals or motivations into the scene.
 - # Step 7: Plan out Minor Scenes
 Have a handful of filler events or encounters ready.
+**- Do a little transitional scene add-on that foreshadows some of the gnolls.**
 	- For each PC who's goal you weren't able to include in a major scene, develop a scene where they're able to further their goals.
 	- Roll for random encounters and have 1-2 of them ready for each hour of play.
 	- Prepare a very brief outline for transitional scenes, such as shopping or resting in town.
