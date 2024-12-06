@@ -11,7 +11,7 @@
 \- Hooded Lantern survey party makes an appearance and joins the revelry for a short while.
 4. Make a list of five topics of conversation.
 \- Stupid sauce conversation from Sonny and Teddy. Either have this at the general table or maybe in the Bark & Buzzard.
-\- Black Ivory Pub being back in business.
+\- [[Black Ivory Pub]] being back in business.
 \- Next falling fire Pilgrimage is gathering up soon.
 \- Recent Hanging that occurred with the Mageborn enchanting someone.
 \- Racket noise from Hooded Lanterns fixing their planes.

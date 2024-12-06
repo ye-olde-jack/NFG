@@ -1,5 +1,5 @@
 Age by start of campaign in November 15th, 1914: 
-[[The Amethyst Academy]]
+
 # Motivation and Beliefs
 #### Core Motivations
 
