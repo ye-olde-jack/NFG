@@ -1,0 +1,3 @@
+#Events 
+
+Before Saint Vitruvio's defense of Drakkenheim against the avatar of the Dragon Queen, he partook in a grand feast with his closest brothers and sisters in the Sacred Flame. The Sacred Flame reveres his bravery by hosting feasts within each city of Westemär. However, citizens of any faith and any social class are welcome to participate in and contribute to the feast. Eager chefs host friendly cooking competitions to prepare the finest appetizers, entrees, and desserts in all of [[Westemär]]. This holiday falls on November 30th.

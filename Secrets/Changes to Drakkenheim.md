@@ -69,7 +69,7 @@ These languages are codes, hand gestures, signs of respect, simple signals and e
 As per my write-up on my vision for dragons in a low-fantasy setting, it doesn’t involve language.
 
 #### Giant / Gnoll
-Let some monsters of the city have their own language, unknowable to the PCs. Special individuals might have some grasp of Westemaran, like the trolls that demand the troll toll. But for many cases, these monsters can be simple and misanthropic, with no room for negotiation or communication.
+Let some monsters of the city have their own language, unknowable to the PCs. Special individuals might have some grasp of Westemäran, like the trolls that demand the troll toll. But for many cases, these monsters can be simple and misanthropic, with no room for negotiation or communication.
 
 # Creatures
 #### Dragons
@@ -80,5 +80,3 @@ Let some monsters of the city have their own language, unknowable to the PCs. Sp
 
 #### Giants
 - Giants as a recent race, created by the Amethyst Academy in the last 300 years, still finding their place in the world. Only 10’-14’ tall instead of the traditional 30’ behemoths.
-
-#### 
