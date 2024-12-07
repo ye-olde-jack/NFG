@@ -1,26 +1,15 @@
-# Quick and Dirty: Feast of the Faithful
-1. Three to five places people can congregate: Chapel of St. Ardenna, Caravan Court, Red Lion Hotel, and the Bark and Buzzard.
-2. Make a list of ten characters: Flamekeeper Isaac, Ophelia Reed, Nathaniel Flint, Kuromi as Lies- the lieutenant, James Ockman, River, Tobias Crowe, Ansom Lang, Jared Walsh (Falling Fire book section NPC), Elijah Hendrix, and Married couple for Klar Bleakheart and Ceemal Bleakheart, people who would've been Thalia's adoptive parents. Tiefling man named Clarity AKA Clarence, Human woman named Mallory who was a sister-by-upbringing to Flamekeeper Hanna. Some Queen's Men at the Bark & Buzzard: Tommy, Sonny, Tony, Teddy. 
-3. Make a list of five events. 
-\- Reaction roll between Silver Order and Falling Fire people with potential influence between some PCs on those (Maybe Thalia for Silver Order and Rupert for Falling Fire) (Have Isaac suggest it). **Edit this one**
-\- Erin Marlowe and Aldor the Immense make a big toast together for the year to come as well as for thanks to the party of heroes that brought her to Emberwood- maybe Clarence and Mallory come over to say hi.
-\- Moment of giving thanks from St. Ardenna Flamekeepers. Ophelia Reed will come up to give thanks, potentially denounce Ardenna Flamekeepers for weird radio stuff and not letting them into town, leave it a little vague. Lucretia Mathias will tell the story of Saint Vitruvio or sing, read some verses from the Testament, then leave.
-- Verses to read are: **Include some verses**
-\- Maybe Kuromi is in town getting some components from Ockman or checking in to see what Levi is doing. Something subtle. This is the lieutenant, Lies.
-\- Aldor the Immense goes and maybe buys some food for everybody lmao. **Pick a different one.**
-\- Hooded Lantern survey party makes an appearance and joins the revelry for a short while.
-4. Make a list of five topics of conversation.
-\- Stupid sauce conversation from Sonny and Teddy. Either have this at the general table or maybe in the Bark & Buzzard.
-\- [[Black Ivory Pub]] being back in business.
-\- Next falling fire Pilgrimage is gathering up soon.
-\- Recent Hanging that occurred with the Mageborn enchanting someone.
-\- Racket noise from Hooded Lanterns fixing their planes.
-\- Top ten reasons to stay Faithful, number one get a look at Thalia's thighs.
+# Token Tracker
+- DM Tokens: 0. Progress: 2/5.
+- Nick: 2 Tokens.
+- Henri: 3 Tokens.
+- Joe: 3 Tokens.
+- Pat: 3 Tokens.
+- Nick: 2 Tokens.
 
 # Prep
 - # Step 1: Major Fronts
 A front is basically a villain or some kind of major issue. major issues can be something like an arcane disaster or natural catastrophe.
-	- Come up with 3 to 5 villains or major issues: Amiri, 
+	- Come up with 3 to 5 villains or major issues: Amiri, Ophelia Reed, Flamekeeper Isaac, Spencer D. Kramer, and Kramer- a second time.
 	- Figure out the goal of each villain or the driving force behind each issue.
 	- For each front figure out 3 major milestones that they must reach in order to achieve their goals.
 - # Step 2: Major NPCs
@@ -29,7 +18,7 @@ Major NPCs are those who will be driving the action of the stuff we're doing.
 	- For each front, create and flesh out an NPC opposing them. for villains this could be a rival. for issues this could be someone trying to prevent or prepare for the issue.
 	- For each NPC, determine whether or not there is a faction that exists for us and our characters to interact with.
 - # Step 3: World Events
-Keeping the rest of the world on Drakkenheim alive:
+Keeping the rest of the world on Drakkenheim alive: **Add a snippet about Arcadia during this.**
 	- Determine some major events that would be significant or interesting to some of our characters going on in town overall.
 	- Decide when and how our characters show up. decide what relevant events might've been going on during that time.
 	- Determine if there's some kind of special occasion or holiday occurring or approaching. maybe people are getting ready for or cleaning up after a holiday?

@@ -1,0 +1,1 @@
+Use the rival party as ways to shorten the game by doing other encounters in the Outer or Inner City.

@@ -1,7 +1,7 @@
 #location 
 
-![[Pasted image 20241115003815.png]]
-
+![[Pasted image 20241205215111.png]]
+![[Pasted image 20241205215308.png]]
 
 A safe haven where adventurers may rest, recuperate, and resupply between their adventures in [[Drakkenheim]]. Equipment, lodgings, spellcasting services, a few magic items, and other amenities are available from the many folk dwelling in the village.
 

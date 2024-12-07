@@ -114,7 +114,7 @@ What happens after the PCs have done their thing? What does everyone else do?
 	- Heard about Scion, but didn't immediately seek him out.
 		- Consequence: Good is that they potentially have a trail to follow that will exist before the group gets to the Inner City. Bad is that the Abominations potentially get another member.
 	- Didn't go and see the three people that Spencer D. Kramer was talking to.
-		- Consequence: 
+		- Consequence: They don't have the best info on Kramer anymore and see to want to keep quiet about Kramer, confidentiality stuff.
 - Did enter list
 	- Levi did read the letter that he got and plans to act on it.
 		- Consequence: Good is boons from Queen's Men like potential mundane items, payment for jobs, and having a fence to work with for selling stolen goods like Kuromi, a Levi NPC. Neutral or bad is River potentially catching sight of this going down.

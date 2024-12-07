@@ -1,4 +1,12 @@
 
+# Token Tracker
+- DM Tokens: 0. Progress: 2/5.
+- Nick: 2 Tokens.
+- Henri: 3 Tokens.
+- Joe: 3 Tokens.
+- Pat: 3 Tokens.
+- Nick: 2 Tokens.
+
 # Bullets
 - Started off session with seeing a woman run out for help, turned out to be bait. A woman named Mildred acted as bait.
 	- When going to help her, the leader of the bandits came out to negotiate the funds from the group. Transpired during a visit from Levi and Dr. Mobius towards the gallows.
