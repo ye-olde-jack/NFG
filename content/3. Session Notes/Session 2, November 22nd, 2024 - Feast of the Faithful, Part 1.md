@@ -23,7 +23,6 @@
 	- An academy ring will be sent and given to Dr. Mobius.
 	- Assessments for Levi should begin shortly.
 - At the Feast of the Faithful, there should be members both of the Falling Fire and the Knights of the Silver Order. 
-- Emile was asked by Captain Lang to look into the Rat's Nest Tavern, where a colony of Ratlings have nestled and taken Lieutenant Lang, his sister.
 - Session ended at early morning for the Feast of the Faithful, 11/30/14.
 # Quotes
 - "Get yourself an honest occupation." - Rupert McNamara.
