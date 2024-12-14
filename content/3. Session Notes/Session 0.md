@@ -27,6 +27,8 @@
 	- +2 when Flanking.
 - Known spells can be swapped out during a long rest.
 	- Update DM on swaps.
+- Surprise ruling:
+	- Disadvantage on initiative instead of no reaction, no turn.
 
 # Campfire Stories
 - Emile D'Arlan: Trouble in [[Gueristicos]].
