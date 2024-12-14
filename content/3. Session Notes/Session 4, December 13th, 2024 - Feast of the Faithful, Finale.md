@@ -1,0 +1,63 @@
+
+# Token Tracker 
+- DM Tokens: 1. Progress: 1/5.
+- Nick: 3 Tokens.
+- Henri: 3 Tokens.
+- Joe: 4 Tokens.
+- Pat: 4 Tokens. Down to three, used one. 
+- Matt: 3 Tokens. Down to two, used one.
+
+# Bullets
+- Levi was tasked by River to bring Rupert to her, to speak with.
+- Dr. Mobius purchased materials from Aldor the Immense after speaking with River and trying to find supplies for fireworks.
+- Rupert investigated the deconstruction of the front stage, around the same time Captain Ansom Lang went to speak.
+- Captain Ansom Lang addressed the public about Baron Bodrum, as well as wishing for a good year and to keep the Lanterns as faithful stewards of efforts to reclaim the city.
+- Flamekeeper Isaac spoke with Thalia about taking care of the Chapel before many visitors went inside.
+- Thalia helped fix up the interior and also noticed some folk coming into the Chapel, some of which were Falling Fire and among them was Honor- a friend of hers from the Chapel.
+- Levi then gathered Rupert for speaking with River.
+- River first addressed the crowd of villagers regarding the raise in purchasing of Delerium from the Academy, as well as the foretold denouncement and detainment of the malfeasant mage Oscar Yoren in Reed Manor.
+- From there, Rupert and River engaged in a lengthy discussion regarding potential employment and cooperation including the possibility of destroying Delerium. River offered a large sum of coin, as well as a dosage of a unique elixir that was Delerium fabricated. This included the prospect of future enchanted items too, if Rupert remains in employment.
+- Dr. Dobius came around during this time and had a funny little conversation with Levi about retrieving medicine and the party of Mal and Clarity with children.
+- After these conversations, there was a return to Emile who overheard some rumors within the Feast.
+	- Falling Fire followers spoke on the stepping down of the Regent in Elyria.
+	- The Arcadian Council in visiting Drakkenheim encountered Lucretia Matthias, and after receiving a prophecy from her. One joined the Silver Order, one went to the Shrine of the Morrigan, and the last traveled to Queen's Park Garden within the Inner City.
+	- Lord Commander left Emberwood Village, traveling back to Drakkenheim to deal with Gnoll incursion.
+	- Green lights in the city?
+	- Ironhelm Dwarves setting up shop in the scar, mining.
+- The conversation with Ophelia Reed and Emile then ended with potential plans to meet in the coming days. Emile excused himself after, to go speak with Tobias Crowe.
+- Around this time there was a biplane hijacked from the Hooded Lanterns, by the Queen's Men who proudly showed off a "Happy Feast of the Faithful from the Queen's Men."
+- When speaking with Tobias, he got a good amount of information.
+	- Kramer made an order about a month ago. The contents of which Emile would check the records of Tobias later.
+	- Tobias spoke of a man named 'Scion', one who was looking for Kramer within the last two days.
+	- Apparently Kramer was heading on an expeditionary force to the Inner City.
+- Thalia moves to protect Honor, her friend from the Chapel, when a plane flies overhead. 
+- Ophelia Reed bring Thalia to walk her into the Chapel, for a short discussion regarding the seed funds that go to Caravan Court and the scarcity. This conversation seemed to go well for them after some momentary hesitance.
+- Short conversation ensued regarding the Falling Fire as well as the Testament, which Honor read a part of.
+- Levi and Rupert then left to go retrieve Dr. Mobius. Conversation ensued about potential work for the Amethyst Academy, the acceptance of such, and the eagerness of Dr. Mobius to go and join the first trip into Drakkenheim.
+	- **Dr. Mobius then took a shower.**
+- Transitioning back to the Chapel, the High Flamekeeper Ophelia Reed gave an address regarding the Chapel of Saint Ardenna potentially casting unsavory radio broadcasts to part of Emberwood and Silver Order artificers intercepting such.
+	- A member of the crowd calls her out as a colonizer.
+	- Silver Order knight goes to strike down Falling Fire crowd member.
+	- Falling Fire chaplain then readied a Guiding Bolt to fire.
+	- Thalia grapples and disables Knight, as well as braces for Falling Fire bolt to hit. It misses.
+- Emile noticed some strange growing plants someone had in pots, abandoning this for the sudden spell explosion.
+- Inspector D'arlan then masterfully took people out of the Chapel, which was a natural twenty witnessed by several groups: Hooded Lanterns, Falling Fire, and Silver Order.
+- After this, everyone braced to leave.
+	- Thalia briefly went in to check on her hound and found it with Honor. She asked for Honor to think of some names and care for the hound while she was out of the village. Flamekeeper Isaac also shared an embrace with Thalia before this.
+	- Rupert spoke ill of the Silver Order and their poor handling of the address during the Feast of the Faithful.
+	- Emile spoke with Levi a little bit, noticing an odd determination within Levi. Despite noticing the attitude, Emile didn't press.
+	- Dr. Mobius briefly departed to speak with a member of the Falling Fire, Nathaniel Flint. They exchanged books, Dr. Mobius handing over a book on theology and magic and Nathaniel Flint handing over a pocket book of the Testament of the Falling Fire.
+	- Levi had a short correspondence with an old friend, Kuromi who had been disguised as Dr. Dobius.
+- From there, the party set out for their first trip to the City of Drakkenheim, to brave the Outer City and travel to the Rat's Nest Tavern.
+- Session ended at 1 PM for the Feast of the Faithful, 11/30/14.
+# Quotes
+- Emile:
+	- "Everyone! Calm yourselves, and get into an orderly line." - Emile organizing the panicked Chapel folk.
+- Levi:
+	- "Actually, I've decided this one's on the house!" - Levi to Erin about a cup of coffee.
+- Mobius:
+	- "Have a scientific day!" - Dr. Mobius to Nathaniel Flint.
+- Rupert:
+	- "My wife is DEAD." - Rupert to Levi, about being married.
+- Thalia:
+	- 

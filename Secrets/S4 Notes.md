@@ -1,10 +1,10 @@
 # Token Tracker
-- DM Tokens: 0. Progress: 4/5.
+- DM Tokens: 1. Progress: 0/5.
 - Nick: 3 Tokens.
 - Henri: 3 Tokens.
 - Joe: 4 Tokens.
-- Pat: 4 Tokens.
-- Matt: 3 Tokens.
+- Pat: 4 Tokens. Down to three, used one. 
+- Matt: 3 Tokens. Down to two, used one.
 
 # Token Bait:
 - Emile: Captain Ansom being frustrated with him, 
@@ -34,11 +34,11 @@ A front is basically a villain or some kind of major issue. major issues can be 
 			- Have guards around the Watchtower double their patrols to keep things safe.
 			- Secure a proper radio frequency.
 		- Flamekeeper Isaac (Sequential) (Succeeds if two out of three are met)
-			- Welcome in some of the Falling Fire to the Church, ensure that all are welcome within the Chapel of Saint Ardenna during the Feast of the Faithful. Small dig at Ophelia Reed with this.
-			- Abandon the construction effort of the stage outside and make sure all people are coming inside to do their sermon and speaking efforts.
+			- ~~Welcome in some of the Falling Fire to the Church, ensure that all are welcome within the Chapel of Saint Ardenna during the Feast of the Faithful. Small dig at Ophelia Reed with this.~~
+			~~- Abandon the construction effort of the stage outside and make sure all people are coming inside to do their sermon and speaking efforts.~~
 			- Put Ophelia Reed into question by putting Flamekeeper Hanna into a rough position, asking Hanna- "We are stewards of the flame and of Emberwood Village, it would be wrong to turn away from the tenet of the Candle as Saint Vitruvio embodies. Though our brothers and sisters of the Flame may put themselves to represent the Torch and the Lantern, each, we maintain a willingness to house both- is that not true, fellow Flamekeeper?"
 		- High Flamekeeper Ophelia Reed (Sequential) (Only succeeds if two out of three are met)
-			- Providing additional funds to Hanna in order to attract the business of additional caravans to keep Emberwood running. Hanna has to agree to this.
+			- ~~Providing additional funds to Hanna in order to attract the business of additional caravans to keep Emberwood running. Hanna has to agree to this.~~ Done.
 			- Engage in conversation about the last Flamekeeper, Flamekeeper Hoyt, who died some several years back due to corruption and contamination. Make an offering of a fresh brass brazier to commemorate his life and a new light for Emberwood Village under the Sacred Flame.
 			- Offer some additional personnel around the Church from thieves.
 		- Spencer D. Kramer
@@ -155,7 +155,7 @@ Potential scenes that might come up during play
 					- Levi:
 					- Mobius:
 					- Rupert:
-					- Thalia:
+					- Thalia: **Barbarian**
 		- Flamekeeper Isaac: Even amidst these words it cannot be called untrue to say we are stewards of the Flame and, also, of Emberwood Village. Just t would be wrong to turn away from the tenet of the Candle as Saint Vitruvio embodies. Though our brothers and sisters of the Flame may put themselves to represent the Torch and the Lantern, each, we maintain a willingness to house both- is that not true, fellow Flamekeeper?
 			- PC Motivations:
 					- Emile:
