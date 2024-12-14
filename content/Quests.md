@@ -15,6 +15,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Ensure the Feast of the Faithful goes smoothly.
+- [ ] Make fireworks for the Feast! (Dr. Mobius)
 
 
 ## Completed
