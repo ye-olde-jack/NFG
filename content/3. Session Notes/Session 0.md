@@ -28,9 +28,6 @@
 - Known spells can be swapped out during a long rest.
 	- Update DM on swaps.
 
-# Character Details
-- 
-
 # Campfire Stories
 - Emile D'Arlan: Trouble in [[Gueristicos]].
 - Thalia Bleakheart: The [[Knights of the Silver Order]] hunt the Exalted Darkness.

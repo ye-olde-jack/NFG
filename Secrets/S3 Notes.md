@@ -57,6 +57,23 @@ What can the PCs discover about the world and events?
 	- For each session, have at least 10 secrets or clues, but don't include where, when, or how those secrets or clues are discovered. Reveal them at moments that make sense in-game.
 - # Step 10: Aftermath
 What happens after the PCs have done their thing? What does everyone else do?
+
+Thalia
+- She saw Kuromi creeping after Emile, but didn't do anything about it when that moment transpired in real life.
+- She a brief conversation that happened between one party member and Tobias, but didn't do anything about it.
+- She saw a conversation that happened with Ophelia Reed. Didn't mention anything to do with it.
+- Saw the Academy Ring that Dr. Mobius got picked up from a table, as well as a view of the Inscrutable Tower through a window in the home of James Ockman.
+
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
+		- **No genuine scenes to enter. Flubbed that. **
 	- If the PCs changed one of the locations in a major way, such as clearing out a stronghold or dungeon, consider who or what will be waiting to take advantage of the new status quo.
 	- Consider possible ways to reveal this information to the PCs in the future.
+
+# Faction Action
+- Memberships
+	- Dr. Mobius allied with Amethyst Academy.
+	- Thalia and Rupert allied with Silver Order.
+	- Levi and Emile unaffiliated.
+- Actions:
+	- Dr. Mobius and Levi get caught out by Captain Ansom. Attention on them, but not yet negative standing or negative relationship.
+	- Emile got to talking with Ophelia Reed, putting him on her radar and opening up potential for Silver Order + Hooded Lantern relations.

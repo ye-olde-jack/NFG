@@ -26,3 +26,6 @@
 - Session ended at early morning for the Feast of the Faithful, 11/30/14.
 # Quotes
 - "Get yourself an honest occupation." - Rupert McNamara.
+
+# Achievements
+- **Border of the Sane World** - Arrive in Emberwood Village.

@@ -1,10 +1,10 @@
 
-# Token Tracker by end of session
-- DM Tokens: 0. Progress: 4/5. Two used during session.
+# Token Tracker 
+- DM Tokens: 0. Progress: 2/5. 
 - Nick: 2 Tokens.
 - Henri: 2 Tokens. Henri used one.
 - Joe: 3 Tokens.
-- Pat: 3 Tokens. Pat used one..
+- Pat: 3 Tokens. Pat used one and also gained one during the session.
 - Matt: 2 Tokens. 
 
 # Bullets
@@ -12,7 +12,10 @@
 - Then into a dream sequence with Thalia, where she saw a vision of a few things in town some of which are yet to come and was also asked a few questions.
 	- 
 - When the waking sequence happened, everyone ended up gathering into the same area- where Emile spoke with a few of the group to ask them for assistance on the trip to the Rat's Nest Tavern.
-- Mobius purchased a delerium collection pamphlet from River.
+- Mobius purchased a delerium collection pamphlet from River, as well as a newspaper.
+- In the newspaper, there was an explicit mention of two things to do with Caspia:
+	- First thing was the mention that the Happyhollow Circus in Caspia recently had several members disband the traveling entertainer group, as well as heading to Drakkenheim.
+	- Second thing was the unseasonal weather for winter. It details that Caspia is always a place to travel for the holidays to get away from the harsh winters of the northern continent the group is in.
 - A gunshot was heard and people rushed to the Watchtower of the Hooded Lanterns, where some arguments were overheard and the Lord Commander ordered Captain Lang to stand down, to have faith in the Lieutenant.
 	- Dr. Mobius and Levi attempted disguises and sneaking inside, to mixed success and eventual failure.
 	- Captain Ansom requested Emile stand down until further time passed.
