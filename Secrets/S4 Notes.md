@@ -237,11 +237,18 @@ What happens after the PCs have done their thing? What does everyone else do?
 # Faction Action + Status
 **Emile**
 Actions:
-	
+	Assisted exit of folk from the Chapel of Saint Ardenna during attack.
+		Happened in front of:
+		- Lucretia Mathias.
+		- Hooded Lantern patrol.
+		- Silver Order.
+	Is Hosting 
 Standing:
-- Amethyst Academy: Indifferent.
+- Amethyst Academy: Indifferent, business relationship.
 - Falling Fire: Indifferent.
+	- Interested in Emile.
 - Hooded Lanterns: Indifferent, almost allies. (Positive)
+	- Favorable to Emile.
 - Queen's Men: Adversaries.
 - Silver Order: Indifferent. (Positive leaning)
 

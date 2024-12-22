@@ -6,19 +6,19 @@ kanban-plugin: board
 
 ## To-Do
 
-- [ ] Rescue [[Lieutenant Petra Lang]] from [[Rat's Nest Tavern]].
+- [ ] > Rescue [[Lieutenant Petra Lang]] from [[Rat's Nest Tavern]].
 	
 	Rewards:
 	- Favor with Hooded Lanterns.
 	- Potential Delerium Loot.
 	- Scavenged supplies from the tavern.
 	- Magical consumables.
-- [ ] Speak with [[River]] about receiving an Academy Ring. (Levi)
+- [ ] >Speak with [[River]] about receiving an Academy Ring. (Levi)
 	
 	Rewards:
 	- Progress with Amethyst Academy Relationship.
-- [ ] Hunt down [[Spencer D. Kramer]].
-- [ ] Visit the [[Black Ivory Inn]].
+- [ ] > Hunt down [[Spencer D. Kramer]].
+- [ ] >Visit the [[Black Ivory Inn]].
 	
 	Rewards:
 	- Level up!
@@ -29,11 +29,11 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Ensure the Feast of the Faithful goes smoothly.
+- [ ] >Ensure the Feast of the Faithful goes smoothly.
 	
 	Rewards:
 	- Access to services at the [[Chapel of Saint Ardenna]].
-- [ ] Make fireworks for the Feast! (Dr. Mobius)
+- [ ] >Make fireworks for the Feast! (Dr. Mobius)
 	
 	Rewards:
 	- Favor with the Amethyst Academy.
