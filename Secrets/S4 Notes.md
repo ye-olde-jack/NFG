@@ -225,12 +225,12 @@ What can the PCs discover about the world and events?
 - # Step 10: Aftermath
 What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
-		- Captain Ansom: 
-		- Amiri:
-		- River:
-		- High Flamekeeper Ophelia Reed:
-		- Flamekeeper Isaac:
-		- Spencer D. Kramer:
+		- Captain Ansom: In Progress.
+		- Amiri: Succeeded.
+		- River: In Progress.
+		- High Flamekeeper Ophelia Reed: Failed.
+		- Flamekeeper Isaac: Succeeded.
+		- Spencer D. Kramer: In Progress.
 	- If the PCs changed one of the locations in a major way, such as clearing out a stronghold or dungeon, consider who or what will be waiting to take advantage of the new status quo.
 	- Consider possible ways to reveal this information to the PCs in the future.
 
