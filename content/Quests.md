@@ -6,38 +6,42 @@ kanban-plugin: board
 
 ## To-Do
 
-- [ ] > Rescue [[Lieutenant Petra Lang]] from [[Rat's Nest Tavern]].
+- [ ] - Speak with [[River]] about receiving an Academy Ring. (Levi)
 	
 	Rewards:
-	- Favor with Hooded Lanterns.
-	- Potential Delerium Loot.
-	- Scavenged supplies from the tavern.
-	- Magical consumables.
-- [ ] >Speak with [[River]] about receiving an Academy Ring. (Levi)
+	Progress with [[The Amethyst Academy]] relationship: opportunities for work and status.
+	Academy ring: valuable and provides magical bonus.
+	Cantrip learning opportunity.
+- [ ] - Hunt down [[Spencer D. Kramer]].
+- [ ] - Visit the [[Black Ivory Inn]].
 	
 	Rewards:
-	- Progress with Amethyst Academy Relationship.
-- [ ] > Hunt down [[Spencer D. Kramer]].
-- [ ] >Visit the [[Black Ivory Inn]].
-	
-	Rewards:
-	- Level up!
-	- Potential Delerium Loot.
-	- Magical consumables.
-	- 1 Uncommon magic item.
+	**Level up**!
+	Potential [[Delerium]] Loot.
+	Magical consumables.
+	Uncommon magic item.
 
 
 ## In Progress
 
-- [ ] >Ensure the Feast of the Faithful goes smoothly.
+- [ ] - Rescue [[Lieutenant Petra Lang]] from [[Rat's Nest Tavern]].
 	
 	Rewards:
-	- Access to services at the [[Chapel of Saint Ardenna]].
-- [ ] >Make fireworks for the Feast! (Dr. Mobius)
+	Favor with Hooded Lanterns.
+	Potential Delerium Loot.
+	Scavenged supplies from the tavern.
+	Magical consumables.
+- [ ] - Ensure the Feast of the Faithful goes smoothly.
 	
 	Rewards:
-	- Favor with the Amethyst Academy.
-	- Potential Favor with Emberwood Village.
+	Access to cheaper spell services at the [[Chapel of Saint Ardenna]].
+	Potential training opportunities within Silver Order.
+	Access to spell services or reward opportunities from Hendrix Farm.
+- [ ] - Make fireworks for the Feast! (Dr. Mobius)
+	
+	Rewards:
+	Favor with the Amethyst Academy: more work opportunities.
+	Favor with Emberwood Village: rumors regarding unique points in the Outer City and knowledge of resources in town.
 
 
 ## Completed

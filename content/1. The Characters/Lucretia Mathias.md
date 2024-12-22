@@ -1,3 +1,3 @@
 #NPCs #Falling_Fire
 
-Mystical prophet of the [[Followers of the Falling Fire]].
+Mystical prophet of the [[Falling Fire]].

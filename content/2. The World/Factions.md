@@ -6,10 +6,10 @@
 
 [[The Amethyst Academy]] is a magical school for sorcerers and wizards, where students learn magic in remote castles and secluded universities. Directed by a shadowy cabal of powerful archmages, [[The Amethyst Academy]] also operates an enterprising mage guild that controls the manufacture of magical wares, and orchestrates an influential arcane syndicate that provides occult counsel to the nobility of the continent. However, the Academy was dealt a terrible blow following [[Drakkenheim]]’s destruction, as the city was home to their greatest stronghold: the [[Inscrutable Tower]]. [[Archwizard Eldrick Runeweaver]] leads the Academy’s efforts to access the tower and safeguard the secret lore within. Meanwhile, their survey teams conduct ongoing research regarding [[delerium]]’s supernatural qualities and unknown dangers. The mages plan to harness the crystals’ vast energies to craft magical items and power new arcane spells.
 
-- [[Followers of the Falling Fire]]: 
+- [[Falling Fire]]: 
 ![[Pasted image 20241105133629.png]]
 
-The annihilation of [[Drakkenheim]] incited a serious religious schism within the Faith of the Sacred Flame. A new sect has emerged known as the [[Followers of the Falling Fire]], who adhere to the prophecies of former [[Lucretia Mathias]]. She attests that delerium is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated Lucretia Mathias and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan.
+The annihilation of [[Drakkenheim]] incited a serious religious schism within the Faith of the Sacred Flame. A new sect has emerged known as the [[Falling Fire]], who adhere to the prophecies of former [[Lucretia Mathias]]. She attests that delerium is a divine gift, not a blight, and that these sacred stones will offer salvation against a greater darkness yet to come. The mainstream clergy have excommunicated Lucretia Mathias and branded her followers as an insane cult with heretical beliefs and blasphemous practices. Even still, masses of devout commonfolk now embark on a dangerous pilgrimage to Drakkenheim to take their place in a divine plan.
 
 - [[Hooded Lanterns]]:
 ![[Pasted image 20241105133732.png]]

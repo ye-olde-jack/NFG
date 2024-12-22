@@ -5,7 +5,7 @@ In the world of Drakkenheim, divine spellcasting powers are not granted by gods.
 - In the world of Drakkenheim, gods do not physically manifest in the world, intervene in mortal affairs, or speak directly with mortals. Myths and legends passed down from distant eons tell such tales, but these events have not happened in recorded history. Instead, the inspired words of prophets, oracles, and heroes laid the foundations for the world’s many religions.
 - Powerful extraplanar entities such as archangels, demon lords, and outsiders exist and interact with mortals. Many extensively meddle in earthly matters, making pacts and offering dark counsel. Some even claim to be gods. When asked questions regarding the true nature of the cosmos or divinity, however, they speak in cryptic riddles.
 
-Dominant faith within the setting is the [[Faith of the Sacred Flame]], divided and represented within [[Drakkenheim]] by the [[Knights of the Silver Order]] and by the [[Followers of the Falling Fire]]. 
+Dominant faith within the setting is the [[Faith of the Sacred Flame]], divided and represented within [[Drakkenheim]] by the [[Knights of the Silver Order]] and by the [[Falling Fire]]. 
 
 # Other Religions
 Although many people keep the Flame, there are hundreds of smaller religions with disparate beliefs, doctrines, and practices. Here are some of the most notable:
