@@ -25,27 +25,27 @@ A front is basically a villain or some kind of major issue. major issues can be 
 		- Spencer D. Kramer Goal: Intimidate people from Emberwood from going to Drakkenheim and encourage leaving behind Delerium if they have any.
 		- River Goal: Make her Delerium purchasing services accessible for all persons present in Emberwood and seem reasonable for a Mageborn. Very demure, very mindful.
 	- For each front figure out 3 major milestones that they must reach in order to achieve their goals.
-		- Amiri (Sequential) (Succeeds regardless)
+		- Amiri (Sequential) (Succeeds regardless) **Succeeds**
 			- Have Kuromi purchase some improvised distractions from Aldor the Immense, likely be taking some of the funds from the Chapel of Saint Ardenna.
 			- Get Captain Ansom Lang (He does this himself) and the Lord Commander (He does this himself) away from the Watchtower.
 			- Make sure the guards for the airspace are distracted. Kuromi helps with this.
-		- Captain Ansom (In any order) (Succeeds if three out of three are met)
+		- Captain Ansom (In any order) (Succeeds if three out of three are met) **Never comes to fruition**
 			- Provide assurances to townsfolk that Baron Bodrum is no longer present in Emberwood and that the people can rest easy without heavy taxation.
 			- Have guards around the Watchtower double their patrols to keep things safe.
 			- Secure a proper radio frequency.
-		- Flamekeeper Isaac (Sequential) (Succeeds if two out of three are met)
+		- Flamekeeper Isaac (Sequential) (Succeeds if two out of three are met) **Succeeds**
 			- ~~Welcome in some of the Falling Fire to the Church, ensure that all are welcome within the Chapel of Saint Ardenna during the Feast of the Faithful. Small dig at Ophelia Reed with this.~~
 			~~- Abandon the construction effort of the stage outside and make sure all people are coming inside to do their sermon and speaking efforts.~~
 			- Put Ophelia Reed into question by putting Flamekeeper Hanna into a rough position, asking Hanna- "We are stewards of the flame and of Emberwood Village, it would be wrong to turn away from the tenet of the Candle as Saint Vitruvio embodies. Though our brothers and sisters of the Flame may put themselves to represent the Torch and the Lantern, each, we maintain a willingness to house both- is that not true, fellow Flamekeeper?"
-		- High Flamekeeper Ophelia Reed (Sequential) (Only succeeds if two out of three are met)
+		- High Flamekeeper Ophelia Reed (Sequential) (Only succeeds if two out of three are met) **Failed**
 			- ~~Providing additional funds to Hanna in order to attract the business of additional caravans to keep Emberwood running. Hanna has to agree to this.~~ Done.
 			- Engage in conversation about the last Flamekeeper, Flamekeeper Hoyt, who died some several years back due to corruption and contamination. Make an offering of a fresh brass brazier to commemorate his life and a new light for Emberwood Village under the Sacred Flame.
 			- Offer some additional personnel around the Church from thieves.
-		- Spencer D. Kramer
+		- Spencer D. Kramer **In Progress**
 			- Have a manic and contaminated individual, mutated Marcus (once a paladin), from the Falling Fire spread some more rumors around Emberwood Village regarding how dangerous the city is, and how water from the river are making travelers sick. (Foreshadow flood travel sequence)
 			- Fire off some spells to distract from the firework show. Especially good fireworks will distract from this but it will go down to a spellcasting check between Doctor Mobius and Kramer, who gets a +6 bonus.
 			- Introduce a few seeds that will grow in the soil of Emberwood. (These will become Twig Blights in several sessions, or some other hostile plant)
-		- River
+		- River **In progress**
 			- Have her showcase through a few banners that she offers a rate of 50% higher rewards in gold per the exchange of Delerium.
 			- Mention potential for cooperation of Ironhelm Dwarves prospecting in the scar.
 			- Denounce the Malfeasant mage within Reed Manor and make an announcement that gathering for a party of adventurers to solve the problem of his presence will be made public.
@@ -212,19 +212,25 @@ What can the PCs discover about the world and events?
 	- For each scene, come up with a secret that could give away important information.
 	- For each location, come up with a piece of history or information that could either help the PCs explore it, or lure them to it.
 	- For each session, have at least 10 secrets or clues, but don't include where, when, or how those secrets or clues are discovered. Reveal them at moments that make sense in-game.
-		1. Amiri's plane has some fuel with some Delerium in it.
+		1. ~~Amiri's plane has some fuel with some Delerium in it.~~
 		2. Kramer is the one throwing out fireballs and other spells along the outer city to scare people in Emberwood.
-		3. Amiri was the one who stole the plane, himself.
+		3. ~~Amiri was the one who stole the plane, himself.~~
 		4. Thieves' Cant can be something that either Emile or Rupert can learn about via a history check or something similar when looking at people. It's something to learn on a dice check, more likely for Emile.
 		5. The Rat's Nest used to be a pretty spotty dive bar that people who now serve as Queen's Men frequented.
 		6. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrilia Verdenta, and Neldor Willoweep.
 		7. Mageborn children from Elyria were actually rescued from some kind of cult.
 		8. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		9. Saint Vitruvio was once a farmer before he became a Saint.
-		10. Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.
+		10. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
 - # Step 10: Aftermath
 What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
+		- Captain Ansom: 
+		- Amiri:
+		- River:
+		- High Flamekeeper Ophelia Reed:
+		- Flamekeeper Isaac:
+		- Spencer D. Kramer:
 	- If the PCs changed one of the locations in a major way, such as clearing out a stronghold or dungeon, consider who or what will be waiting to take advantage of the new status quo.
 	- Consider possible ways to reveal this information to the PCs in the future.
 
