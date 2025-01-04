@@ -1,46 +1,66 @@
+# Top of Session Reminders
+- Emile:
+	- Ask what his exploits are.
+	- Find some good Fallout Instrumentals to add to the vibe.
+	- Talk up the city in a lot of big ways, how abandoned and wrecked it looks.
+	- **Choice:** How and if to help the Supply Convoy from the Hooded Lanterns. They're carrying mostly food with them, which is why the Ratlings attacked.
+- Levi:
+	- Refresh on spirits and talk about illusions.
+	- Use the Air Cucumber at some part of the session.
+	- Remember Random Encounters.
+	- Include Gas Wraith on bad roll.
+	- Include friendly air cucumber on good roll.
+	- **Choice:** How to interact with the Air Cucumber or spirits of Drakkenheim.
+- Mobius:
+	- Ask what his infusions are.
+	- Make sure there's neat delerium stuff going on.
+	- **Choice:** What to do with the Ratlings or more likely, the Delerium they find.
+- Rupert:
+	- All good, but give a good choice during the session.
+	- Funny moment: Ratlings doing the 'What is my purpose' bit. Answer, 'to watch the door' or do some other menial task.
+	- **Choice:** How to treat the ratlings if differently at all.
+		- Destroy Evil: Combat your Sworn Foes at every opportunity. Fight the greater evil.
+		- No Mercy: No mercy for your Sworn Foes. Defeat evil by any means necessary.
+		- Restitution: Make restitution for the evil of your Sworn Foes and other evildoers.
+	- **As a last resort, pull out Lenny if you have to.**
+- Thalia:
+	- All good.
+	- If contaminated, have a small flash to the 'Do you care if civilians get hurt?' scene and have there be some struggle internally.
+	- **Choice:** Contamination thing from above or doing something with the Ratlings.
+
 # Token Tracker
-- DM Tokens: 1. Progress: 0/5.
-- Nick: 3 Tokens.
-- Henri: 3 Tokens.
-- Joe: 4 Tokens.
-- Pat: 4 Tokens. Down to three, used one. 
-- Matt: 3 Tokens. Down to two, used one.
+- DM Tokens: 2. Progress: 2/5. +6
+- Nick: 1 Tokens. - 3
+- Henri: 2 Tokens. -2
+- Joe: 5 Tokens.
+- Pat: 3 Tokens. -1
+- Matt: 2 Tokens. -1
 
 # Token Bait:
-- Emile: Captain Ansom being frustrated with him, 
-- Levi: Kuromi trying to get away from Levi,
-- Mobius: Potential news on Delerium missing out on, 
-- Rupert: Silver Order seems distrustful of him,
-- Thalia: Flamekeeper Isaac disapproval, Hanna almost gets hurt, Honor at risk.
+- Emile:
+	- Equipment harm table.
+	- Potential contamination.
+- Levi:
+	- Equipment harm table.
+	- Potential contamination.
+- Mobius:
+	- Equipment harm table.
+	- Losing Delerium.
+	- Potential contamination.
+- Rupert:
+	- Equipment harm table.
+	- Potential contamination.
+- Thalia:
+	- Flamekeeper Isaac disapproval.
+	- Hanna almost gets hurt.
+	- Honor at risk.
+	- Potential contamination.
 
 # Prep
-- # Step 1: Major Fronts
+- # Step 1: Major Fronts (Done)
 A front is basically a villain or some kind of major issue. major issues can be something like an arcane disaster or natural catastrophe.
 	- Come up with 3 to 5 villains or major issues: Amiri, Ophelia Reed, Flamekeeper Isaac, Spencer D. Kramer, River, and Captain Ansom.
-	- Figure out the goal of each villain or the driving force behind each issue.
-		- Amiri Goal: Make away with a plane before the end of the Feast of the Faithful. Kuromi is going to either cause a distraction or be at the front to sell some Delerium to Aldor for smoke bombs or improvised explosives.
-		- Captain Ansom Goal: Impress his father through some means before the end of the session. Do well in the Feast of the Faithful town relations.
-		- Flamekeeper Isaac Goal: Ensure that the riot breaks out between the Falling Fire and Silver Order, and that the Silver Order guard gets to killing one of the Falling Fire people so that they are incriminated in the midst of the Feast. He knows Ophelia Reed plans to try doing the same and will one-up her.
-		- High Flamekeeper Ophelia Reed Goal: Convince Hanna to join the Silver Order.
-		- Spencer D. Kramer Goal: Intimidate people from Emberwood from going to Drakkenheim and encourage leaving behind Delerium if they have any.
-		- River Goal: Make her Delerium purchasing services accessible for all persons present in Emberwood and seem reasonable for a Mageborn. Very demure, very mindful.
-	- For each front figure out 3 major milestones that they must reach in order to achieve their goals.
-		- Amiri (Sequential) (Succeeds regardless) **Succeeds**
-			- Have Kuromi purchase some improvised distractions from Aldor the Immense, likely be taking some of the funds from the Chapel of Saint Ardenna.
-			- Get Captain Ansom Lang (He does this himself) and the Lord Commander (He does this himself) away from the Watchtower.
-			- Make sure the guards for the airspace are distracted. Kuromi helps with this.
-		- Captain Ansom (In any order) (Succeeds if three out of three are met) **Never comes to fruition**
-			- Provide assurances to townsfolk that Baron Bodrum is no longer present in Emberwood and that the people can rest easy without heavy taxation.
-			- Have guards around the Watchtower double their patrols to keep things safe.
-			- Secure a proper radio frequency.
-		- Flamekeeper Isaac (Sequential) (Succeeds if two out of three are met) **Succeeds**
-			- ~~Welcome in some of the Falling Fire to the Church, ensure that all are welcome within the Chapel of Saint Ardenna during the Feast of the Faithful. Small dig at Ophelia Reed with this.~~
-			~~- Abandon the construction effort of the stage outside and make sure all people are coming inside to do their sermon and speaking efforts.~~
-			- Put Ophelia Reed into question by putting Flamekeeper Hanna into a rough position, asking Hanna- "We are stewards of the flame and of Emberwood Village, it would be wrong to turn away from the tenet of the Candle as Saint Vitruvio embodies. Though our brothers and sisters of the Flame may put themselves to represent the Torch and the Lantern, each, we maintain a willingness to house both- is that not true, fellow Flamekeeper?"
-		- High Flamekeeper Ophelia Reed (Sequential) (Only succeeds if two out of three are met) **Failed**
-			- ~~Providing additional funds to Hanna in order to attract the business of additional caravans to keep Emberwood running. Hanna has to agree to this.~~ Done.
-			- Engage in conversation about the last Flamekeeper, Flamekeeper Hoyt, who died some several years back due to corruption and contamination. Make an offering of a fresh brass brazier to commemorate his life and a new light for Emberwood Village under the Sacred Flame.
-			- Offer some additional personnel around the Church from thieves.
+	- For Amiri, Ophelia, Isaac, and Ansom: see session four notes.
 		- Spencer D. Kramer **In Progress**
 			- Have a manic and contaminated individual, mutated Marcus (once a paladin), from the Falling Fire spread some more rumors around Emberwood Village regarding how dangerous the city is, and how water from the river are making travelers sick. (Foreshadow flood travel sequence)
 			- Fire off some spells to distract from the firework show. Especially good fireworks will distract from this but it will go down to a spellcasting check between Doctor Mobius and Kramer, who gets a +6 bonus.
@@ -49,7 +69,7 @@ A front is basically a villain or some kind of major issue. major issues can be 
 			- Have her showcase through a few banners that she offers a rate of 50% higher rewards in gold per the exchange of Delerium.
 			- Mention potential for cooperation of Ironhelm Dwarves prospecting in the scar.
 			- Denounce the Malfeasant mage within Reed Manor and make an announcement that gathering for a party of adventurers to solve the problem of his presence will be made public.
-- # Step 2: Major NPCs
+- # Step 2: Major NPCs (Done)
 Major NPCs are those who will be driving the action of the stuff we're doing.
 	- Flesh out the NPC leading each front: some of this is already done.
 		- Current leads
@@ -66,13 +86,15 @@ Major NPCs are those who will be driving the action of the stuff we're doing.
 		- Flamekeeper Isaac: Opposing Silver Order
 	- For each NPC, determine whether or not there is a faction that exists for us and our characters to interact with.
 		- **Completed**
-- # Step 3: World Events
-Keeping the rest of the world on Drakkenheim alive: **Add a snippet about Arcadia during this.**
-	- Determine some major events that would be significant or interesting to some of our characters going on in town overall.
-		- **Lord Commander leaves Emberwood to regroup forces by Shepherd's Gate, apparently on watch for attacks from Gnolls to the Outer City.**
+- # Step 3: World Events (In Progress)
+Keeping the rest of the world on Drakkenheim alive:
+	- Determine some major events that would be significant or interesting to some of our characters going on in Drakkenheim overall.
+		- **The Hooded Lantern group stationed as a supply gang has no clue what day it is and has been hosting bets between each other whether they would be making it back home in time for the Feast of the Faithful.**
+		- **Rumors that a man with seven eyes tends to the sick in an old water treatment facility. Some say people have even come away from it without the touch of contamination.**
+		- ~~**Lord Commander leaves Emberwood to regroup forces by Shepherd's Gate, apparently on watch for attacks from Gnolls to the Outer City.**~~
 		- **Knight Captain apparently leading forces within Camp Dawn on strenuous training sequence, ensuring they are prepared for anything to come.**
 			- Can be found out on DC 13-15 check of some kind: Was apparently requested to stay there by Ophelia Reed.
-		- **Lucretia Matthias apparently met with some representatives from Arcadia that have since split up after hearing a prophecy from her. Unknown what the prophecy is, but the previous three member Council of Arcadia has split to join the Silver Order, retire to the Shrine of the Morrigan, and travel to Queen's Park Garden.**
+		- ~~**Lucretia Matthias apparently met with some representatives from Arcadia that have since split up after hearing a prophecy from her. Unknown what the prophecy is, but the previous three member Council of Arcadia has split to join the Silver Order, retire to the Shrine of the Morrigan, and travel to Queen's Park Garden.**~~
 		- **The name of Eldrick Runeweaver once again thanked as personally present for the receiving of Mageborn from Elyria. A recent discovery of multiple mageborn has lead to a successful validation for the Edicts of Lumen as the children get handed over to representatives of the Amethyst Academy. The children are all coming from a cult that got busted and murdered but that's way less public.**
 		- Elyria include a recent adjudication for the Lord Regent being elected anew, parade for Knights of the Silver Order having gone by and clean-up is beginning.
 		- Caspia includes the sorcererous houses in a frenzy after some killings done by the notorious Spencer D. Kramer, specifically House Bajavi (Illusions and Necromancy), House Gauth (Evocation and Abjuration), and House Eyerul (Conjuration and Divination).
@@ -81,13 +103,13 @@ Keeping the rest of the world on Drakkenheim alive: **Add a snippet about Arcadi
 		- Day is November 30th, 1914.
 	- Determine if there's some kind of special occasion or holiday occurring or approaching. maybe people are getting ready for or cleaning up after a holiday?
 		- People are getting ready to clean up after the Feast. Most are going to be shaken from some of the recent events, but not a lot of people are stressing over it and took time to clear away from being near the Chapel as a result.
-- # Step 4: PCs current goals and plans
+- # Step 4: PCs current goals and plans (Done)
 	- Where is your character currently?
-		- Thalia is standing by and providing assistance toward moving the different parts of the Feast of the Faithful into range for the Feast.
-		- Rupert is moving things for the Feast.
+		- Thalia is heading into Drakkenheim with the rest of the party, having just finished assisting in the eventful part of the Feast and being told to head into the City by Flamekeeper Isaac.
+		- Rupert is coming with the rest of the group into Drakkenheim, having corralled a lot of the party during the Feast and kept up with some NPCs like Ophelia and Isaac.
 		- Dr. Mobius is attempting to get fireworks together for the Feast to do some decent celebrating and call an appealing look to be cast on the academy.
-		- Levi is securing supplies for the travel into the Outer City.
-		- Emile is trying to secure support from Ophelia Reed and also do some flirting, mostly to get her on his side.
+		- Levi secured the Rope Trick scroll with help from Dr. Mobius. He's bringing his bike, Jessica, into the city with him.
+		- Emile is heading into the city after having calmed down multiple members of the Chapel post events during the Feast.
 	- What are they trying to get to or where are they trying to go?
 		- Thalia is trying to get to the Chapel and is there, mostly to be present for the feast. Hanna is going to suggest Thalia uphold her values as she sees fit to.
 		- Rupert is going to try fighting against the monsters within Drakkenheim. He wants to kill powerful creatures.
@@ -97,15 +119,12 @@ Keeping the rest of the world on Drakkenheim alive: **Add a snippet about Arcadi
 	- What are they trying to accomplish?
 		- Thalia wants to keep people safe and uphold her values, even at the cost of herself.
 		- Rupert wants to destroy delerium and fight monsters.
-		- Dr. Mobius wants to get people to look favorably upon the academy.
-		- Levi is trying to help Emile rescue Petra Lang.
+		- Dr. Mobius wants to get people to look favorably upon the academy. He also wants to get some Delerium and the crystal for River.
+		- Levi is trying to help Emile rescue Petra Lang. Getting some money is also on his priority list.
 		- Emile is trying to save Petra Lang and the rest of the supply line.
 	- Determine who, if anyone, is trying to stop them.
-		- **Flamekeeper Isaac is trying to stop Thalia**, mostly by throwing her into a situation where she gets to read some of the Testament and where her dog might get hurt by someone from the Silver Order. It's not his top priority but whatever happens, happens.
-		- **River is trying to stop Rupert** by getting him on board for the trip to the Rat's Nest tavern. This is going to be by trying to get him on board for learning how to destroy delerium.
-		- **Spencer D. Kramer is trying to stop Dr. Mobius** by outdoing him, as always.
-		- **Kuromi is trying to stop Levi** if he sees that Levi is in a rush, get a thieves' cant shorthand ready for this. Probably by getting him to steal from one of the members of a rival adventuring party, likely Clarity and Mal's.
-- # Step 5: NPCs current goals and plans
+		- Oops! All Ratlings.
+- # Step 5: NPCs current goals and plans (Done)
 What have the major NPCs been up to?
 	- Decide what plans they have been making.
 		- **Completed.**
@@ -122,25 +141,9 @@ What have the major NPCs been up to?
 			- Host some presence around the Bark & Buzzard.
 		- Flamekeeper Isaac: Opposing Silver Order
 			- Follow through with his existing agenda in the plans phase.
-- # Step 6: Major Scenes
+- # Step 6: Major Scenes (Done)
 Potential scenes that might come up during play
 	- For each Front, develop a scene of them moving forward their plans in some way. don't include how PCs end up in the scene.
-		- Captain Ansom (First)
-			- "Ansom walks from the market stalls and is in the midst of quickly finishing off a Caspian meat skewer before taking a breath, clearing his throat, and saying aloud- "Baron Bodrum shall no longer ail Emberwood in the same way he did in ages past! Conversations and requests from prior nobles of the Inner and Outer City of Drakkenheim have broached an agreement that will have the Baron retire from the Village for the foreseeable future! Due notice given, the Hooded Lanterns cordially wish the people of Emberwood a good year to come and will continue to be the bright stewards assisting in a rightful reclamation!" 
-				- PC Motivations:
-					- Emile: Baron Bodrum was a nasty guy that made it difficult for any of the factions to do much of anything in Emberwood but his recent absence means that they can.
-					- Levi: Baron Bodrum was someone who routinely paid well for the capture and release of various thieves from Emberwood Village. Him being gone makes work easier.
-					- Mobius: Baron Bodrum was a routine hater of Mageborn and imposed the most severe punishments on all individuals who bore magic talent. Even going so far as to not make the Academy aware of Mageborn talent, something that's supposedly a rumor and under investigation.
-					- Rupert: Baron Bodrum was known for the intense sale and recreational use of Delerium in many things, as well as the keeping of different monstrous creatures retrieved from the city.
-					- Thalia: Flamekeeper Isaac just doesn't like the guy.
-		- Amiri 
-			- "By the far side of the Emberwood Village, another crack nearly like a gunshot attracts little to no attention from those currently feasting and making merry: but it's the sudden shouts from members of the Hooded Lanterns that does succeed in turning a few heads. Coming down the airway with a few individuals chasing after an aged looking biplane are a few soldiers, stopping as the plane begins taking to the air, and they ready rifles to fire but stop at a sudden cry of 'Don't fire!' from Captain Ansom. Despite calling off his fellow Lanterns, his face looks angriest up at the Plane, scowl deepening further when it unfurls a banner behind it which reads 'Happy Feast of the Faithful from the Queen's Men!'"
-				- PC Motivations:
-					- Emile: Getting that Plane back will be a major mission for the Hooded Lanterns.
-					- Levi: It's Amiri, so that helps him live rent-free in Levi's head.
-					- Mobius: Something perhaps seems a bit amiss with the engine of the plane by the sounds it's making. Visible off a DC 15 Arcana check is that the smoke coming from the rear looks to have some type of odd smoke.
-					- Rupert: A small grinning delerium monster is painted onto the side of the plane and the person flying in the back almost looks familiar.
-					- Thalia: The plane nearly clips the weathervane on the top of the Chapel of Saint Ardenna but steers out of the way.
 		- River:
 			- "Curt whispers and a few odd stares go in the direction of the tiefling woman bearing five academy rings on the hand she gestures behind her with, to a large construct standing at her side at attention bearing over the many feast goers and folk trying to enjoy their meals. "Delerium sale prices have risen fifty percent and will remain so until the dawn of the new year. Expect a notice for the cooperation with the Ironhelm dwarves within the Scar, as well as a separate notice for the retrieval and detainment of the malfeasant mage Oscar Yoren, open to any who would count themselves brave enough to travel through the Outer City towards Reed Manor. Flame... be with you, and have an amenable Feast."
 				- PC Motivations:
@@ -163,7 +166,7 @@ Potential scenes that might come up during play
 					- Mobius:
 					- Rupert:
 					- Thalia:
-		- Spencer D. Kramer:
+		- Spencer D. Kramer: A lot of the witchfires are burning along the multitudinous parts of the outer city. Monsters seem to be pulling closer to them,
 			- PC Motivations:
 					- Emile:
 					- Levi:
@@ -171,22 +174,15 @@ Potential scenes that might come up during play
 					- Rupert:
 					- Thalia:
 	- Consider a possible timeline for each scene relative to the ones other people do. these don't need to be set in stone.
-		- Captain Ansom
-		- Into River
-		- River interrupted by Amiri.
-		- 
 	- Figure out what would happen if the PCs never entered this scene. for example, what happens if the front succeeds? would that bring about one of their major milestones?
 	- Think of ways to include some of your PCs goals or motivations into the scene.
-- # Step 7: Plan out Minor Scenes
+- # Step 7: Plan out Minor Scenes (Done)
 Have a handful of filler events or encounters ready.
 	- For each PC who's goal you weren't able to include in a major scene, develop a scene where they're able to further their goals.
-		- Rupert gets a talking to from River at the Red Lion Hotel, who communicates some of the following while he's there in town:
-			- The Rat's Nest tavern could be a job opportunity for the both of them.
-			- She's seen him speaking with Dr. Mobius and Levi, which seems to at least not be hostile.
-			- Not only is this a money making opportunity but it's a destruction of Delerium opportunity. Aqua Delerium is presently available in addition to the trade of 1250 gold, which will be upped to 1500 gold if Rupert can organize a group about it. 
+		- R
 	- Roll for random encounters and have 1-2 of them ready for each hour of play.
 	- Prepare a very brief outline for transitional scenes, such as shopping or resting in town.
-- # Step 8: Scene Backgrounds
+- # Step 8: Scene Backgrounds (In Progress)
 Further develop each scene.
 	- For each scene, find or create a suitable map for the surrounding location if needed, such as a dungeon or a town map. **Needing color.**
 	- Write a description or background for each scene.
@@ -207,22 +203,23 @@ Further develop each scene.
 		- **Kinda did that.**
 	- Choose music or ambience for each encounter and scene.
 		- DO THIS!!!
-- # Step 9: Secrets and Clues
+- # Step 9: Secrets and Clues (In Progress)
 What can the PCs discover about the world and events?
 	- For each scene, come up with a secret that could give away important information.
 	- For each location, come up with a piece of history or information that could either help the PCs explore it, or lure them to it.
 	- For each session, have at least 10 secrets or clues, but don't include where, when, or how those secrets or clues are discovered. Reveal them at moments that make sense in-game.
 		1. ~~Amiri's plane has some fuel with some Delerium in it.~~
-		2. Kramer is the one throwing out fireballs and other spells along the outer city to scare people in Emberwood.
-		3. ~~Amiri was the one who stole the plane, himself.~~
-		4. Thieves' Cant can be something that either Emile or Rupert can learn about via a history check or something similar when looking at people. It's something to learn on a dice check, more likely for Emile.
-		5. The Rat's Nest used to be a pretty spotty dive bar that people who now serve as Queen's Men frequented.
-		6. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrilia Verdenta, and Neldor Willoweep.
-		7. Mageborn children from Elyria were actually rescued from some kind of cult.
-		8. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
-		9. Saint Vitruvio was once a farmer before he became a Saint.
-		10. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
-- # Step 10: Aftermath
+		2. The green fires from Kramer are a variant of Witchfires which will be part of a a little fey spirit event within Drakkenheim where some spirits are let out into the world to do things and cause little mischiefs; A lot of the materials that he was gathering from Tobias were going to go into witchfire supplies.
+		3. Kramer is the one throwing out fireballs and other spells along the outer city to scare people in Emberwood.
+		4. ~~Amiri was the one who stole the plane, himself.~~
+		5. Thieves' Cant can be something that either Emile or Rupert can learn about via a history check or something similar when looking at people. It's something to learn on a dice check, more likely for Emile.
+		6. The Rat's Nest used to be a pretty spotty dive bar that people who now serve as Queen's Men frequented.
+		7. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrilia Verdenta, and Neldor Willoweep.
+		8. Mageborn children from Elyria were actually rescued from some kind of cult.
+		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
+		10. Saint Vitruvio was once a farmer before he became a Saint.
+		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
+- # Step 10: Aftermath (In Progress)
 What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
 		- Captain Ansom: In Progress.
@@ -237,12 +234,7 @@ What happens after the PCs have done their thing? What does everyone else do?
 # Faction Action + Status
 **Emile**
 Actions:
-	Assisted exit of folk from the Chapel of Saint Ardenna during attack.
-		Happened in front of:
-		- Lucretia Mathias.
-		- Hooded Lantern patrol.
-		- Silver Order.
-	Is Hosting 
+	
 Standing:
 - Amethyst Academy: Indifferent, business relationship.
 - Falling Fire: Indifferent.
@@ -254,8 +246,7 @@ Standing:
 
 **Levi**
 Actions:
-	Spoke with one of two Queen's Men faction Lieutenants, Kuromi. Had an amiable conversation and was accepting to some work from Kuromi.
-	No other faction interactions. 
+	
 Standing:
 - Amethyst Academy: Indifferent, almost allies. (Neutral until visiting Outer City)
 - Falling Fire: Indifferent.
@@ -265,7 +256,7 @@ Standing:
 
 **Mobius**
 Actions:
-	Cashed in a favor on Rope Trick spell scroll.
+	
 Standing:
 - Amethyst Academy: Allies. (Positive Leaning)
 - Falling Fire: Indifferent.
@@ -275,8 +266,7 @@ Standing:
 
 **Rupert**
 Actions:
-	Had positive conversation and was present for interacting with Ophelia Reed.
-	Talked down some potential hostilities from Flamekeeper Isaac.
+	
 Standing:
 - Amethyst Academy: Indifferent. (Ally potential if River secures his support)
 - Falling Fire: Indifferent.
@@ -286,7 +276,7 @@ Standing:
 
 **Thalia**
 Actions:
-	Performed a major save in front of both religious groups.
+	
 Standing:
 - Amethyst Academy: Indifferent.
 - Falling Fire: Indifferent. (Positive leaning)
