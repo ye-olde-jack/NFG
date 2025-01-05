@@ -22,6 +22,7 @@
 		- Dr. Mobius set up a firework to distract the monsters, which he was able to do without accidentally routing the Hooded Lanterns thanks to the efforts of Emile.
 		- Thalia managing to momentarily daze a Haze Hulk.
 	- Party departs from skill challenge after attempt to double back, moving on to Scrag Lane.
+		- On the way out they noticed one individual, Rupert recognizing Officer Yannick, a curmudgeon from the days of the civil war.
 	- Scrag Lane was where the party found the Rat's Nest Tavern- a mere shadow of what it once was and a small show of what a fragment of a meteor could do to the city.
 	- Preparing themselves to the enter the tavern and discussing the opportunity of working with Ratlings, the party ventured forwards in a marching line up until Rupert encountered the slip and slide, throwing out his back.
 		- Discovered six delerium chips along the way!
