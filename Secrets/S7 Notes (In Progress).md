@@ -1,4 +1,9 @@
 # Top of Session Reminders (In Progress)
+1. Walk through potential for cool scars with Matt and Henri. 
+	1. When someone lands a natural twenty on a player, it leaves a scar. Upon natural 20, roll 1d4. On a 1, no scar. 2 is a small scar, like a nick or something that could get passed off as a birthmark. 3 is a medium scar, cannot deny it, more visible thing like large burn over the arm or slash over the eye. 4 is a massive scar, noticeable, like Zuko from Avatar. Then use d6 or d8 to pick what part of body, like head is 1, arm is 2, torso three, other arm 4, etc.
+- Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
+	- Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.
+- 
 - Emile:
 	- Talk up the city in a lot of big ways, how abandoned and wrecked it looks.
 	- **Choice:** What to do regarding the message Kramer is going to give him.

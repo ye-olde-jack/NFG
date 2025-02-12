@@ -30,3 +30,4 @@ Birthday: TBD
 #### Pest
 
 # Extra
+- Thalia does the black hole thing when activating radiant consumption if contaminated enough.

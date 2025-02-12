@@ -2,7 +2,7 @@
 
 ## Milemarkers
 
-- **The Border of the Sane World**. Arrive in Emberwood Village.
+- **The Border of the Sane World**. Arrive in Emberwood Village. 
 - **First Foray.** Arrive in the Outer City.
 - **Beyond the Walls.** Arrive in the Inner City.
 - **The Twisted Realm**. Arrive in an area of Deep Haze.
