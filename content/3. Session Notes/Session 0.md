@@ -7,14 +7,14 @@
 # Agreed upon Home Rules
 - Non-Lethal attacks are made with disadvantage, enemies have advantage on any saving throws from non-lethal attacks, and advantage on any ability checks per DM ruling.
 - When using healing potions, a bonus action leads to rolling health from the potion and an action leads to taking the full amount the potion would provide. As a result, healing potions are less frequent and rare.
-- Point system: https://docs.google.com/document/d/1nf1Ap_JZEOa9NExeGznkTLxzShiyklWdlfgZmJGTTpA/edit
+- Fate Point system: https://docs.google.com/document/d/1nf1Ap_JZEOa9NExeGznkTLxzShiyklWdlfgZmJGTTpA/edit
 	- List will progressively get added to over the course of the game.
 	- When leveling up or during investment of downtime, a discussion can be brought up for group uses for points. Development needs to happen for this option to be made available.
 - Research/Training is available during downtime through expenditure of resources such as time, gold, maybe points from the homebrew points rule, or material components in game. Possible Results from Research/Training:
 	- Creating new spells.
 	- Improving preexisting spells.
 	- Improving preexisting class abilities.
-	- Creating magic or mundane items.
+	- Creating magic or mundane items. (Detailed below)
 	- Learning new facts about the city, delirium, the Haze, or other unknown phenomena.
 - Death saves are rolled behind the screen, between DM and dying player to know.
 - Prone revision.
@@ -29,6 +29,16 @@
 	- Update DM on swaps.
 - Surprise ruling:
 	- Disadvantage on initiative instead of no reaction, no turn.
+
+# Potential Home Rules
+Crafting system:
+- Mundane items take a week to two weeks of downtime, to craft depending on resources and assets. Artificers half this time, potentially quartering it.
+- Easier to work on magic items if having personal residence.
+- For crafting, Common and Uncommon takes around a month to two months. Common takes components or gold, Uncommon takes more components and more gold.
+- Delerium changes the month measurement down to one week.
+- Common can take only 1d4 weeks/days (no delerium/delerium) with extra effort like checks and such. Occupies more focus.
+Insight rolls:
+- Some might get done out of view of players. They still get to roll, but DM sees the result only.
 
 # Campfire Stories
 - Emile D'Arlan: Trouble in [[Gueristicos]].

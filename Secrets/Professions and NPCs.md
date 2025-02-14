@@ -19,7 +19,7 @@
 	- Is playing hard to get with Hans, the Baker.
 	- Drak native.
 	- 'Von Brauer' family used to be minor nobles but sold their land for a trade deal. Also business name is Von Brauer's.
-- M-Osswald: **Weinbauer** (Winemaker) – Important in regions like the Rhineland and Bavaria.
+- M-Osswald Rajiv: **Weinbauer** (Winemaker) – Important in regions like the Rhineland and Bavaria.
 	- Has his eye on Enlein.
 	- Caspian, imports wine.
 	- Doesn't actually make much but imports and exports wine. Has a lot of old vintages.

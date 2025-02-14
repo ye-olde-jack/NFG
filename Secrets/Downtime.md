@@ -1,0 +1,28 @@
+# Luyarnha System
+- Hospital table is good for the Falling Fire.
+	- Hanna sometimes goes to assist them.
+	- Mallory will fuck with.
+	- Clarence will fuck with.
+	- Jupiter Jack will fuck with.
+- Scion Lecture is good for the Academy.
+	- For now, the wizard Remark offers temporary teaching measures at Eventide with River observing.
+	- Remark will fuck with.
+- Rescue Refugees is good for the Queen's Men.
+	- Edelgard will fuck with.
+	- Mallory will fuck with.
+- Militia Patrol is good for Hooded Lanterns. Maybe also Silver Order.
+	- Edelgard will fuck with.
+	- Jupiter Jack will fuck with.
+- Grand Colosseum is good for the Silver Order.
+	- Edelgard will fuck with.
+	- Jupiter Jack will fuck with. (Discombobulate.)
+	- Clarence will fuck with.
+- Craft a Manikin changed to Craft a Spellbound. Good for Academy.
+	- Remark will fuck with.
+	- Edelgard will fuck with.
+- Carouse in Black Market Dens good for Hooded Lanterns or Queen's Men.
+	- Jupiter Jack will fuck with.
+	- Mallory will fuck with.
+- Radiant Church Ceremony is good for Silver Order or Falling Fire.
+	- Mallory will fuck with.
+	- Edelgard will fuck with.
