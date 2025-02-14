@@ -1,6 +1,7 @@
 # Top of Session Reminders (In Progress)
 1. Walk through potential for cool scars with Matt and Henri. 
 	1. When someone lands a natural twenty on a player, it leaves a scar. Upon natural 20, roll 1d4. On a 1, no scar. 2 is a small scar, like a nick or something that could get passed off as a birthmark. 3 is a medium scar, cannot deny it, more visible thing like large burn over the arm or slash over the eye. 4 is a massive scar, noticeable, like Zuko from Avatar. Then use d6 or d8 to pick what part of body, like head is 1, arm is 2, torso three, other arm 4, etc.
+2. For specific circumstances or moments, Insight rolls will be made in such a fashion that only the DM will be able to see the result.
 - Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
 	- Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.
 - 
@@ -8,9 +9,11 @@
 	- Talk up the city in a lot of big ways, how abandoned and wrecked it looks.
 	- **Choice:** What to do regarding the message Kramer is going to give him.
 		- Kramer will talk about...
-	- **Item reward:** Larg and Schultz Mk. II "Hamstring" or "Bushwhacker."
+	- **Item reward:** Larg and Schultz Mk. II "Hamstring" or "Bushwhacker." Rifle reward.
 	- Spend gold on Firearm modifications from the Gunslinger Document.
 - Levi:
+		- Beguiling Influence - Beguiling Igniter, Trinket is a little pocket lighter that he will use to start conversations, cooking fires, or offer a light for a smoke.
+		- Sylvan Speech - Spirit Speech, Trinket is his original Inspector badge that a few spirits he can suddenly see come to bless.
 	- Refresh on spirits and talk about illusions.
 	- Talk about the Mobius death with the party. How this factors into the trinket that Levi got very long time ago, and how this brought in the influence of a Great Spirit.
 	- **Choice:** Downtime.
@@ -24,28 +27,25 @@
 - Rupert:
 	- All good, but give a good choice during the session.
 	- Funny moment: Ratlings doing the 'What is my purpose' bit. Answer, 'to watch the door' or do some other menial task.
-	- **Choice:** How to treat the ratlings if differently at all.
-		- Destroy Evil: Combat your Sworn Foes at every opportunity. Fight the greater evil.
-		- No Mercy: No mercy for your Sworn Foes. Defeat evil by any means necessary.
-		- Restitution: Make restitution for the evil of your Sworn Foes and other evildoers.
+	- **Choice:** Find one
 	- **As a last resort, pull out Lenny if you have to.**
 	- **Item reward:** 
 		- A session of training and healing, either something that supplements learning another Fighting Style, or a brassard that provides enough status from local militia that Rupert can add 1d4 to persuasion or intimidation twice per day. He can potentially spend gold (300 or so) on the thing from Ryoko's either in the Reach Mastery or stuff that his Halberd can do from the weapon enhancements before the masteries.
 		- Aqua Delerium. In addition to that, first Uncommon item on the condition he accepts another job from River.
-		- Bernard's Brassard / Tin Knuckle medallion: Provides d4 bonus to intimidation and persuasion checks, charge based and can be used once per day on humanoids in and around Drakkenheim when worn by someone armorclad from the war.
-			- **Ask Henri if this should be a medal that he had a copy of during the civil war.** If it's a medal, it's something earned for holding a line against the beasts of Drakkenheim.
+		- Tin Knuckle Brassard: Provides d4 bonus to intimidation and persuasion checks, charge based and can be used once per day on humanoids in and around Drakkenheim when worn by someone armorclad from the war.
+			- Rupert had a copy of during the civil war. It's something earned for holding a line against the beasts of Drakkenheim.
 - Thalia:
 	- **Choice:** Contamination thing from above or doing something with the Ratlings.
 	- **Item reward:** Some progress towards learning more fighting stuff, either Executioner or Hammering Blow from the Ryoko's document.
 	- Gold can get spent on supplementing the chapel or with learning new fighting techniques alongside Rupert.
 
 # Token Tracker
-- DM Tokens: 2. Progress: 3/5.
+- DM Tokens: 3. Progress: 2/5.
 - Nick: 5 Tokens. 
 - Henri: 3 Tokens.
-- Joe: 5 Tokens. -1
-- Pat: 4 Tokens.
-- Matt: 3 Tokens.
+- Joe: 1 Tokens.
+- Pat: 3 Tokens.
+- Matt: 2 Tokens.
 
 # Token Bait:
 - Emile:
@@ -73,7 +73,7 @@
 	- Downtime complications.
 
 # Prep
-- # Step 1: Major Fronts (Done)
+- # Step 1: Major Fronts (In Progress at 2/5)
 A front is basically a villain or some kind of major issue. major issues can be something like an arcane disaster or natural catastrophe.
 	- Come up with 3 to 5 villains or major issues: Amiri, Ophelia Reed, Flamekeeper Isaac, Spencer D. Kramer, River, and Captain Ansom.
 	- For Amiri, Ophelia, Isaac, and Ansom: see session four notes.
@@ -85,7 +85,7 @@ A front is basically a villain or some kind of major issue. major issues can be 
 			- Have her showcase through a few banners that she offers a rate of 50% higher rewards in gold per the exchange of Delerium.
 			- Mention potential for cooperation of Ironhelm Dwarves prospecting in the scar.
 			- Denounce the Malfeasant mage within Reed Manor and make an announcement that gathering for a party of adventurers to solve the problem of his presence will be made public.
-- # Step 2: Major NPCs (Done)
+- # Step 2: Major NPCs (In Progress 2/3) (Do reading on NPCs night before)
 Major NPCs are those who will be driving the action of the stuff we're doing.
 	- Flesh out the NPC leading each front: some of this is already done.
 		- Current leads
@@ -101,18 +101,18 @@ Major NPCs are those who will be driving the action of the stuff we're doing.
 		- Captain Ansom: Opposing Queen's Men
 		- Flamekeeper Isaac: Opposing Silver Order
 	- For each NPC, determine whether or not there is a faction that exists for us and our characters to interact with.
-		- **Completed**
+		- **Completed**.
 - # Step 3: World Events (In Progress: Read up on Alexandrian Downtime + Watch 3 Vids below)
 - Dungeon Coach DC 20 Video.
-- Runesmith Video.
-- Matt Colville video on downtime, plus the one on making towns.
+- Matt Colville video on on making towns.
 Keeping the rest of the world on Drakkenheim alive:
 	- Determine some major events that would be significant or interesting to some of our characters going on in Drakkenheim overall.
 		- **Rumors that a man with seven eyes tends to the sick in an old water treatment facility. Some say people have even come away from it without the touch of contamination.**
 		- **Knight Captain apparently leading forces within Camp Dawn on strenuous training sequence, ensuring they are prepared for anything to come.**
-			- Can be found out on DC 13-15 check of some kind: Was apparently requested to stay there by Ophelia Reed.
+			- Can be found out on DC 13-15 check of some kind: Was apparently requested to stay there by Ophelia Reed in turn to his own request for her to .
 		- **The name of Eldrick Runeweaver once again thanked as personally present for the receiving of Mageborn from Elyria. A recent discovery of multiple mageborn has lead to a successful validation for the Edicts of Lumen as the children get handed over to representatives of the Amethyst Academy. The children are all coming from a cult that got busted and murdered but that's way less public.**
 		- Trade relations with the nearing continent of Kislev are booming in this post-war era.
+		- Come May of 1915, the next Caspian Kingsmoot will occur. Some families and a variety of kingdoms within Caspia are already settling into gear for this 
 	- Determine what day, season, year, etc. it currently is.
 		- Day is November 30th, 1914. 9 days from that day, River will have another mission.
 	- Determine if there's some kind of special occasion or holiday occurring or approaching. maybe people are getting ready for or cleaning up after a holiday?
@@ -202,25 +202,38 @@ What have the major NPCs been up to?
 			- Host some presence around the Bark & Buzzard.
 		- Flamekeeper Isaac: Opposing Silver Order
 			- Follow through with his existing agenda in the plans phase.
-- # Step 6: Major Scenes (Done)
+- # Step 6: Major Scenes (In Progress)
 Potential scenes that might come up during play
 	- For each Front, develop a scene of them moving forward their plans in some way. don't include how PCs end up in the scene.
-		- River:
-			- "Curt whispers and a few odd stares go in the direction of the tiefling woman bearing five academy rings on the hand she gestures behind her with, to a large construct standing at her side at attention bearing over the many feast goers and folk trying to enjoy their meals. "Delerium sale prices have risen fifty percent and will remain so until the dawn of the new year. Expect a notice for the cooperation with the Ironhelm dwarves within the Scar, as well as a separate notice for the retrieval and detainment of the malfeasant mage Oscar Yoren, open to any who would count themselves brave enough to travel through the Outer City towards Reed Manor. Flame... be with you, and have an amenable Feast."
+		- Amiri:
 				- PC Motivations:
 					- Emile: 
-					- Levi: Interest in Delerium.
-					- Mobius: Interest in the Academy.
-					- Rupert: Interest in Delerium.
-					- Thalia: Mutual thing with Rupert, maybe. Especially with the chance to do away with the Ironhelm dwarves.
+					- Levi: 
+					- Mobius: 
+					- Rupert: 
+					- Thalia: 
+		- Ansom Lang:
+				- PC Motivations:
+					- Emile: 
+					- Levi: 
+					- Mobius: 
+					- Rupert: 
+					- Thalia: 
+		- River:
+				- PC Motivations:
+					- Emile: 
+					- Levi: 
+					- Mobius: 
+					- Rupert: 
+					- Thalia: 
 		- High Flamekeeper Ophelia Reed:
-			- PC Motivations: *Play an instrumental of Stand by Me:* "Denying the trouble and the times of the past year and years before it would be an ignorance unto the Lantern by which the way is lit, and it is my solemn duty to ensure that this light shines not only to recognize all of you here but to show what among you that you may have yet seen. Entrenched within this Chapel, this monument to Saint Ardenna, is the Candle... and I am sorry to say that it hath cast a shadow that our torch had yet found. For our wire-wrights within the bounds of Camp Dawn so kept away by the same who holds aloft that shadow casting Candle. Given the opportunity to come forward and clear the air, I have no doubt they would bring to light a fitting means to show focus in the flame and secret away the truth towards the *Shadow.* How much I can say without diverting thine eyes from the bounty our Heart brings you, I know not, though I have an ease in my heart and an assurance in my step that those who wish to take their ears and minds to align with truth- join me for a short time before I away to cultivate light to bring by this shaded community."
+			- PC Motivations: 
 					- Emile:
 					- Levi:
 					- Mobius:
 					- Rupert:
-					- Thalia: **Barbarian**
-		- Flamekeeper Isaac: Even amidst these words it cannot be called untrue to say we are stewards of the Flame and, also, of Emberwood Village. Just t would be wrong to turn away from the tenet of the Candle as Saint Vitruvio embodies. Though our brothers and sisters of the Flame may put themselves to represent the Torch and the Lantern, each, we maintain a willingness to house both- is that not true, fellow Flamekeeper?
+					- Thalia: 
+		- Flamekeeper Isaac: 
 			- PC Motivations:
 					- Emile:
 					- Levi:
@@ -237,7 +250,7 @@ Potential scenes that might come up during play
 	- Consider a possible timeline for each scene relative to the ones other people do. these don't need to be set in stone.
 	- Figure out what would happen if the PCs never entered this scene. for example, what happens if the front succeeds? would that bring about one of their major milestones?
 	- Think of ways to include some of your PCs goals or motivations into the scene.
-- # Step 7: Plan out Minor Scenes (Done)
+- # Step 7: Plan out Minor Scenes (In Progress)
 Have a handful of filler events or encounters ready.
 	- For each PC who's goal you weren't able to include in a major scene, develop a scene where they're able to further their goals.
 		- Rupert gets a short dialogue with Kramer about his wife and about 
@@ -249,6 +262,9 @@ Have a handful of filler events or encounters ready.
 Further develop each scene.
 	- For each scene, find or create a suitable map for the surrounding location if needed, such as a dungeon or a town map. **Needing color.**
 	- Write a description or background for each scene.
+		- Hendrix Farm:
+		- Watchtower:
+		- Crowe and Sons:
 		- Chapel of Saint Ardenna: 
 			- **Exterior**: "Located at the heart of Emberwood Village is a small chapel of the Sacred Flame. The circular fieldstone building has a copper domed rooftop, thin windows set with stained glass depicting a few modest scenes of saints, and simple wooden double doors at the front. Outside is a small crematory garden and scattering plot for the ashes of the dead."
 			- **Interior**: "Within the chapel is a well-used bronze brazier of the Sacred Flame, alight with golden fire that burns all night and day."
@@ -265,7 +281,21 @@ Further develop each scene.
 	- Select possible battle-maps for encounters.
 		- **Kinda did that.**
 	- Choose music or ambience for each encounter and scene.
-		- DO THIS!!!
+		- For general town: https://www.youtube.com/watch?v=iWXTf8zZ0Og
+		- For Red Lion hotel:
+		- For Caravan Court:
+			- Main tavern playlist.
+			- Something from Darkest Dungeon on the lighter side. Maybe lofi mix?
+		- For Bark & Buzzard:
+		  For Crowe and Sons:
+			- ~~Home depot theme.~~
+			- 
+		- For Chapel of Saint Ardenna:
+			- Firelink Shrine + Chill Elden Ring music.
+		- For Hendrix Farm:
+			- Basic track for the town should work.
+		- For Watchtower:
+			- Maybe some warhammer 40K lofi mix?
 - # Step 9: Secrets and Clues (In Progress)
 What can the PCs discover about the world and events?
 	- For each scene, come up with a secret that could give away important information.
@@ -294,7 +324,7 @@ What happens after the PCs have done their thing? What does everyone else do?
 	- If the PCs changed one of the locations in a major way, such as clearing out a stronghold or dungeon, consider who or what will be waiting to take advantage of the new status quo.
 	- Consider possible ways to reveal this information to the PCs in the future.
 
-# Faction Action + Status
+# Faction Action + Status by Start of game
 **Emile**
 Actions:
 	
@@ -302,6 +332,7 @@ Standing:
 - Amethyst Academy: Indifferent, business relationship.
 - Falling Fire: Indifferent.
 	- Interested in Emile.
+	- Lucretia Mathias has noted him.
 - Hooded Lanterns: Indifferent, almost allies. (Positive)
 	- Favorable to Emile.
 - Queen's Men: Adversaries.

@@ -219,34 +219,40 @@ What can the PCs discover about the world and events?
 		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		10. Saint Vitruvio was once a farmer before he became a Saint.
 		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
-- # Step 10: Aftermath (In Progress)
+- # Step 10: Aftermath (Done)
 What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
-		- Captain Ansom: In Progress.
+		- Captain Ansom: Pyrrhic success. Lost a plane, mostly fail.
 		- Amiri: Succeeded.
-		- River: In Progress.
+		- River: Succeeded.
 		- High Flamekeeper Ophelia Reed: Failed.
 		- Flamekeeper Isaac: Succeeded.
-		- Spencer D. Kramer: In Progress.
+		- Spencer D. Kramer: Failed, due to Rat's Nest being overtaken.
 	- If the PCs changed one of the locations in a major way, such as clearing out a stronghold or dungeon, consider who or what will be waiting to take advantage of the new status quo.
+		- Ratlings added to random encounter potential. Lenny was the Son of the ratling they choked and also was the person who repaired the bike after it got broke. Got told cool stories about the guy. Baby Lenny was hiding under the gramophone in the very first room.
+		- Something strange escaped from the Rat's Nest tavern below, where there was a past research area of a Sorcerer-King. No footprints but there was a glowing trail of viscous purple liquid.
 	- Consider possible ways to reveal this information to the PCs in the future.
+		- They meet Lenny via random encounter.
+		- If they discover it via a random encounter then they get to see the signs and interact with it either now or later. If they don't get it via random encounter, then Kramer gets first dibs on interactions.
 
 # Faction Action + Status
 **Emile**
 Actions:
-	
+	Helped save Petra Lang.
+	Killed scores of Ratlings.
 Standing:
 - Amethyst Academy: Indifferent, business relationship.
 - Falling Fire: Indifferent.
 	- Interested in Emile.
-- Hooded Lanterns: Indifferent, almost allies. (Positive)
+- Hooded Lanterns: Indifferent, basically allies. (Positive)
 	- Favorable to Emile.
 - Queen's Men: Adversaries.
 - Silver Order: Indifferent. (Positive leaning)
 
 **Levi**
 Actions:
-	
+	Helped save Petra Lang.
+	Killed scores of Ratlings.
 Standing:
 - Amethyst Academy: Indifferent, almost allies. (Neutral until visiting Outer City)
 - Falling Fire: Indifferent.
@@ -256,17 +262,21 @@ Standing:
 
 **Mobius**
 Actions:
-	
+	Helped save Petra Lang.
+	Killed scores of Ratlings.
+	Assisted in destroying a false idol.
 Standing:
 - Amethyst Academy: Allies. (Positive Leaning)
 - Falling Fire: Indifferent.
 - Hooded Lanterns: Indifferent. (Negative Leaning)
 - Queen's Men: Indifferent.
-- Silver Order: Indifferent. (Suspicious of him)
+- Silver Order: Indifferent, interested. (Suspicious of him)
+	- Appreciated idol destruction.
 
 **Rupert**
 Actions:
-	
+	Helped save Petra Lang.
+	Killed scores of Ratlings.
 Standing:
 - Amethyst Academy: Indifferent. (Ally potential if River secures his support)
 - Falling Fire: Indifferent.
@@ -276,12 +286,17 @@ Standing:
 
 **Thalia**
 Actions:
-	
+	Helped save Petra Lang.
+	Killed scores of Ratlings.
+	Destroyed a false idol.
 Standing:
 - Amethyst Academy: Indifferent.
+	- Helped recover Delerium.
 - Falling Fire: Indifferent. (Positive leaning)
 - Hooded Lanterns: Indifferent.
 - Queen's Men: Indifferent.
 - Silver Order: Allies. (Neutral)
+	- Appreciated idol destruction.
+	- Requires verbal commitment to further relationship, separate of Isaac.
 
 
