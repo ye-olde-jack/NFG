@@ -1,3 +1,5 @@
+#Lore 
+
 - **Arcane Magic**
 The arcane magic of sorcerers and wizards draws upon otherworldly energies. The ability to tap into these forces is reliant on a recessive genetic trait in mortals - such individuals are called [[mageborn]]. Signs that a person is mageborn typically emerge in late childhood or early puberty, usually as random displays of wild magic. In some rare cases it does not develop until adulthood. Mortals who lack the mageborn gene cannot become sorcerers or wizards under any circumstances. 
    By the [[Edicts of Lumen]], it is [[the Amethyst Academy]] takes guardianship over any child born in the realms who manifests magical ability, whether they are a royal heir or commoner. A child who bristles against Academy training — or who was not taken in by them — most often becomes a sorcerer. 

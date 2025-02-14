@@ -2,13 +2,13 @@
 
 ## Milemarkers
 
-- **The Border of the Sane World**. Arrive in Emberwood Village. 
-- **First Foray.** Arrive in the Outer City.
+- **The Border of the Sane World**. ==Arrive in Emberwood Village.== 
+- **First Foray.** ==Arrive in the Outer City.==
 - **Beyond the Walls.** Arrive in the Inner City.
 - **The Twisted Realm**. Arrive in an area of Deep Haze.
 - **The Heart of the World**. Arrive in the Academy Tower, Crater, or Castle.
-- **Otherworldly Prize.** Retrieve 100 gp worth of delerium.
-- **Eldritch Treasures.** Retrieve 1000 gp worth of delerium.
+- **Otherworldly Prize.** ==Retrieve 100 gp worth of delerium.==
+- **Eldritch Treasures.** ==Retrieve 1000 gp worth of delerium.
 - **Wealth from Beyond the Stars.** Retrieve 5000 gp worth of delerium.
 
 # Factions
@@ -31,7 +31,7 @@
 
 # Foes
 
-- **Long Live the Prince.** Kill or ally with the Rat Prince.
+- **Long Live the Prince.** ==Kill or ally with the Rat Prince.
 - **Corruption and Death.** Kill or ally with Oscar Yoren.
 - **The Lost One.** Kill or spare Lenore.
 - **Master Mutant.** Kill or ally with the Pale Man.
@@ -50,7 +50,7 @@
 - **A Hero Falls.** A PC dies.
 - **Back From Beyond.** A dead PC returns to life.
 - **No Survivors.** All PCs die.
-- **A Touch of Corruption.** A PC mutates.
+- **A Touch of Corruption.** ==A PC mutates.
 - **Farewell, my Humanity.** A PC undergoes a Monstrous Transformation.
 - **Defeated.** All PCs are nonlethally struck down.
 - **I Couldn't Save Them.** An ally of the PCs is killed.

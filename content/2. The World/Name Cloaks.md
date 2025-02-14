@@ -1,3 +1,5 @@
+#Lore #Amethyst_Academy 
+
 When Wizards who study magic at the Amethyst Academy graduate from their base studies and choose a subclass they undergo a magical ceremony to protect their name and shield them from divination or influence that hinges on a name. This protection is the Name Cloak.
 
 The Wizard chooses a word to become their name, and by tradition almost all graduating Wizards choose a word that begins with the letter A. Prominent examples are Acerbic, Angular, Amethyst, and Arch. The exceptions to this tradition are Wizards who don’t continue their studies at the Academy—voluntarily or otherwise.

@@ -1,3 +1,3 @@
 #location #Drakkenheim 
 
-Within [[Drakkenheim]] and south of Shepherd's Way lies a tavern, where a colony of Ratlings has apparently grown.
+Within [[Drakkenheim]] and south of Shepherd's Way lies a tavern, where a colony of Ratlings has apparently grown. Prior residence of the Rat Prince and his coterie of rodent supplicants, though after a visit from the party something else may grow in their absence...

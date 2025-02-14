@@ -1,7 +1,7 @@
 Party Renown with Groups:
-- Amethyst Academy: 0.
-- Falling Fire: 0.
-- Hooded Lanterns: 0.
-- Queen's Men: 0.
-- Silver Order: 0.
+- Amethyst Academy: 0. +1 from Rat's Nest.
+- Falling Fire: 0. Cautiously optimistic after Feast.
+- Hooded Lanterns: 0. Neutral after Rat's Nest, Ansom distrusts still.
+- Queen's Men: 0. Curious in party. 
+- Silver Order: 0. Cautious after Feast of the Faithful.
 

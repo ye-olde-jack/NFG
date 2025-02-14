@@ -76,9 +76,10 @@
 	- Potential contamination.
 	- Downtime complications.
 
+
 # Prep
 - # Step 1: Major Fronts (In Progress at 5/6) Do the last in the morning.
-A front is basically a villain or some kind of major issue. major issues can be something like an arcane disaster or natural catastrophe.
+	A front is basically a villain or some kind of major issue. major issues can be something like an arcane disaster or natural catastrophe.
 	- Come up with 3 to 5 villains or major issues: Amiri, Ophelia Reed, Nathaniel Flint, Spencer D. Kramer, River, and Captain Ansom.
 	- For Amiri, Ophelia, Isaac, and Ansom: see session four notes.
 		- Amiri **In Progress**
@@ -112,7 +113,7 @@ A front is basically a villain or some kind of major issue. major issues can be 
 				- Fire off some spells to distract from the firework show. Especially good fireworks will distract from this but it will go down to a spellcasting check between Doctor Mobius and Kramer, who gets a +6 bonus.
 				- Introduce a few seeds that will grow in the soil of Emberwood. (These will become Twig Blights in several sessions, or some other hostile plant)
 - # Step 2: Major NPCs (Done)
-Major NPCs are those who will be driving the action of the stuff we're doing.
+	Major NPCs are those who will be driving the action of the stuff we're doing.
 	- Flesh out the NPC leading each front: some of this is already done.
 		- Current leads
 			- River: Amethyst Academy
@@ -130,9 +131,9 @@ Major NPCs are those who will be driving the action of the stuff we're doing.
 	- For each NPC, determine whether or not there is a faction that exists for us and our characters to interact with.
 		- **Completed**.
 - # Step 3: World Events (Done: Vids bulleted below are extra)
-- Dungeon Coach DC 20 Video.
-- Matt Colville video on on making towns.
-Keeping the rest of the world on Drakkenheim alive:
+	- Dungeon Coach DC 20 Video.
+	- Matt Colville video on on making towns.
+	Keeping the rest of the world on Drakkenheim alive:
 	- Determine some major events that would be significant or interesting to some of our characters going on in Drakkenheim overall. <>indicates freely learned about.
 		- Drakkenheim Rumor: **Rumors that a man with seven eyes tends to the sick in an old water treatment facility. Some say people have even come away from it without the touch of contamination.**
 		- <>Emberwood: **Knight Captain Theodore Marshal apparently leading forces within Camp Dawn on strenuous training sequence, ensuring they are prepared for anything to come.**
@@ -236,7 +237,7 @@ Keeping the rest of the world on Drakkenheim alive:
 		- Rupert - Spencer D. Kramer is going to want to stop Rupert from destroying Delerium, partly to get Rupert on his side. Maybe he does this by assuming an illusory shape within Drakkenheim, and through doing this joins up with the rival adventuring party in order to get close to them and **boom**, murder em'.
 		- Thalia - is trying to get stopped by Ophelia Reed, mostly by sent liaisons to get her and potentially Rupert away from the Chapel. Over to Camp Dawn. 
 - # Step 5: NPCs current goals and plans (Done)
-What have the major NPCs been up to?
+	- What have the major NPCs been up to?
 	- Decide what plans they have been making.
 		- Amari: Increase the night life at the Midnight Court.
 		- Elias Drexel: Put together some teams from the village.
@@ -260,7 +261,7 @@ What have the major NPCs been up to?
 			- Keep making the Witchfires.
 		- Theodore & Ophelia Reed: Speak to more effective offerings of healing and claim presence at the Chapel of Saint Ardenna with a few of their people. 
 - # Step 6: Major Scenes (In Progress)
-Potential scenes that might come up during play
+	Potential scenes that might come up during play
 	- For each Front, develop a scene of them moving forward their plans in some way. don't include how PCs end up in the scene.
 		- Amiri:
 				- PC Motivations:
@@ -308,7 +309,7 @@ Potential scenes that might come up during play
 	- Figure out what would happen if the PCs never entered this scene. for example, what happens if the front succeeds? would that bring about one of their major milestones?
 	- Think of ways to include some of your PCs goals or motivations into the scene.
 - # Step 7: Plan out Minor Scenes (In Progress)
-Have a handful of filler events or encounters ready.
+	Have a handful of filler events or encounters ready.
 	- For each PC who's goal you weren't able to include in a major scene, develop a scene where they're able to further their goals.
 		- Rupert gets a short dialogue with Kramer about his wife and about 
 		- Thalia gets a little moment with Honor regarding some of the dog naming stuff.
@@ -316,7 +317,7 @@ Have a handful of filler events or encounters ready.
 	- Roll for random encounters and have 1-2 of them ready for each hour of play.
 	- Prepare a very brief outline for transitional scenes, such as shopping or resting in town.
 - # Step 8: Scene Backgrounds (Done)
-Further develop each scene.
+	Further develop each scene.
 	- For each scene, find or create a suitable map for the surrounding location if needed, such as a dungeon or a town map. **Needing color.**
 	- Write a description or background for each scene.
 		- Hendrix Farm:
@@ -329,16 +330,18 @@ Further develop each scene.
 			- This smithy is little more than a one-level log cabin with an overhanging thatched roof covering a workbench, stone forge, anvil, and grinding wheel. Various tools hang along the walls beside several finished weapons.
 		- Chapel of Saint Ardenna: 
 			- **Exterior**: "Located at the heart of Emberwood Village is a small chapel of the Sacred Flame. The circular fieldstone building has a copper domed rooftop, thin windows set with stained glass depicting a few modest scenes of saints, and simple wooden double doors at the front. Outside is a small crematory garden and scattering plot for the ashes of the dead."
-			- **Interior**: "Within the chapel is a well-used bronze brazier of the Sacred Flame, alight with golden fire that burns all night and day."
+			- **Interior**: "Within the chapel is a well-used bronze brazier of the Sacred Flame, alight with golden fire that burns all night and day in the brand new brazier that was brought here from Elyria."
 				- **Graffiti:** 
 		- Caravan Court: "Surrounding the boarded-up water well in the village square. This colorful collection of caravans, wagons, canvas tents, and makeshift stalls is the hub of commerce for adventurers, scavengers, and prospectors looking to make their fortune in Drakkenheim. Dozens of canny merchants have set up shop here to cater to the needs of the factions and explorers."
 			- **Marlowe's Mercantile Menagerie:** "Decently large but makeshift stall with a few wooden tables displaying jars of dried fruits, packages of cured meats, jugs of water, mead, and bags of assorted nuts. Adventurers often come here for provisions that won’t rot or spoil during their treks into the contaminated ruins"
 			- **Aldor the Immense:** "A massive and heaving covered carriage is decorated with gold filigree and glimmering lanterns. Hitched beside it are two great steel-skinned oxen that exhale green fumes from their snouts. Three lanky attendants garbed in light armor and carrying crossbows patrol the grounds. Seated before the carriage on a buckling wooden chair is a massive human man who must be nearly seven feet tall and almost as wide awaiting his next customer."
 		- Bark & Buzzard: 
+			- Menu: https://docs.google.com/document/d/1J1xfFv7Zl021rYCFJtpzVgliu7eXnYr8YEtTQHCpb2I/edit?tab=t.0
 			- **Exterior:** "Nestled amongst the residential cottages of Emberwood Village, this small one-level public house is a popular spot for locals and adventurers seeking a peaceful and laid back place to unwind. The sign hanging above the door depicts a cartoonish vulture feasting on the entrails of a bloodhound, both smiling pleasantly."
 			- **Interior:** "The public house has a cozy and familial character: there’s no proper bar, nor any walls separating the kitchen from the dining room. Instead, a few benches are arranged beside the main cask, and about a dozen round tables surround an inviting hearth."
 				- **Graffiti:** 
 		- Red Lion Hotel: 
+			- The menu: https://docs.google.com/document/d/18Lm8WNwE4MV6M5cTkcncQazfMwuUz5FuSzca0CbxYmk/edit?tab=t.0
 			- **Exterior**: "The three-story manor is made of red brick. Featuring lion-shaped gargoyles, large glass-paned windows, and embossed wooden doors painted green. The estate of Kosta Stavros includes a dozen well-appointed bedrooms, each with their own private bath and common room."
 			- **Interior**: "A full service staff is catering to the patrons’ every need. Meals are being taken to a sumptuous dining room outfitted with an impressive crystal chandelier, and drinks are served in a vast parlor furnished with fine antiques and decorated with various sculptures, paintings, and bookshelves. Each room features a great hearth and lovely views which overlook the village or the surrounding countryside."
 			- **Parlor**: "The parlor against the back wall is stocked with an array of strange bottles, keg faces, and other barware that makes sure the beer is around. Beer is safer and more abundant than water, after all."
@@ -347,15 +350,17 @@ Further develop each scene.
 	- Choose music or ambience for each encounter and scene.
 		- For general town: https://www.youtube.com/watch?v=iWXTf8zZ0Og or Spotify playlist.
 		- For Red Lion hotel: 
+			- Menu PDF: https://docs.google.com/document/d/18Lm8WNwE4MV6M5cTkcncQazfMwuUz5FuSzca0CbxYmk/edit?tab=t.0
 			- Casual mix: https://www.youtube.com/watch?v=1KRsDuqNVxM&pp=ygUNQ2xhc3NpYyBtdXNpYw%3D%3D
 			- More intense / Dance: https://www.youtube.com/watch?v=ZaDvuieuUmI
 		- For Caravan Court:
 			- Main tavern playlist: https://www.youtube.com/watch?v=fIuO3RpMvHg&t=1365s&pp=ygUMc2tvb21hIHNjYW1w
 			- **Midnight Court:** https://youtu.be/_RsnVOK6Fdg + https://www.youtube.com/watch?v=6IrJzEQLKHE&list=PLwJKA5YREt8843LmRhGfjynMvGbewR4RP
 		- For Bark & Buzzard:
-			- https://www.youtube.com/watch?v=fIuO3RpMvHg&t=1365s&pp=ygUMc2tvb21hIHNjYW1w
+			- Menu PDF: https://docs.google.com/document/d/1J1xfFv7Zl021rYCFJtpzVgliu7eXnYr8YEtTQHCpb2I/edit?tab=t.0
+			- Default mix: https://www.youtube.com/watch?v=fIuO3RpMvHg&t=1365s&pp=ygUMc2tvb21hIHNjYW1w
 		  For Crowe and Sons: 
-			- Standard music?
+			- Standard town music?
 			- Base theme: https://www.youtube.com/watch?v=KT1pKdbHjvY&pp=ygUeZGFya2VzdCBkdW5nZW9uIG11c2ljIGNyYWZ0aW5n
 			- ~~Home depot theme.~~
 			- Ambience (**Half Volume**): https://youtu.be/pRkFl9j3NLk
@@ -364,9 +369,9 @@ Further develop each scene.
 		- For Hendrix Farm:
 			- Basic track for the town should work: https://youtu.be/S9uCbvC3dOY 
 		- For Watchtower:
-			- Maybe some warhammer 40K lofi mix?
+			- Mourningstar 40K Darktide music.
 - # Step 9: Secrets and Clues (In Progress)
-What can the PCs discover about the world and events?
+	What can the PCs discover about the world and events?
 	- For each scene, come up with a secret that could give away important information.
 	- For each location, come up with a piece of history or information that could either help the PCs explore it, or lure them to it.
 	- For each session, have at least 10 secrets or clues, but don't include where, when, or how those secrets or clues are discovered. Reveal them at moments that make sense in-game.
@@ -382,7 +387,7 @@ What can the PCs discover about the world and events?
 		10. Saint Vitruvio was once a farmer before he became a Saint.
 		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
 - # Step 10: Aftermath (In Progress)
-What happens after the PCs have done their thing? What does everyone else do?
+	What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
 		- Captain Ansom: In Progress.
 		- Amiri: Succeeded.

@@ -1,1 +1,3 @@
+#location 
+
 City-state within the nation of [[Caspia]]. Home of [[Emile D'Arlan]].
