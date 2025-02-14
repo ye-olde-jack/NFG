@@ -11,7 +11,7 @@
 
 # Foes
 
-- **Long Live the Prince.** ==Kill or ally with the Rat Prince.
+- **Long Live the Prince.** ==Kill the Rat Prince.
 
 # Setbacks
 
