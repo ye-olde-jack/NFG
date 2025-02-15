@@ -47,11 +47,11 @@ Encounter rolls:
 
 # Token Tracker
 - DM Tokens: 3. Progress: 4/5.
-- Nick: 5 Tokens. 
-- Henri: 3 Tokens.
-- Joe: 1 Tokens.
-- Pat: 3-2 Tokens. (1)
-- Matt: 2 Tokens.
+- Nick: 6 Tokens. 
+- Henri: 4 Tokens.
+- Joe: 3 Tokens.
+- Pat: 2 Tokens. 
+- Matt: 3 Tokens.
 
 # Token Bait:
 - Emile:

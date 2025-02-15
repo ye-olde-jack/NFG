@@ -1,0 +1,90 @@
+
+# Token Tracker (By end of session) 
+- DM Tokens: 3. Progress: 4/5.
+- Nick: 5 Tokens. 
+- Henri: 3 Tokens.
+- Joe: 1 Tokens.
+- Pat: 1 Tokens. 
+- Matt: 2 Tokens.
+
+# Bullets
+- Started the session in Drakkenheim, around 5 PM, moving towards Shepherd's Gate.
+- Traveled towards Shepherd's Gate, avoiding some Lantern traps. They noted some odd storm taking place forming above the eastern side of the Outer City.
+	- Spoke about delerium powered aircraft from Mobius.
+	- Noted a gnoll attack at the gate.
+- On the way back after receiving some minor supplies from Lieutenant Petra, they saw trinket from Levi react to the storm.
+	- Levi first saw the lighter than then entered his possession later in the session.
+	- Mobius was testing the piece of the folk trinket and then resolved with the group to not travel in the direction of the storm.
+- Split up once you all got back to Emberwood.
+	- Rupert had a short talk with Thalia about her inner light and then resolved to keep her secret, going to bed after.
+	- Thalia sought out Flamekeeper Isaac and instead had a short conversation with Syr Baldrum- who let her know Isaac was out and not looking for her.
+- Emile went to the Watchtower.
+	- Spoke with Captain Ansom, informed that Lieutenant Petra was safe and received gratitude briefly and then again later in the morning.
+	- Emile then went to the Bark & Buzzard, collect some rumors on how the conflict in the Chapel of St. Ardenna was spun, improvised pilgrimage, Silver Order provision attempting to go after these improper Pilgrims to little success, and this was due to unforeseen new monsters.
+- Levi went to talk with Erin in the midst of the Midnight Court, a version of the caravan court turned black market.
+	- Saw Jupiter Jack talking to Erin, then proceeded to tail after him.
+	- Jupiter Jack was then seen carousing and getting friendly with others in the market, as well as briefly paying off some Hooded Lantern.
+	- Levi then made plans to grab something off of him, after hearing that the welcome phrase to acknowledge Jupiter Jack was 'Acknowledge the Anon.'
+	- Rolled at nat 20 on stealing the watch, then left a note.
+- Mobius went back to the Jimmy Ockman household to plan for the show of the night.
+	- Spoke with Ockman about getting an announcement for a fireworks display.
+	- Ockman offered help in addition to doing the announcement. Would not let Mobius work in the house.
+	- Mobius caught fireflies, came back and worked with Ockman- alongside a rare bonding moment.
+	- From there, Mobius let off the firework- though not without incident, as a certain Spencer D. Kramer fired off counter shots in an attempt to drown out or outdo Mobius.
+		- They exchanged several Sending spells back and forth.
+		- Mobius is victorious in the skill contest between each other.
+- Downtime begins!
+	- Levi:
+		- Saw River about his contamination, very brief though yet to resolve. Examination scheduled.
+		- Mostly talked about getting your academy ring.
+	- Mobius:
+		- Received a new letter:
+			- Was told Eldrick Runeweaver's name would appear in the newspaper.
+			- Classes are now made available for Mobius and his ward, Levi.
+			- The Wizard Abjection is in town, a name cloaked mage who is an ally.
+		- Sought out River as well, got yourself a dissection microscope for researching Delerium.
+		- Also made the request to receive updates on any new information regarding Delerium.
+		- Received payment for exchange of large crystal.
+	- Rupert:
+		- Had a large conversation with River.
+			- Got paid for the giving of the crystal.
+			- Received all available details on how to destroy Delerium.
+				- Mundane equipment cannot do so without extensive force, and this will lead to arcane anomalies or contamination.
+				- Magical armaments can do so more safely, yet still incur some risk.
+				- There was an incident in the Ironhelm Mines of the Scar, where someone incurred a lot of contamination and is currently in confinement of the Academy.
+			- River shared openness on her intents for working with Rupert.
+				- Made some offering for Rupert to become a Knight of the Academy.
+				- Rupert mixed, not eager to do so when that incurs notoriety. River said she would speak with Eldrick Runeweaver about doing this in a lowkey way.
+			- Spoke about allegiance to Silver Order.
+				- Rupert shared his desire for reform. River mentioned being open to assisting this, out of wanting to make sure the Amethyst Academy can have reform without harm to Mageborn.
+	- Emile:
+		- Visited Captain Ansom regarding future events.
+			- Acknowledged what the Silver Order was doing with radio jamming, rolled 21 on persuasion for making a meeting between Ophelia Reed and Captain Ansom.
+			- Discovered Beguiling Ignitor and beginning of magical aptitude.
+			- Earned a new rifle option as part of assisting early morning exercises, yet to select.
+			- Traded in permission for two healing potions.
+	- Thalia:
+		- Got up, went to go see Flamekeeper Isaac viewing graffiti of Silver Order dangling people over the new brazier.
+			- She shared information about what happened with releasing her inner light. He spoke to watching after some of the others and sticking with them for a while, quote "Keeping them in her light."
+			- Thalia was then told to get adequate rest and then potentially head in the direction of Camp Dawn for new training- assuming that the additional lessons from the Chapel would be lacking by comparison.
+			- Noticed Flamekeeper was looking after Nathaniel Flint, made no comment.
+		- Sought out Honor as well as dog, ended up naming dog Checkers.
+			- Rolled natural twenty on animal handling, gained some loose proficiency in animal handling.
+			- Honor spoke about potential of her own inner light, to which Thalia looks her over and gained some understanding of existing potential was positive. Told Honor that she believes it would be used for the right reasons.
+
+# Quotes
+- Emile:
+	- "Do I look like a storm chaser?"
+- Levi:
+	- "Happy to serve, Captain." - Levi, impersonating a Hooded Lantern and getting overtime pay.
+	- "Nice work, Doc." - Levi, yoinking the natural twenty on the taking Jupiter Jack's pocket watch.
+- Mobius:
+	- "Get ready to be blown away!" - To Kramer.
+- Rupert:
+	- "To tell you the truth, I desire reform."
+- Thalia:
+	- "I trust that you'll do right with inside you."
+- Kramer:
+	- "I don't care about winning, I just want to see you lose!"
+- River:
+	- "I believe that a man of your talents has greater aims than breaking rocks." - River to Rupert about destroying delerium, after sharing the information.
