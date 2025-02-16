@@ -1,0 +1,3 @@
+#Knights_Of_The_Silver_Order #Lore 
+
+The improvised colosseum in [[Camp Dawn]] offers a chance for fighters from all walks of life near [[Emberwood Village]] to come to test their mettle before an audience. Open monthly to the public, these brutal spectacles pit combatants sometimes against monstrous beasts from the countryside away from Drakkenheim or skilled warriors in an arena soaked in blood and intrigue. Sponsored by the Elyrian Church and their noble elite, these events promise fame, fortune, and potential favor from powerful figures. Yet, the risks are severe—not just from the physical battles but also from the machinations of nobles of fallen Drakkenheim, Elyria, and the colosseum’s shadowy underbelly.
