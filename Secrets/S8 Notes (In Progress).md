@@ -4,10 +4,17 @@
 2. For specific circumstances or moments, Insight rolls will be made in such a fashion that only the DM will be able to see the result.
 - Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
 	- Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.
-## PC Death.
-- Mention the general idea for what Joe had, basically getting his own innate magic to fool enemies and allies alike, partly as accident. 
-- Talk some about what we all want death to mean in the game and what we're willing to do for five points.
-- Probably just ask for them to not make use of that in the future.
+## Downtime
+- Emile: 2 Activities in mind, Carouse in Black Market and Volunteer.
+	- Wants to do some interactions between Ophelia Reed and Captain Ansom.
+	- Keep personal identity clean when carousing. 
+- Levi:
+- Mobius:
+- Rupert: 2 Activities in mind, Dawn Duel and Militia Patrols for the Silver Order.
+	- Wants to make armor as well, likely with 'I know a guy.'
+	- Potentially training alongside Thalia means that there might be combo attack learning.
+- Thalia: 2 Activities in mind, maybe 3.  Volunteer, Dawn Duel, and maybe Refugees or a patrol.
+	- Will potentially train alongside Rupert, learn combo attacks this way.
 ### Character Reminders
 - Emile:
 	- Talk up the city in a lot of big ways, how abandoned and wrecked it looks.
@@ -323,7 +330,7 @@ Encounter rolls:
 		- Rupert gets a short dialogue with Kramer about his wife and about how to become inured against the horrors of Drakkenheim.
 			- They have to be willing to trade favors here. Kramer's is that he'll help show Rupert how to resist contamination, Rupert's has to be that he won't be the one to kill Oscar Yoren.
 			- 
-		- Thalia gets a little moment with Honor regarding some of the dog naming stuff.
+		- **Thalia** has some time with Honor interacting, Honor then beckoning Thalia to join her at the area surrounding Hendrix Farm to deal with the particularly hurt people while Hanna and Isaac take care of those that can actually afford to pay for injuries.
 		- Levi River interaction, maybe.  
 	- Roll for random encounters and have 1-2 of them ready for each hour of play.
 		- Delerium dreg encounter in the streets. 

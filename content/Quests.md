@@ -12,7 +12,7 @@ kanban-plugin: board
 	Progress with [[The Amethyst Academy]] relationship: opportunities for work and status.
 	Academy ring: valuable and provides magical bonus.
 	Cantrip learning opportunity for [[Levi SlaughterDale]]
-- [ ] **Hunt down the Malfeasant [[Oscar Yoren]].**
+- [ ] **Hunt down the [[Malfeasant]] [[Oscar Yoren]].**
 	
 	Rewards:
 	TBD
@@ -33,13 +33,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] **Ensure the [[ Feast of the Faithful]] goes smoothly.**
-	
-	Rewards:
-	Access to cheaper spell services at the [[Chapel of Saint Ardenna]] for the party if accompanied by Thalia or Emile.
-	Potential training opportunities within the [[Knights of the Silver Order]] for Rupert.
-	Access to spell services or reward opportunities from [[Hendrix Farm]] for the party.
-- [ ] **Research the [[Contamination]] plaguing Levi and Rupert.**
+- [ ] **Research the [[Contamination]] plaguing [[Levi SlaughterDale]] and [[Rupert McNamara]].**
 	
 	Rewards:
 	Potential avenue for discovering a cure.
@@ -48,9 +42,15 @@ kanban-plugin: board
 
 ## Completed
 
-- [ ] ~~Escort [[Erin Marlowe]] to [[Emberwood Village]].~~
+- [ ] **Escort [[Erin Marlowe]] to [[Emberwood Village]].**
 	
-	~~Reward: 25 GP per person, favor with Erin Marlowe, and the option to barter with her for wares.~~
+	Reward: 25 GP per person, favor with Erin Marlowe, and the option to barter with her for wares.
+- [ ] **Ensure the [[ Feast of the Faithful]] goes smoothly.**
+	
+	Rewards:
+	Access to cheaper spell services at the [[Chapel of Saint Ardenna]] for the party if accompanied by Thalia or Emile.
+	Potential training opportunities within the [[Knights of the Silver Order]] for Rupert.
+	Access to spell services or reward opportunities from [[Hendrix Farm]] for the party.
 - [ ] **Rescue [[Lieutenant Petra Lang]] from [[Rat's Nest Tavern]].**
 	
 	Rewards:
@@ -59,7 +59,7 @@ kanban-plugin: board
 	Wipe the slate clean.
 	Scavenged supplies from the tavern that can be sold at the blacksmith.
 	Healer's Kits and Magical consumables, such as healing potions, which are an uncommon commodity.
-- [ ] **Make fireworks for the Feast! (Dr. Mobius)**
+- [ ] **Make fireworks for the [[Feast of the Faithful]]! (Dr. Mobius)**
 	
 	Rewards:
 	Favor with [[the Amethyst Academy]]: more work opportunities, faster. Likely better rewards opportunity too. More trust.
