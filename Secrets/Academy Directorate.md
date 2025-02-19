@@ -2,7 +2,7 @@
 
 Eldrick Runeweaver: Archmage Arcane at one point in time, though dropped the name when going into public eye.
 
-- Archmage Remlah ||Austere||.
+- Archmage Ramlah ||Austere||.
 	Directorate representative of the Abjuration department.
 - Archmage Abundance.
 	Directorate representative of the Conjuration department.

@@ -10,25 +10,45 @@ kanban-plugin: board
 	
 	Rewards:
 	Progress with [[The Amethyst Academy]] relationship: opportunities for work and status.
-	Academy ring: valuable and provides magical bonus.
+	Academy ring: valuable and provides magical bonus to Levi's innate magic.
 	Cantrip learning opportunity for [[Levi SlaughterDale]]
 - [ ] **Hunt down the [[Malfeasant]] [[Oscar Yoren]].**
 	
 	Rewards:
-	TBD
-- [ ] **Visit the Dawn Duel within [[Camp Dawn]].**
+	**Level up!**
+	Healing Potions.
+	Crafting components for magic items.
+	Research on Delerium.
+	Contaminated Spell.
+	Information from another [[Malfeasant]] Mage.
+	Magic Item: Pearl of Power.
+	Magic Item: "Kin's Carving."
+- [ ] **Visit the Dawn Duel within [[Camp Dawn]] and succeed at some fights.**
 	
 	Rewards:
-	TBD
+	Gold pay based on advancement tier.
+	Extra consumables if multiple battles are won.
+	Information on the [[Knights of the Silver Order]] and potentially [[Elyria]].
+	Potential for learning combo attacks with party member if Fate Points and some days are spent.
 - [ ] **Hunt down [[Spencer D. Kramer]].**
+	
+	Rewards:
+	Fulfillment beyond your greatest wishes. (Requires further story progression to know)
 - [ ] **Visit the [[Black Ivory Inn]].**
 	
 	Rewards:
 	**Level up**!
 	Potential [[Delerium]] in fragments and chips.
 	Healing Potions, ingredients for potions.
+	Crafting components for magic items.
 	Magic Item: "Shiver" spirit boon.
-	Magic Item: "Kin's Carving".
+	Magic Item: Portable Hole.
+- [ ] **Retrieve deed belonging to [[Rupert McNamara]].**
+	
+	Rewards:
+	A few past belongings.
+	Deed of the McNamara estate.
+	Potential for learning combo attacks with party member if Fate Points and some days are spent.
 
 
 ## In Progress

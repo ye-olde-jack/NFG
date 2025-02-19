@@ -1,5 +1,5 @@
-Age by start of campaign in November 15th, 1914: 33 years old
-Birthday: TBD
+Age by start of campaign in November 15th, 1914: 18 years old
+Birthday: November 30th, 1895
 
 # Motivation and Beliefs
 #### Core Motivations

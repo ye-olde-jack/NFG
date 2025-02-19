@@ -1,9 +1,13 @@
 # Top of Session Reminders (In Progress)
-1. Walk through potential for cool scars with Matt and Henri. 
-	1. When someone lands a natural twenty on a player, it leaves a scar. Upon natural 20, roll 1d4. On a 1, no scar. 2 is a small scar, like a nick or something that could get passed off as a birthmark. 3 is a medium scar, cannot deny it, more visible thing like large burn over the arm or slash over the eye. 4 is a massive scar, noticeable, like Zuko from Avatar. Then use d6 or d8 to pick what part of body, like head is 1, arm is 2, torso three, other arm 4, etc.
-2. For specific circumstances or moments, Insight rolls will be made in such a fashion that only the DM will be able to see the result.
-- Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
-	- Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.
+1. Improving speech stuff:
+	1. Record self, try daily doing this. Fastest way to spot what I need to improve.
+	2. Make a sticky-note pre-session that tells me to mirror what others are doing for their energy level. Follow big body language, adjust volume to their level.
+	3. Learn how to pause more. Cuts down on filler words and non-words.
+		1. Use the FORD method for NPCs: Talk about Family, Occupation, Recreation, or Dreams.
+	4. End your sentences on a lower pitch, otherwise stuff sounds like a question.
+2. At some point during the next session have Thalia roll 2d4 and pick which between those define the scar she gets from her most recent beating.
+3. Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
+	- ~~Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.~~ **Did that, now write it down.**
 ## Downtime
 - Emile: 2 Activities in mind, Carouse in Black Market and Volunteer.
 	- Wants to do some interactions between Ophelia Reed and Captain Ansom.
@@ -15,6 +19,12 @@
 	- Potentially training alongside Thalia means that there might be combo attack learning.
 - Thalia: 2 Activities in mind, maybe 3.  Volunteer, Dawn Duel, and maybe Refugees or a patrol.
 	- Will potentially train alongside Rupert, learn combo attacks this way.
+- **Mutual Scenes:**
+	- Thalia is on her way out, sees Emile and requests an extra set of eyes.
+	- Rupert with Thalia training at the Dawn Duel areas.
+	- Emile and Mobius have to talk about Kramer recent events.
+	- Levi and Emile run into each other at the Midnight Court.
+	- Healing scene between Rupert and Thalia, after a duel they get to have a short combat scenario.
 ### Character Reminders
 - Emile:
 	- Talk up the city in a lot of big ways, how abandoned and wrecked it looks.

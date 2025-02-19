@@ -13,10 +13,10 @@
 	- Talk up the city in a lot of big ways, how abandoned and wrecked it looks.
 	- **Choice:** What to do regarding the message Kramer is going to give him.
 		- Kramer will talk about...
-	- **Item reward:** Larg and Schultz Mk. II "Hamstring" or "Bushwhacker." Rifle reward.
+	- **Item reward:** Larg and Schultz Mk. II "Hamstring" or "Bushwhacker." Rifle reward. **Picked up the Hamstring option, see direct messages.**
 	- Spend gold on Firearm modifications from the Gunslinger Document.
 - Levi:
-		- Beguiling Influence - Beguiling Igniter, Trinket is a little pocket lighter that he will use to start conversations, cooking fires, or offer a light for a smoke.
+		- Beguiling Influence - Beguiling Igniter, Trinket is a little pocket lighter that he will use to start conversations, cooking fires, or offer a light for a smoke. **Gave away during session.**
 		- Sylvan Speech - Spirit Speech, Trinket is his original Inspector badge that a few spirits he can suddenly see come to bless.
 	- Refresh on spirits and talk about illusions.
 	- Talk about the Mobius death with the party. How this factors into the trinket that Levi got very long time ago, and how this brought in the influence of a Great Spirit.
