@@ -79,6 +79,7 @@ kanban-plugin: board
 	Wipe the slate clean.
 	Scavenged supplies from the tavern that can be sold at the blacksmith.
 	Healer's Kits and Magical consumables, such as healing potions, which are an uncommon commodity.
+	Recipe for Rat Bite poison.
 - [ ] **Make fireworks for the [[Feast of the Faithful]]! (Dr. Mobius)**
 	
 	Rewards:

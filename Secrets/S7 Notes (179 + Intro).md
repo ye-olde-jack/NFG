@@ -2,8 +2,8 @@
 1. Walk through potential for cool scars with Matt and Henri. 
 	1. When someone lands a natural twenty on a player, it leaves a scar. Upon natural 20, roll 1d4. On a 1, no scar. 2 is a small scar, like a nick or something that could get passed off as a birthmark. 3 is a medium scar, cannot deny it, more visible thing like large burn over the arm or slash over the eye. 4 is a massive scar, noticeable, like Zuko from Avatar. Then use d6 or d8 to pick what part of body, like head is 1, arm is 2, torso three, other arm 4, etc.
 2. For specific circumstances or moments, Insight rolls will be made in such a fashion that only the DM will be able to see the result.
-- Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
-	- Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.
+- ~~Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.~~
+	- **Did this**. Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.
 ## PC Death.
 - Mention the general idea for what Joe had, basically getting his own innate magic to fool enemies and allies alike, partly as accident. 
 - Talk some about what we all want death to mean in the game and what we're willing to do for five points.
@@ -11,28 +11,25 @@
 ### Character Reminders
 - Emile:
 	- Talk up the city in a lot of big ways, how abandoned and wrecked it looks.
-	- **Choice:** What to do regarding the message Kramer is going to give him.
-		- Kramer will talk about...
-	- **Item reward:** Larg and Schultz Mk. II "Hamstring" or "Bushwhacker." Rifle reward. **Picked up the Hamstring option, see direct messages.**
+	- **Choice:** Didn't get a message from kramer.
+	- **Item reward:** Larg and Schultz Mk. II "Hamstring" or "Bushwhacker." Rifle reward. **Picked up the Hamstring option, see direct messages.** Hamstring is specifically made by a gentleman crafter from Buckledown Row, Jupiter Jack's Uncle actually.
 	- Spend gold on Firearm modifications from the Gunslinger Document.
 - Levi:
 		- Beguiling Influence - Beguiling Igniter, Trinket is a little pocket lighter that he will use to start conversations, cooking fires, or offer a light for a smoke. **Gave away during session.**
 		- Sylvan Speech - Spirit Speech, Trinket is his original Inspector badge that a few spirits he can suddenly see come to bless.
 	- Refresh on spirits and talk about illusions.
-	- Talk about the Mobius death with the party. How this factors into the trinket that Levi got very long time ago, and how this brought in the influence of a Great Spirit.
 	- **Choice:** Downtime.
 	- **Item reward:** Alchemical Concoction that Mobius snags. Options for spending gold includes things from the Queen's Men, as well as Firearm modifications from Gunslinger document and from the vehicle upgrade doc.
 - Mobius:
-	- Make sure there's neat delerium stuff going on.
+	- Make sure there's neat delerium stuff going on. **Over thousands of delerium isotopes qualifies as "neat stuff" going on.**
 		- Arcanomagnetism.
 	- **Choice:** What to do with the Delerium they find.
 	- **Item reward:** Academy Ring.
-	- Can spend gold on Delerium research and magical item crafting. Use either the Heliana rules or go by 2024 DMG for crafting items, maybe even Drakkenheim rules.
+	- New crafting rules loosely mentioned in session zero spot.
 - Rupert:
 	- All good, but give a good choice during the session.
-	- Funny moment: Ratlings doing the 'What is my purpose' bit. Answer, 'to watch the door' or do some other menial task.
 	- **Choice:** Find one
-	- **As a last resort, pull out Lenny if you have to.**
+	- **As a last resort, pull out Lenny if you have to. Lenny is the son of the Ratling that they let go**
 	- **Item reward:** 
 		- A session of training and healing, either something that supplements learning another Fighting Style, or a brassard that provides enough status from local militia that Rupert can add 1d4 to persuasion or intimidation twice per day. He can potentially spend gold (300 or so) on the thing from Ryoko's either in the Reach Mastery or stuff that his Halberd can do from the weapon enhancements before the masteries.
 		- Aqua Delerium. In addition to that, first Uncommon item on the condition he accepts another job from River.
@@ -400,7 +397,7 @@ Encounter rolls:
 		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		10. Saint Vitruvio was once a farmer before he became a Saint.
 		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
-- # Step 10: Aftermath (Yet to be Session End)
+- # Step 10: Aftermath (Cont. into next session)
 	What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
 		- Captain Ansom: In Progress.

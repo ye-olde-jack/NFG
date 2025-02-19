@@ -19,13 +19,14 @@
 	- Rupert had a short talk with Thalia about her inner light and then resolved to keep her secret, going to bed after.
 	- Thalia sought out Flamekeeper Isaac and instead had a short conversation with Syr Baldrum- who let her know Isaac was out and not looking for her.
 - Emile went to the Watchtower.
-	- Spoke with Captain Ansom, informed that Lieutenant Petra was safe and received gratitude briefly and then again later in the morning.
+	- Spoke with Captain Ansom, informed that Lieutenant Petra was safe and received gratitude briefly and then again later in the morning. This included a new rifle in the form of the Mk. II 'Hamstring'.
+		- This rifle has ties to eastern Drakkenheim during the Civil War.
 	- Emile then went to the Bark & Buzzard, collect some rumors on how the conflict in the Chapel of St. Ardenna was spun, improvised pilgrimage, Silver Order provision attempting to go after these improper Pilgrims to little success, and this was due to unforeseen new monsters.
 - Levi went to talk with Erin in the midst of the Midnight Court, a version of the caravan court turned black market.
 	- Saw Jupiter Jack talking to Erin, then proceeded to tail after him.
 	- Jupiter Jack was then seen carousing and getting friendly with others in the market, as well as briefly paying off some Hooded Lantern.
 	- Levi then made plans to grab something off of him, after hearing that the welcome phrase to acknowledge Jupiter Jack was 'Acknowledge the Anon.'
-	- Rolled at nat 20 on stealing the watch, then left a note.
+	- Rolled at nat 20 on stealing the watch, then left a note that said 'Fear the Anon.'
 - Mobius went back to the Jimmy Ockman household to plan for the show of the night.
 	- Spoke with Ockman about getting an announcement for a fireworks display.
 	- Ockman offered help in addition to doing the announcement. Would not let Mobius work in the house.
