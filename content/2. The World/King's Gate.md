@@ -1,0 +1,3 @@
+#location #Outer_City #Inner_City #Drakkenheim 
+
+Supposedly occupied by a band of trolls, where entry to the Inner City costs you an arm and a leg...

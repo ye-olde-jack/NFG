@@ -18,6 +18,10 @@
 	- Keep personal identity clean when carousing. 
 - Levi: Activities?? In mind??
 	- Wants to go with Rupert to assist in the securing the deed.
+	- Figure out Academy Ring specifics.
+	- Give Levi Academy Drip.
+		- Pristine formal attire.
+		- Subtle jacket.
 - Mobius:
 - Rupert: 2 Activities in mind, Dawn Duel and Militia Patrols for the Silver Order.
 	- Wants to make armor as well, likely with 'I know a guy.'
@@ -357,6 +361,7 @@ Encounter rolls:
 			- 
 		- **Thalia** has some time with Honor interacting, Honor then beckoning Thalia to join her at the area surrounding Hendrix Farm to deal with the particularly hurt people while Hanna and Isaac take care of those that can actually afford to pay for injuries.
 		- **Levi**. River inspection over his body. Include Academy Ring stuff.
+			- Have River provide him with Amethyst Academy drip, then get Kuromi to run into Levi around the same time. Mobius might be out of the house at the Delicatessen. 
 	- Roll for random encounters and have 1-2 of them ready for each hour of play.
 		- Delerium dreg encounter in the streets. **Have a disembodied psyche possessing someone.**
 		- Silver Order panicked encounter, they're maddened or delirious.

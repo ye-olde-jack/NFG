@@ -6,12 +6,6 @@ kanban-plugin: board
 
 ## To-Do
 
-- [ ] **Speak with [[River]] about receiving an Academy Ring. (Levi)**
-	
-	Rewards:
-	Progress with [[The Amethyst Academy]] relationship: opportunities for work and status.
-	Academy ring: valuable and provides magical bonus to Levi's innate magic.
-	Cantrip learning opportunity for [[Levi SlaughterDale]]
 - [ ] **Hunt down the [[Malfeasant]] [[Oscar Yoren]].**
 	
 	Rewards:
@@ -23,13 +17,6 @@ kanban-plugin: board
 	Information from another [[Malfeasant]] Mage.
 	Magic Item: Pearl of Power.
 	Magic Item: "Kin's Carving."
-- [ ] **Visit the Dawn Duel within [[Camp Dawn]] and succeed at some fights.**
-	
-	Rewards:
-	Gold pay based on advancement tier.
-	Extra consumables if multiple battles are won.
-	Information on the [[Knights of the Silver Order]] and potentially [[Elyria]].
-	Potential for learning combo attacks with party member if Fate Points and some days are spent.
 - [ ] **Hunt down [[Spencer D. Kramer]].**
 	
 	Rewards:
@@ -43,21 +30,46 @@ kanban-plugin: board
 	Crafting components for magic items.
 	Magic Item: "Shiver" spirit boon.
 	Magic Item: Portable Hole.
+
+
+## In Progress
+
+- [ ] **Visit the Dawn Duel within [[Camp Dawn]] and succeed at some fights.**
+	
+	Rewards:
+	Gold pay based on advancement tier.
+	Extra consumables if multiple battles are won.
+	Information on the [[Knights of the Silver Order]] and potentially [[Elyria]].
+	Potential for learning combo attacks with party member if Fate Points and some days are spent.
+- [ ] **Research the [[Contamination]] plaguing [[Levi SlaughterDale]] and [[Rupert McNamara]].**
+	
+	Rewards:
+	Potential avenue for discovering a cure.
+	Learn more about how to destroy [[Delerium]].
+- [ ] **Secure 100 Gold Pieces for a drop into a well outside Buckledown Row as tribute to the [[Queen of Thieves]]. 
+	([[Levi SlaughterDale]] Secret Objective)**
+	
+	Rewards:
+	Access to codes between certain merchants who will allow the fencing of stolen goods.
+	Poisons available for purchase.
+	Updated codes for conversation in the [[Midnight Court]].
+- [ ] **Investigate and identify the source of the Radio Interference in [[Emberwood Village]].**
+	
+	Rewards:
+	Radio Kit.
+	Faction renown between appreciative parties, including the [[Hooded Lanterns]].
 - [ ] **Retrieve deed belonging to [[Rupert McNamara]].**
 	
 	Rewards:
 	A few past belongings.
 	Deed of the McNamara estate.
 	Potential for learning combo attacks with party member if Fate Points and some days are spent.
-
-
-## In Progress
-
-- [ ] **Research the [[Contamination]] plaguing [[Levi SlaughterDale]] and [[Rupert McNamara]].**
+- [ ] **Speak with [[River]] about receiving an Academy Ring. (Levi)**
 	
 	Rewards:
-	Potential avenue for discovering a cure.
-	Learn more about how to destroy [[Delerium]].
+	Progress with [[The Amethyst Academy]] relationship: opportunities for work and status.
+	Academy ring: valuable and provides magical bonus to Levi's innate magic.
+	Cantrip learning opportunity for [[Levi SlaughterDale]]
 
 
 ## Completed
