@@ -1,3 +1,5 @@
+#Session
+
 # Pre-Campaign Connections
 1. [[Emile D'Arlan]] and [[Rupert McNamara]] meet during the [[Civil War of Drakkenheim]]. Rupert somehow saves the [[Emile D'Arlan]]'s life during that time. That was seven years ago.
 2. [[Levi SlaughterDale]] runs into [[Doctor Archivel Gecker Mobius]] during a failed break-in attempt, leading to cooperation and work for [[The Amethyst Academy]]. This was three and a half months ago.

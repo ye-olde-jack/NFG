@@ -1,16 +1,16 @@
-
+#Session 
 
 # Bullets
 - Matt and Nick spent their tokens. 2/5 progress for DM tokens. >:)
-- Campaign start: 11/15/14, end date 11/29/14.
-- Party all came together to help Ms. Erin Marlowe to help take her supplies from Altberg to [[Emberwood Village]] for the Feast of the Faithful.
+- Campaign start: 11/15/14, session end date 11/29/14.
+- Party all came together to help Ms. Erin Marlowe to help take her supplies from Altberg to [[Emberwood Village]] for the [[Feast of the Faithful]].
 - Found an ancient battlefield a few days along the way.
 	- Found a dog along the way.
 	- Saw a hawk watching us.
 - Stopped by radio tower where there was a short conversation with [[Flamekeeper Isaac]].
-	- Black Ivory Inn is running and business is booming. Heard from Flamekeeper Isaac.
-- Got some information from Erin Marlowe.
-	- Three new adventurers selling [[Delerium]] to a woman in the Red Lion inn. Heard from Erin Marlowe.
+	- [[Black Ivory Inn]] is running and business is booming. Heard from Flamekeeper Isaac.
+- Got some information from [[Erin Marlowe]].
+	- Three new adventurers selling [[Delerium]] to a woman in the [[Red Lion Hotel]]. Heard from Erin Marlowe.
 	- Selling potions from the Reed Manor. Heard from Erin Marlowe.
 	- Dwarves mining south of the crater. Heard from Erin Marlowe.
 	- Informed them about Gainsbury. Heard from Erin Marlowe.
@@ -26,5 +26,7 @@
 - Ended up approaching a crossroads by the end of the session.
 
 # Quotes 
-"Of course, there's only one problem: I only have one helmet, and I never wear it." - Levi.
-"I have figured out religion!" - Dr. Mobius.
+"Of course, there's only one problem: I only have one helmet, and I never wear it." - [[Levi SlaughterDale]].
+"I have figured out religion!" - [[Doctor Archivel Gecker Mobius]]
+
+[[Emile D'Arlan]], [[Rupert McNamara]], [[Thalia Bleakheart]].

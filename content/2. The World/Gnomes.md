@@ -1,6 +1,6 @@
 #Lore 
 
-Something happened to gnomes at the beginning of time. Some say that the god of kobolds hunted the gnomes nearly to extinction, and the few of them that remained fled to another plane, more wild than this one, to escape him. Others said that it was the gnome god who abandoned the gnomes in this wild plane after the gnomes greatly offended him, somehow managing to wipe the god’s perpetual smile off of his face and turning it into a scowl of anger.
+Something happened to gnomes at the beginning of time long before [[Drakkenheim]]. Some say that the god of kobolds hunted the gnomes nearly to extinction, and the few of them that remained fled to another plane, more wild than this one, to escape him. Others said that it was the gnome god who abandoned the gnomes in this wild plane after the gnomes greatly offended him, somehow managing to wipe the god’s perpetual smile off of his face and turning it into a scowl of anger.
 
 Whatever the actual reason is, it was lost to time and erased from all memory so that it can never be repeated, but it forever changed gnomish culture. While all gnomes are skittish, Drakkenheim gnomes take this to a new extreme. They hide away underground in the dark wilds below the surface, away from most creatures that roam the plane, but even this is not enough. Gnomes hide their faces from all by wearing masks that they never take off, even around those closest to them.
 

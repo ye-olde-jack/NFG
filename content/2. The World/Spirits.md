@@ -1,0 +1,3 @@
+#Spirit #creatures #Lore 
+
+Spirits refers to divine, or spiritual, or mysterious beings that play key features in the world of [[Drakkenheim]] and beyond. The spirits' culture is mostly unknown, but bears a resemblance to human culture. It is shown that they regard humans as different beings and are implied to even eat them. Their appearances between each other vary greatly, some looking very monstrous while some almost completely humanoid.

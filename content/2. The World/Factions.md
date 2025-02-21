@@ -1,5 +1,7 @@
 # **Drakkenheim's Factions**
 
+#Lore 
+
 - [[The Amethyst Academy]]:
  ![[Pasted image 20241105132411.png]]
 

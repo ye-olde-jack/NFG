@@ -1,3 +1,4 @@
+#Session 
 
 # Token Tracker 
 - DM Tokens: 0. Progress: 2/5. 
@@ -8,24 +9,24 @@
 - Matt: 2 Tokens. 
 
 # Bullets
-- Started off with interlude featuring the son of James Ockman.
-- Then into a dream sequence with Thalia, where she saw a vision of a few things in town some of which are yet to come and was also asked a few questions.
+- Started off with interlude featuring the son of [[James 'Ocky' Ockman]].
+- Then into a dream sequence with [[Thalia Bleakheart]], where she saw a vision of a few things in town some of which are yet to come and was also asked a few questions.
 	- 
-- When the waking sequence happened, everyone ended up gathering into the same area- where Emile spoke with a few of the group to ask them for assistance on the trip to the Rat's Nest Tavern.
-- Mobius purchased a delerium collection pamphlet from River, as well as a newspaper.
-- In the newspaper, there was an explicit mention of two things to do with Caspia:
-	- First thing was the mention that the Happyhollow Circus in Caspia recently had several members disband the traveling entertainer group, as well as heading to Drakkenheim.
+- When the waking sequence happened, everyone ended up gathering into the same area- where Emile spoke with a few of the group to ask them for assistance on the trip to the [[Rat's Nest Tavern]].
+- [[Doctor Archivel Gecker Mobius]] purchased a [[delerium]] collection pamphlet from [[Erin Marlowe]], as well as a newspaper.
+- In the newspaper, there was an explicit mention of two things to do with [[Caspia]]:
+	- First thing was the mention that the Happyhollow Circus in Caspia recently had several members disband the traveling entertainer group, as well as heading to [[Drakkenheim]].
 	- Second thing was the unseasonal weather for winter. It details that Caspia is always a place to travel for the holidays to get away from the harsh winters of the northern continent the group is in.
-- A gunshot was heard and people rushed to the Watchtower of the Hooded Lanterns, where some arguments were overheard and the Lord Commander ordered Captain Lang to stand down, to have faith in the Lieutenant.
-	- Dr. Mobius and Levi attempted disguises and sneaking inside, to mixed success and eventual failure.
-	- Captain Ansom requested Emile stand down until further time passed.
+- A gunshot was heard and people rushed to the Watchtower of the Hooded Lanterns, where some arguments were overheard and the [[Lord Commander Elias Drexel]] ordered Captain Lang to stand down, to have faith in [[Lieutenant Petra Lang]].
+	- Dr. Mobius and [[Levi SlaughterDale]] attempted disguises and sneaking inside, to mixed success and eventual failure.
+	- [[Captain Ansom Lang]] requested [[Emile D'Arlan]] stand down until further time passed.
 - Dr. Mobius got his academy ring delivered to him.
-- Party reconvenes for what to do, potential split occurring due to obligations of Thalia and Rupert being bound to the town by Silver Order- including Mobius who was on the fence.
+- Party reconvenes for what to do, potential split occurring due to obligations of Thalia and [[Rupert McNamara]] being bound to the town by the [[Knights of the Silver Order]]- including Mobius who was on the fence.
 - Levi departs to secure supplies from Erin for rations and a spell scroll of Rope Trick from River. 
 - Emile goes to go back to Watchtower to get a map and attempt checking in with the radio, to a natural one luck check. Discovered town has some sort of communication issue.
-- Then Emile goes to speak with High Flamekeeper Ophelia, requesting the aid of Thalia and Rupert from the Feast, to initially mixed results where the attitude changed once more information was shared and potential connection to the Hooded Lanterns was offered.
-	- Part of this was Emile utilizing his Caspian Casanova abilities.
-- Session ended at early noon for the Feast of the Faithful, 11/30/14.
+- Then Emile goes to speak with [[High Flamekeeper Ophelia Reed]], requesting the aid of Thalia and Rupert from the Feast, to initially mixed results where the attitude changed once more information was shared and potential connection to the [[Hooded Lanterns]] was offered.
+	- Part of this was Emile utilizing his [[Caspia]]n Casanova abilities.
+- Session ended at early noon for the [[Feast of the Faithful]], 11/30/14.
 # Quotes
 - "As a man of faith, we're supposed to be sympathetic to the mentally handicapped." - Rupert McNamara.
 - "DEMIIIILE." - Dr. Mobius

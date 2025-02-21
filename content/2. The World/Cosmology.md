@@ -1,7 +1,7 @@
 #Lore 
 
 # The Cosmos
-Sages of the Amethyst Academy have put forth differing theories to explain the order of the cosmos throughout history. These included bizarre concepts such as the “great wheel”, the “world axis”, the “conjunction of the spheres”, “planetary orbits”, and “general relativity”. There is no consensus; every theorist is quick to point out the glaring flaws and logical inconsistencies in competing hypotheses. 
+Sages of [[the Amethyst Academy]] have put forth differing theories to explain the order of the cosmos throughout history. These included bizarre concepts such as the “great wheel”, the “world axis”, the “conjunction of the spheres”, “planetary orbits”, and “general relativity”. There is no consensus; every theorist is quick to point out the glaring flaws and logical inconsistencies in competing hypotheses. 
    Most mortal knowledge of the planes comes from contact with extraplanar creatures via summoning magic or divination spells such as contact other plane. Deliberate planar travel by mortals is the stuff of legends. The knowledge and material components for the plane shift spell are jealously guarded secrets. However, there are scant ley-lines and thin places where the unwary might slip between worlds. Described below are the most well-known.
 
 # Mortal Worlds

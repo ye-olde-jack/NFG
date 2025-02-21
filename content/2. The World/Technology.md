@@ -1,4 +1,4 @@
 #Lore 
 
-Drakkenheim: is a bit more flexible and this would be a conversation to be had. Clockwork is present, places of learning are prominent, and there's a good deal of different technology present in every day life. They're ahead of the game when compared to a place like Valika, but the wider world that Valika is in would have their Tesla-style items (the most advanced stuff) be a bit beyond what Drakkenheim has going on. Drakkenheim probably sits as more advanced, but how much can be talked about and selected when we start to play.
-- At the most advanced, I've considered having things in Drakkenheim that are reminiscent of how technology was in the middle and late stages of World War 1 I think would be a lot more fun for me personally. For a baseline, renaissance with guns and more prominent clockwork would be the least advanced the setting is.
+[[Drakkenheim]] and the other realms of the continent around it are a bit more flexible and this would be a conversation to be had. Clockwork is present, places of learning are prominent, and there's a good deal of different technology present in every day life.
+- Reminiscent of how technology was in the middle and late stages of World War 1.
