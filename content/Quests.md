@@ -6,6 +6,15 @@ kanban-plugin: board
 
 ## To-Do
 
+- [ ] **Travel to the [[Westemär Wastewater Plant]].**
+	
+	Rewards:
+	**Level up!**
+	Potential [[Delerium]] in fragments and chips.
+	Knowledge regarding **Purge Contamination** spell.
+	Renown with interested factions depending on developments: **All Factions available.**
+	Emberwood housing opportunity from trapped refugees.
+	Rescue for Euclid, the Unbeliever.
 - [ ] **Hunt down the [[Malfeasant]] [[Oscar Yoren]].**
 	
 	Rewards:
@@ -17,10 +26,6 @@ kanban-plugin: board
 	Information from another [[Malfeasant]] Mage.
 	Magic Item: Pearl of Power.
 	Magic Item: "Kin's Carving."
-- [ ] **Hunt down [[Spencer D. Kramer]].**
-	
-	Rewards:
-	Fulfillment beyond your greatest wishes. (Requires further story progression to know)
 - [ ] **Visit the [[Black Ivory Inn]].**
 	
 	Rewards:
@@ -30,46 +35,24 @@ kanban-plugin: board
 	Crafting components for magic items.
 	Magic Item: "Shiver" spirit boon.
 	Magic Item: Portable Hole.
+- [ ] **Hunt down [[Spencer D. Kramer]].**
+	
+	Rewards:
+	Fulfillment beyond your greatest wishes. (Requires further story progression to know)
 
 
 ## In Progress
 
-- [ ] **Visit the Dawn Duel within [[Camp Dawn]] and succeed at some fights.**
-	
-	Rewards:
-	Gold pay based on advancement tier.
-	Extra consumables if multiple battles are won.
-	Information on the [[Knights of the Silver Order]] and potentially [[Elyria]].
-	Potential for learning combo attacks with party member if Fate Points and some days are spent.
 - [ ] **Research the [[Contamination]] plaguing [[Levi SlaughterDale]] and [[Rupert McNamara]].**
 	
 	Rewards:
 	Potential avenue for discovering a cure.
 	Learn more about how to destroy [[Delerium]].
-- [ ] **Secure 100 Gold Pieces for a drop into a well outside Buckledown Row as tribute to the [[Queen of Thieves]]. 
-	([[Levi SlaughterDale]] Secret Objective)**
-	
-	Rewards:
-	Access to codes between certain merchants who will allow the fencing of stolen goods.
-	Poisons available for purchase.
-	Updated codes for conversation in the [[Midnight Court]].
 - [ ] **Investigate and identify the source of the Radio Interference in [[Emberwood Village]].**
 	
 	Rewards:
 	Radio Kit.
 	Faction renown between appreciative parties, including the [[Hooded Lanterns]].
-- [ ] **Retrieve deed belonging to [[Rupert McNamara]].**
-	
-	Rewards:
-	A few past belongings.
-	Deed of the McNamara estate.
-	Potential for learning combo attacks with party member if Fate Points and some days are spent.
-- [ ] **Speak with [[River]] about receiving an Academy Ring. (Levi)**
-	
-	Rewards:
-	Progress with [[The Amethyst Academy]] relationship: opportunities for work and status.
-	Academy ring: valuable and provides magical bonus to Levi's innate magic.
-	Cantrip learning opportunity for [[Levi SlaughterDale]]
 
 
 ## Completed
@@ -77,6 +60,32 @@ kanban-plugin: board
 - [ ] **Escort [[Erin Marlowe]] to [[Emberwood Village]].**
 	
 	Reward: 25 GP per person, favor with Erin Marlowe, and the option to barter with her for wares.
+- [ ] **Visit the Dawn Duel within [[Camp Dawn]] and succeed at some fights.**
+	
+	Rewards:
+	Gold pay based on advancement tier.
+	Extra consumables if multiple battles are won.
+	Information on the [[Knights of the Silver Order]] and potentially [[Elyria]].
+	Potential for learning combo attacks with party member if Fate Points and some days are spent.
+- [ ] **Speak with [[River]] about receiving an Academy Ring. (Levi)**
+	
+	Rewards:
+	Progress with [[The Amethyst Academy]] relationship: opportunities for work and status.
+	Academy ring: valuable and provides magical bonus to Levi's innate magic.
+	Cantrip learning opportunity for [[Levi SlaughterDale]]
+- [ ] **Secure 100 Gold Pieces for a drop into a well outside Buckledown Row as tribute to the [[Queen of Thieves]]. 
+	([[Levi SlaughterDale]] Secret Objective)**
+	
+	Rewards:
+	Access to codes between certain merchants who will allow the fencing of stolen goods.
+	Poisons available for purchase.
+	Updated codes for conversation in the [[Midnight Court]].
+- [ ] **Retrieve deed belonging to [[Rupert McNamara]].**
+	
+	Rewards:
+	A few past belongings.
+	Deed of the McNamara estate.
+	Potential for learning combo attacks with party member if Fate Points and some days are spent.
 - [ ] **Ensure the [[ Feast of the Faithful]] goes smoothly.**
 	
 	Rewards:

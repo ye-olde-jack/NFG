@@ -13,10 +13,18 @@
 - Militia Patrol is good for Hooded Lanterns. Maybe also Silver Order.
 	- Edelgard will fuck with.
 	- Jupiter Jack will fuck with.
-- Grand Colosseum is good for the Silver Order.
-	- Edelgard will fuck with.
-	- Jupiter Jack will fuck with. (Discombobulate.)
-	- Clarence will fuck with.
+- Grand Von Kessel Colosseum is good for the Silver Order.
+	Names for the Challengers:
+	- 1. Alchemy-Fueled: Mario the Mixer! (Personality is Mariosack) (Queen's Men guy.)
+	- 2. Scion-Enhanced: The Wizard Axe! (Personality is Axe from Webcomic. Uses Titansurge giant growth hormone.) (Academy ideals.)
+	- 3. Manikin- Brom the Brash! (S-O-C-Ks voice, actual name is 'Bruce'. From Elyria but Mageborn so works in colosseum.) (Silver Order ideals.)
+	- 4. Infected- Mirarda. (Whispery and weird) (Following Fire ideals)
+	- 5. Ironbound- Quentin, AKA The Ironbound. (Silver Order ideals)
+		- If he wins, mutates further and will get escorted out.
+	- 6. Edelgard- Casket Crafter, current hot-streak. (Her own sheet.)
+		- Edelgard will fuck with.
+		- Jupiter Jack will fuck with. (Discombobulate.)
+		- Clarence will fuck with.
 - Craft a Manikin changed to Craft a Spellbound. Good for Academy.
 	- Remark will fuck with.
 	- Edelgard will fuck with.
