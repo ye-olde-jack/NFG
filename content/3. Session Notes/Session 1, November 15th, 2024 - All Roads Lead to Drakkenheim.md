@@ -12,7 +12,7 @@
 - Got some information from [[Erin Marlowe]].
 	- Three new adventurers selling [[Delerium]] to a woman in the [[Red Lion Hotel]]. Heard from Erin Marlowe.
 	- Selling potions from the Reed Manor. Heard from Erin Marlowe.
-	- Dwarves mining south of the crater. Heard from Erin Marlowe.
+	- Dwarves mining [[Delerium]] south of the crater. Heard from Erin Marlowe.
 	- Informed them about Gainsbury. Heard from Erin Marlowe.
 	- Weird things happening in [[Gueristicos]], maybe caused by sorcerous houses.
 - Met three failed adventurers coming from the city, previously five before they were injured.

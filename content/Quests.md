@@ -26,6 +26,7 @@ kanban-plugin: board
 	Information from another [[Malfeasant]] Mage.
 	Magic Item: Pearl of Power.
 	Magic Item: "Kin's Carving."
+	Spirit service: **Bobakik.**
 - [ ] **Visit the [[Black Ivory Inn]].**
 	
 	Rewards:
