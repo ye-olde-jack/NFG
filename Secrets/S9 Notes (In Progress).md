@@ -8,8 +8,10 @@
 2. At some point during the next session have Thalia roll 2d4 and pick which between those define the scar she gets from her most recent beating. **Did this, she rolled a three and has the scar on her back.**
 3. Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
 	- ~~Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.~~ **Did that, now write it down.**
-4. **Basic weather table in Step 8. Rolled on it and got strong winds, strong snow.**
+4. **Basic weather table in Step 8..**
 5. Skim 'Negotiating an Alliance' part around negotiating segment. **Have Ophelia Reed inquire on the prospect of assistance to get the Relic of Saint Vitruvio. Dousing Rods of Saint Brenna.**
+6. Make sure to do something with Hosh, have him get that honest occupation Rupert was harping on.
+7. 
 
 # Intro
 **Last call for food, snacks, and using the bathroom.**

@@ -1,0 +1,3 @@
+#location #Drakkenheim #Knights_Of_The_Silver_Order 
+
+A few short miles outside the city of [[Drakkenheim]] is the Von Kessel Colosseum, referred to jovially by visitors as the 'Kesseleum'. Put into creation some odd seventy years ago near the founding of Drakkenheim by a member of the original von Drakken family, the project received additional funding by Ulrich von Kessel the Second around eighty years past.
