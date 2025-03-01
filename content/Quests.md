@@ -20,13 +20,34 @@ kanban-plugin: board
 	Rewards:
 	**Level up!**
 	Healing Potions.
+	250 GP.
 	Crafting components for magic items.
 	Research on Delerium.
 	Contaminated Spell.
 	Information from another [[Malfeasant]] Mage.
-	Magic Item: Pearl of Power.
 	Magic Item: "Kin's Carving."
 	Spirit service: **Bobakik.**
+	
+	Academy Rewards:
+	Magic Item: Pearl of Power.
+	
+	Queen's Men Rewards:
+	Magic Item: Boots of Striding and Springing.
+	Magic Item: Ring of Water Walking.
+	
+	Silver Order Rewards:
+	Knowledge regarding Relics of Saint Vitruvio.
+	Availability for certain purchases at Crowe and Son's.
+	Magic Item: -
+	
+	Hooded Lanterns:
+	Availability for certain purchases at Crowe and Son's.
+	Funds for getting an attribute on a vehicle, or even purchase of a vehicle.
+	
+	Falling Fire:
+	Passage through Champion's Gate.
+	Welcome services from Hendrix Farm.
+	Contamination aid.
 - [ ] **Visit the [[Black Ivory Inn]].**
 	
 	Rewards:

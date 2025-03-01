@@ -1,19 +1,21 @@
-# Top of Session Reminders (In Progress)
+# Top of Session Reminders (Review, Done)
 1. I~~improving speech stuff:~~ **Just generally do this, but it's done.**
 	1. Record self, try daily doing this in Discord. Fastest way to spot what I need to improve.
 	2. Make a sticky-note pre-session that tells me to mirror what others are doing for their energy level. Follow big body language, adjust volume to their level.
 	3. Learn how to pause more. Cuts down on filler words and non-words.
 		1. Use the FORD method for NPCs: Talk about Family, Occupation, Recreation, or Dreams.
 	4. End your sentences on a lower pitch, otherwise stuff sounds like a question.
-2. At some point during the next session have Thalia roll 2d4 and pick which between those define the scar she gets from her most recent beating. **Did this, she rolled a three and has the scar on her back.**
-3. Maybe the Rat's Nest was nearby some old sorcerer-king tomb thing and it let out a spirit that was once in service to him. Consider how Spirits and Sorcerer-Kings interacted back in the days of yore, if at all.
-	- ~~Note for narration that the explosions and activity knocked loose some kind of big stasis pod. Like the one that knocked Mobius free, someone or something gets out.~~ **Did that, now write it down.**
-4. **Basic weather table in Step 8..**
-5. Skim 'Negotiating an Alliance' part around negotiating segment. **Have Ophelia Reed inquire on the prospect of assistance to get the Relic of Saint Vitruvio. Dousing Rods of Saint Brenna.**
-6. Make sure to do something with Hosh, have him get that honest occupation Rupert was harping on.
-7. 
+2. **Basic weather table in Step 8..**
+3. ~~Skim 'Negotiating an Alliance' part around negotiating segment. **Have Ophelia Reed inquire on the prospect of assistance to get the Relic of Saint Vitruvio. Dousing Rods of Saint Brenna.**~~ **Review negotiating segment in Emile's Downtime.**
+4. ~~Make sure to do something with Hosh, have him get that honest occupation Rupert was harping on.~~ **Check, did.**
+5. Cut between people every fifteen to twenty minutes, shorter to like eight to ten tops if in group stuff. Better include other people's motivations.
+6. Include a scene with Mobius seeing Cyrillia. 
+7. **Make cards for Aqua Expurgo and bracelets.**
 
-# Intro
+# Banger Lines
+- 'Both fear and hope are needed in order to make a change.'
+- 'Apocalypse, what a peculiar interpretation. It has Classical origins, 'Apocalypsus. Meaning, to uncover. An end but also an important beginning.'
+# Intro (Review with Matt)
 **Last call for food, snacks, and using the bathroom.**
 - **Make sure Mobius gets his second roll on the Academy Lectures.**
 Call them beautiful bastards and ask them if they're ready to play some D&D.
@@ -21,8 +23,20 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 - Immersion is king: hold back dick jokes and comments during scenes.
 - Silence phones.
 
-==He's come to make an announcement.==
-- Another beautiful day in Emberwood as far as this side of Westemär can concern itself, I'm happy to bring to you the latest news surrounding the town's freshest adventurer prospects and all the news of percolating prospecting that's going on in the ruins of the old town! Bringing you the latest that the news has to offer, reporting from near Camp Dawn as the final fights from the Von Kessel Colosseum clash before the year is over. Catch it now- you won't want to miss this, folks, because word says these duels are gonna be unlike anything you've seen before. Dawn Duels like this are one in a hundred, a thousand, a million! Everyone's going to be talking about it and is it really something you want to risk missing? Forget the work, remember what Saint Vitruvio said! 'Give yourself some time by the Hearth', and what better place to do so than some spectacle violence! Have news from Bark & Buzzar- news like no other- it's Felix Firecracker remind you Drakkenheim is no place to go- because-
+- Have Mobius' intro ready.
+	- It's a scene where he's basically crafting a magical item. The crafting is a thing that's been taking place over a few days and this is like the moment of truth.
+- Starts:
+	- Montage where Mobius covers the last four days preparing for the crafting event.
+	- Begins with Mobius going through clothes, preparing himself for something difficult or uncertain about. Song kicks it.
+	- Cut to schematics, grab blood sample. Show him working on it.
+	- Sees Thalia in infirmary, swipes blood sample from her disguised as nurse. 
+	- Cut to walking through Emberwood, schematics poking out from bag. Step two is secure proper frame for the item, see Tobias talking with D'Arlan picking up equipment.
+	- Cut to walking up to Jessica, schematics poking out. Step three is collect folk magic artifacts. 
+	- Cut to walking out of town, encounter Rupert and some Knights of the Silver Order. Step four is find a good spot to work.
+- Perception roll to notice Hosh was tailing him.
+
+
+- 
 - ==**Ain't no place for no heroes drop.**==
 - Enter into Firecracker going from person to person getting statements of what happened. He gives the recap. 
 
@@ -33,28 +47,78 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 
 
 
-## Downtime
-- Emile: 2 Activities in mind, Carouse in Black Market and Volunteer.
-	- Wants to do some interactions between Ophelia Reed and Captain Ansom.
-	- Keep personal identity clean when carousing. 
-- Levi: Activities?? In mind??
-	- Wants to go with Rupert to assist in the securing the deed.
-	- Figure out Academy Ring specifics. 
-	- Give Levi Academy Drip.
-- Mobius: A lot of stuff, allegedly.
-- Rupert: 2 Activities in mind, Dawn Duel and Militia Patrols for the Silver Order.
-	- Wants to make armor as well, likely with 'I know a guy.' ==Did the I know a guy, yet to interact with. Armor will take one week.
-	- Potentially training alongside Thalia means that there might be combo attack learning.
-	- Wants to go with Levi to assist in the securing the deed.
+# Downtime
+- Emile: 2 Activities in mind, Cook at the Hendrix Farm with Thalia. Check dead drop location, which is: 
+	- **Check who's present for this.** Wants to do some interactions between Ophelia Reed and Captain Ansom.
+		- A lot of this boils down to a few potential weeks of working together if he succeeds on three checks related to demands.
+			- One failure means negotiations stall until year's end but they get to working together. Two failures means recovery of a relic will be necessary for further work. Three fails means loss of immediate negotiations and drop in renown.
+		- Complications:
+			- Cyrillia is present for this, makes Captain Lang unsteady since that's a representative of Arcadia.
+			- High Flamekeeper seems very patient with working with the well-appointed young man in front of her, he's very ornate in his display which is a strange show.
+			- Events of the recent pilgrimage puts either in an uncomfortable position.
+		- Shared Ideals: (Roll one to make them see)
+			- Drakkenheim can be Restored - we can rebuild this once glorious city. We might have to burn it to the ground first, though.
+			- Delerium is to be monitored - Neither side partakes fully in the strange stones, so having each other to rely on will be essential.
+		- Demands: (Roll two to make these seem reasonable or add/take away from them.)
+			- Silver Order:
+				- **Help in the Patrols/Presence in Emberwood. - the Silver Order requires assistance from the elite units of the Hooded Lanterns in acquiring their own foothold in the city. They want some show of support to maintain connection with the local Chapel.**
+				- 
+			- Hooded Lanterns: (Roll three to smooth these over.)
+				- **Military Support - the Lanterns want access to the manpower and material supplies that the Silver Order has available**
+				- **Declaration of Intent - the Lanterns require that the Silver Order formally pledge their intentions and renounce any political designs on the rulership of Westemar**
+	- Hendrix Farm. 3 success means +1 with FF, 2 success means +1 with all factions, and total failure is -1 to faction of my choice. (For Emile, likely Silver Order or Hooded Lanterns.)
+		- DC 15.
+		- No monetary cost.
+		- Unique challenges based on Contamination-related issues.
+		- Each success means a reward, each failure means a roll on complication table.
+- Levi: Attempt Militia Patrol, go to an Academy Lecture.
+	- Militia Patrol.
+		- No specific resources required to do.
+		- Different shifts: daytime patrol DC 10, nighttime DC 15, and Outer City DC 20.
+		- Athletics, Perception, and Persuasion rolls.
+		- Each success means a payout, two success means +1 with local militia, and three means additional reward.
+		- Two fails means complication.
+	- Academy Lecture. Subject:
+		- One fail is noticed by another group and a minor complication. Complication table, but usually lesser unless advanced theory is being studied.
+		- Two fails is another complication full consequences, along with bad reputation with Academy + Silver Order + Queen's Men. (Pick)
+		- Success means reward applies on the skill checks for a given category. Double success means ability and skill checks for where reward applies.
+- Mobius: Magic Item crafting + Academy Lecture.
+	- Create Magic Item for Thalia.
+		- Three rolls: Arcana, Tool Check, and Wisdom save.
+		- No matter what, Arcane Anomaly. Consult Mason's advice on this one.
+	- Academy Lecture. Subject: Magic Synthesis, taught by River.
+		- One fail is noticed by another group and a minor complication. Complication table, but usually lesser unless advanced theory is being studied.
+		- Two fails is another complication full consequences, along with bad reputation with Silver Order. 
+		- Success means reward applies on the skill checks for a given category. Double success means ability and skill checks for where reward applies.
+- Rupert: 2 Activities in mind, Militia Patrols for the Silver Order.
+	- Militia Patrol.
+		- No specific resources required to do.
+		- Different shifts: daytime patrol DC 10, nighttime DC 15, and Outer City DC 20.
+		- Athletics, Perception, and Persuasion rolls.
+		- Each success means a payout, two success means +1 with local militia, and three means additional reward.
+		- Two fails means complication.
+		- **Hosh will be joining patrol.**
 - Thalia: 2 Activities in mind, maybe 3.  Volunteer, Dawn Duel, and maybe Refugees or a patrol.
 	- Will potentially train alongside Rupert, learn combo attacks this way.
+	- Hendrix Farm. 3 success means +1 with FF, 2 success means +1 with all factions, and total failure is -1 to faction of my choice. (For Thalia, likely Silver Order, Academy, or Falling Fire.)
+		- DC 15.
+		- No monetary cost.
+		- Unique challenges based on Contamination-related issues.
+		- Each success means a reward, each failure means a roll on complication table.
 - **Mutual Scenes:**
 	- Thalia is on her way out, sees Emile and requests an extra set of eyes.
-	- Rupert with Thalia training at the Dawn Duel areas.
+	- Scene wanting to do: Interaction with Rupert, some stuff with Honor at Hendrix Farm
 	- Emile and Mobius have to talk about Kramer recent events.
 	- Levi and Emile run into each other at the Midnight Court.
-	- Healing scene between Rupert and Thalia, after a duel they get to have a short combat scenario.
-	- Visit to old McNamara estate for the house deed as collateral.
+	- Joe wants some drama with Mobius and Levi.
+	- Roleplay Mobius giving Rupert his magic item, convo.
+	- Roleplay Mobius giving Thalia his magic item, convo.
+	- Roleplay Mobius giving D'Arlan his magic item, convo about Kramer.
+	- Conferring with Dr. Mobius about what he's learned about Kramer. And allowing the doctor to take a look at his new lighter.
+	- Having a "chat" with Levi to try to figure out who that letter was from way back when.
+	- Having a "chat" with Levi to try to figure out who that letter was from way back when.
+	- Talking to Thalia about what she thinks about political/religious developments.
+
 ### Character Reminders (In Progress)
 - Emile:
 	- Beguiling Influence - Beguiling Igniter, Trinket is a little pocket lighter that he will use to start conversations, cooking fires, or offer a light for a smoke.
@@ -64,14 +128,11 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 			- Silver Order will default to using Felix Firecracker if not Emile.
 			- Hooded Lanterns will default to using Officer Yannick if not Emile.
 	- **Mundane Item reward:** ~~Larg and Schultz Mk. II "Hamstring" or "Bushwhacker." Rifle reward.~~ **Given.**
-	- **Magic Item reward, ==PAID FOR BY HOODED LANTERNS AND MADE WITH SILVER ORDER MATERIALS==:** 
-	- Petra's Packset, Advanced Packset. Common piece of tech. 
-		- A chunky piece of equipment weighing around fifty pounds, including battery, two handheld communication devices, and range for three different channels.
-		- While outside of Drakkenheim, the two packset communication devices can be used to communicate within 2,000 feet of their larger pack.
-		- While within Drakkenheim, the haze interferes with communications- not only limiting the uses but halving the range. The packset has enough range for 5 messages between each communication device. While wielding it, you can use an action to expend 1 charge and speak a message to the other person. With an hour of time and a single successful check, the packset can be given back 1d4+1 responses or up to the intelligence modifier of the repairer, whichever is greater. Extensive use inside Drakkenheim requires proper maintenance.
+	- **Magic Item reward, ==PAID FOR BY HOODED LANTERNS AND MADE WITH SILVER ORDER MATERIALS==:** Petra's Packset card, **given**.
 	- After the radio kit, at one of the adventure sites is the "Shiver" spirit boon, which is like Locate Object but ties into the Whisper abilities from CAIN.
 	- Spend gold on Firearm modifications from the Gunslinger Document.
 - Levi:
+	- **People at lectures notice Levi's contamination.**
 	- Refresh on spirits and talk about illusions. **Have some cool exploration stuff during the trip with Rupert.**
 	- **Choice:** What to do with the Jupiter Jack watch.
 	- **Mundane Item reward:** Alchemical Concoction that Mobius snags. Options for spending gold includes things from the Queen's Men, as well as Firearm modifications from Gunslinger document and from the vehicle upgrade doc.
@@ -83,7 +144,7 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 	- Make sure there's neat delerium stuff going on.
 		- Arcanomagnetism.
 		- Multiple isotopes.
-		- Consult actual bio notes for this shit.
+		- Consult actual bio notes for this shit on the biomolecules.
 	- **Choice:** What to do with the Delerium they find.
 	- **Magic Item reward:** Academy Ring. Already received.
 	- **Mundane Item reward:** Personal writ from River detailing an all expense paid trip to Erin Marlowe's Menagerie or Aldor the Immense, up to one hundred gold, for any research equipment or material he may need.
@@ -91,7 +152,8 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 - Rupert:
 	- All good, but give a good choice during the session.
 	- Funny moment: Ratlings doing the 'What is my purpose' bit. Answer, 'to watch the door' or do some other menial task.
-- **Choice:** Attunement to the Brassard.
+	- Encounter Hosh during patrol, as well as Lenny, son of Benny.
+- **Choice:** Attunement to the Brassard. **Not done, but given.**
 	- He can do this in about any way he wants to but there are ways to brute force things and there are ways to get in more easily.
 		- Easiest thing to do is to have a self-insight check or for Levi to register something about the spirits present in the item that Rupert needs to talk with or figure out how to talk with. Past ideals seal this deal.
 			- Protect Drakenheim and its people.
@@ -99,11 +161,7 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 			- Never tell a harmful lie.
 		- Harder thing to do is to have someone else assist with the attunement process in a dream and reinforce strength of conviction in the oath he has.
 	- **As a last resort, pull out Lenny, Son of Benny if you have to.** He'll actually just be around while they're scanning the house.
-	- **Magic item reward:** 
-	- Tin Knuckle Brassard. Made by his wife Sariah and held onto by Captain Egon. Rupert had a copy of the medallion during the civil war. It's something earned for holding a line against the beasts of Drakkenheim.
-		- Wondrous item, Common. (*Optional Attunement by the husband of Sariah and close friend of Captain Egon.*)
-		- While wearing this brassard, you may expend one charge to gain a d4 bonus to Intimidation and Persuasion checks. All charges spent by this item are regained during a long rest.
-		- While attuned to this brassard, you gain a bonus d4 to all charisma checks.
+	- **Magic item reward:** Tin Knuckle Brassard, **given.**. 
 	- **Mundane item reward:**
 		- **He's good without.**
 	- Aqua Delerium. In addition to that, first Uncommon item on the condition he accepts another job from River.
@@ -179,7 +237,7 @@ Encounter rolls:
 		- Ophelia Reed **Done**
 			- Goal: Secure influence in Drakkenheim.
 			- 1. Manufacture or hear of an incident at the Chapel. Show of force at St. Ardenna’s chapel to show that the silver order is needed. something along the lines of “you may not like this, but you're out of your depth. stay out of our line, we’re doing the work here”.
-			- 2. Expand the silver order base to accommodate more people and vehicles. A good way to do this is to secure funding from Elyria via successful missions or good words from Emberwood that she can report back.
+			- 2. Expand the silver order base via securing the Reed Manor, and other Camp Dawn expansion to accommodate more people and vehicles. A good way to do this is to secure funding from Elyria via successful missions or good words from Emberwood that she can report back.
 			- 3. Manage each part of the Silver Order.
 		- River **Done**
 			- Goal: Eliminate anyone in the way of Eldrick Runeweaver and live well.
@@ -194,7 +252,7 @@ Encounter rolls:
 				- Conversation with Rupert over the radio that gets dropped by the Flying Mind Screamer. This is to live in Rupert's mind.
 				- Fire off some spells to distract from the firework show. Especially good fireworks will distract from this but it will go down to a spellcasting check between Doctor Mobius and Kramer, who gets a +6 bonus.
 				- Introduce a few seeds that will grow in the soil of Emberwood. (These will become Twig Blights in several sessions, or some other hostile plant)
-- # Step 2: Major NPCs (Review)
+- # Step 2: Major NPCs (Reread)
 	Major NPCs are those who will be driving the action of the stuff we're doing.
 	- Flesh out the NPC leading each front: some of this is already done.
 		- Current leads
@@ -217,7 +275,7 @@ Encounter rolls:
 	- Matt Colville video on on making towns.
 	Keeping the rest of the world on Drakkenheim alive:
 	- Determine some major events that would be significant or interesting to some of our characters going on in Drakkenheim overall. <>indicates freely learned about.
-		- Drakkenheim Rumor: **Rumors that a man with seven eyes tends to the sick in an old water treatment facility. Some say people have even come away from it without the touch of contamination.** Has yet to be added.
+		- Drakkenheim Rumor: ~~**Rumors that a man with seven eyes tends to the sick in an old water treatment facility. Some say people have even come away from it without the touch of contamination.**~~ Added.
 		- <>Emberwood: ~~**Knight Captain Theodore Marshal apparently leading forces within Camp Dawn on strenuous training sequence, ensuring they are prepared for anything to come.~~ Spoke about.**
 			- Can be found out on DC 13-15 check of some kind: Was apparently requested to stay there by Ophelia Reed in turn to his own request for her to .
 		- Newspaper: **The name of Eldrick Runeweaver, current lead of the Amethyst Academy once again thanked as personally present for the receiving of Mageborn from Elyria. A recent discovery of multiple mageborn has lead to a successful validation for the Edicts of Lumen as the children get handed over to representatives of the Amethyst Academy.**
@@ -231,23 +289,29 @@ Encounter rolls:
 		- <>Drakkenheim: ~~A band of around two dozen attempted a pilgrimage on their own into the city during the Feast of the Faithful, it went quite poorly.~~ **Go over this again, include Edelgard somewhere too**
 			- Space for notes: Thalia wants to potentially help, same as Rupert.
 	- Determine what day, season, year, etc. it currently is.
-		- Day is November 30th, 1914. Next day begins December 1st, 1914. ==9 days from that day, River will have another mission that the Queen's Men will ask about the day before.==
+		- Day is December 6th, 1914. ==Include faction people each asking Ratcatchers about Oscar Yoren.==
 	- Determine if there's some kind of special occasion or holiday occurring or approaching. maybe people are getting ready for or cleaning up after a holiday?
-		- People are cleaning up after the Feast. Most are going to be shaken from some of the recent events, but not a lot of people are stressing over it and took time to clear away from being near the Chapel as a result.
-- # Step 4: PCs current goals and plans (Done, but reread day of) (4/4.)
+		- Lots of people finding ways to get out of the cold and weather against winter.
+		- People are cleaned up after the Feast. Most are going to be shaken from some of the recent events, but not a lot of people are stressing over it and took time to clear away from being near the Chapel as a result.
+- # Step 4: PCs current goals and plans (Done, but reread cowriting corner) (4/4.)
 	- Where is your character currently? **Emberwood Village**
-		- Thalia is getting ready to set about her downtime across Emberwood, specifically the Hendrix Farm and Dawn Duels at the Von Kessel Colosseum. Ophelia Reed wants to keep some negative pressure on Thalia, which can be represented by some hard fights her way and having Rupert test her through combat. 
-			- To make her feel cool: let the combat be awesome spectacle 
-		- Rupert is on the way looking for Levi, wanting to get to the McNamara estate in order to get the deed for a loan, as well as get prepared for the up and coming Dawn Duel. He's prioritizing the getting ready and anticipating contamination but won't slow down on the path to ridding different places of evil, like parts of the Silver Order and Drakkenheim as a whole. Both these NPCs, Ophelia Reed and Nathaniel Flint want him.
-			- To make him feel cool, have the spirit of the past honor him in a big way. Army salute to Rupert if he manages to put on the Brassard.
-			- Also, just generally make the Dawn Duel badass.
-		- Dr. Mobius is attempting to research the bulk of Delerium. Needs to test different samples, looking at stuff under microscopes, and generally trying to make some magic items. He's kind of high from the recent rush of beating Kramer in a short, stupid pissing contest.
-			- To make him look cool, just have River be impressed with his research. Recent encounter with Kramer should do the rest.
+		- Thalia is getting ready to set about her downtime across Emberwood, recovering from the Dawn Duels but wants to go to Hendrix Farm. Ophelia Reed wants to keep some negative pressure on Thalia, which can be represented by some hard fights her way and having Rupert test her through combat. 
+			- To make her feel cool: let people refer to her as Ashen Angel and do dream sequence.
+		- Rupert is on the way to work with the local militia, characterize them as brash but brave. A lot of them are tired but in good spirits even if they're doing the Outer City patrols. Both these NPCs, Ophelia Reed and Nathaniel Flint want him.
+			- To make him feel cool, have the party of the Silver Order Knights pay some respect to him. Use the given groups from the book to do this and write up people as you get the chance.
+			- Also, have a moment during the patrol where his old commander salutes him.
+		- Dr. Mobius is going to make a magic item.
+		- Is attempting to research the bulk of Delerium. Needs to test different samples, looking at stuff under microscopes, and generally trying to make some magic items. He's kind of high from the recent rush of beating Kramer in a short, stupid pissing contest.
+			- To make him look cool, make the air quiver and taste of iron. Electricity both hot and cold through his body.
 		- Levi's in the middle of heading up to visit River to get looked at for contamination, his recent case is pretty bad. **Make an item card for the contamination.** 
-			- Getting fitted for the Academy drip will be stupendous, no-doubt.
+			- Make Levi cool by being a person of interest for Kuromi to try impressing.
 			- Have Kuromi be fucking gob smacked when it comes to the fact that Levi pocketed the watch of Jupiter Jack. JJ's a scary motherfucker. 
-		- Emile is heading back to Emberwood from the Rat's Nest tavern, having headed into the city after calming down multiple members of the Chapel post events during the Feast.
-			- Have there be a contact in the Midnight Court who knows of Emile, is impressed by his status, and wants to provide a little something something in terms of contact information.
+		- Emile is going through Emberwood with purpose to learn information and better group standing.
+			- Miss Bliss will detail a few of the local gangs from the Queen's Men to Emile, each that are unified around one sword:
+				- Jacks, one of the main fighting crews that prioritizes tripping up enemies and fighting dirty. Made up of people who fought during the Civil War.
+				- Spades, main prospecting crew that butts heads with the Jacks. They keep to Buckledown Row more often than not. Made up of people who were stuck in jail when the meteor fell.
+				- Hearts, players, performers, and people who all band together for the explicit purposes of blending into places and making friends. Diplomats of the Queen's Men. A lot of Caspians in this group.
+				- Diamonds, trade of diamonds has more or less been made illegal and well monitored after the meteor fell. Any craftsperson working with it has been tamped down on. These people manage a lot of the manufacturing and trade of the Queen's Men. 
 	- What are they trying to get to or where are they trying to go?
 		- Thalia is trying to get to the Chapel and is there, wanting to train up her combat prowess, to secure that dog name alongside Honor, and to make it back home. Hanna is going to suggest Thalia uphold her values as she sees fit to, Honor is going to suggest some more reading options like a few passages from the Testament, and Flamekeeper Isaac is going to do some effort to reinforce stuff about monsters, surveying and sticking with the rest of the party, and so on.
 			- Minor scene with Isaac.
@@ -322,15 +386,20 @@ Encounter rolls:
 				- Finding and arresting Kramer.
 	- Determine who, if anyone, is trying to stop them.
 		- Mobius - James Ockman might try to stop Dr. Mobius from doing some experimenting while within his rental property, stating that if he does then he might have to start renting a room somewhere. If he does magic in public, it's likely not a good thing and will attract Knights of the Silver Order attention.
+			- **Hosh is going to trail him.**
 			- Best case scenario: they know where he lives.
 			- Worst case: he casts magic in front of them and they know where he lives.
 		- Emile - River is going to be made suspicious of him by Remark.
+			- **Clarity** is going to talk with Emile, figure out what his deal is.
 		- Emile - Nathaniel Flint doing his major scene will also unsettle Ophelia Reed to a severe degree, and puts her into a more active state of wanting to get to Emberwood again.
+			- **Ophelia** seems unsettled by Nathaniel and is up in arms over Emile working at the Hendrix Farm.
 		- Levi - Kuromi is going to want to stop Levi from doing shit with River because that bitch is crazy. Will bring up telling Amiri.
 			- Step 7.
+			- Kuromi will also provide some visuals for Levi on Oscar Yoren, quote 'bruv, the window was open.'
 		- Rupert - Spencer D. Kramer is going to want to stop Rupert from destroying Delerium, partly to get Rupert on his side. Maybe he does this by assuming an illusory shape within Drakkenheim, and through doing this joins up with the rival adventuring party in order to get close to them and **boom**, murder em'.
 			- Step 7.
 		- Thalia - is trying to get stopped by Ophelia Reed, mostly by sent liaisons to get her and potentially Rupert away from the Chapel and Hendrix Farm. Over to Camp Dawn to participate in the Dawn Duels.
+			- Isaac's going to say otherwise though.
 - # Step 5: NPCs current goals and plans (Review)
 	- What have the major NPCs been up to?
 	- Decide what plans they have been making.
@@ -358,7 +427,7 @@ Encounter rolls:
 - # Step 6: Major Scenes (Essentially Done)
 	Potential scenes that might come up during play
 	- For each Front, develop a scene of them moving forward their plans in some way. don't include how PCs end up in the scene.
-		- Amiri: 
+		- Amiri: **Done, mixed on success or failure so roll for this to be either mid or fail.**
 		- **Part 1:** During a late night at the market, a few new stalls come forward and have some open libations for the crowd passing through- though only those that seem to have a particular phrase between them. "Acknowledge the Anon, that's the one who made this possible." **Add some more to this.**
 		- ==**Part 2 TO ACTUALLY DO:**== Kuromi, bedraggled and a little out-of-it looking from recent events, is in the midst of exchanging some delerium with Aldor the Immense for some extra gold and poisons. 
 			- Feast of the Fruitful.
@@ -377,6 +446,8 @@ Encounter rolls:
 					- Mobius: Interest in the monstrosities because they're from Kramer.
 					- Rupert: Powerful monsters afoot + Silver Order patrol fallen. Major loss because the force is as small as it is.
 					- Thalia: Edelgard is really affected by this and will hate on Thalia because of her getting back safe. Silver Order knight, Arthur Krieg, was the same age as Thalia.
+				- **Oscar Yoren:**
+					- Willing to send some scouts alongside party, Ryan and George from militia patrols.
 		- River: A certain red crow has been hanging around the Bark & Buzzard. Not only that, postage has been set in a few of the biergartens, dining halls, and along the staple-marked electrical lines that go throughout the village. What do they say? "Malfeasant Mage Oscar Yoren, Wanted Death or Alive. Reward: Magic Item crafted by the Amethyst Academy + 250 GP per hunter." **Did scene, no interaction.**
 				- PC Motivations:
 					- Emile: Hooded Lanterns also want this guy to keep doing business, on account of the fact that he used to sell them potions. Get him to keep doing that.
@@ -385,13 +456,29 @@ Encounter rolls:
 					- Rupert: Experiments on monsters, this cannot stand!
 					- Thalia: Existence of Oscar Yoren might be connected to the Silver Order party dying. Flamekeeper Isaac is interested.
 		- High Flamekeeper Ophelia Reed: Going to take the victor's (people who win three duels or perform) of the Dawn Duel today, watching from the high box while Officer Yannick and Felix Firecracker give their commentary from on high in their own side box by the middle row of the stands. ==Give a shoutout to the last Champion of the Dawn Duels, Kudos Khan.== **Yet to do scene.**
-			- PC Motivations: 
+		- **Real Scene for Ophelia:** 
+			- Edelgard Krieg present.
+			- Mention of Kudos Khan as past champion.
+			- For now just clarify that there's going to be a visit to Emberwood in the coming days and if the three would like to make themselves present for that then Ophelia would count that as a fine favor. They want to establish some more presence in or around the Chapel and want the word of if Thalia and Rupert will support- beginning with Thalia.
+				- **Witch Hunt.**
+				- High Flamekeeper heard about Oscar Yoren and is pissed about it. Burn this malfeasant.
+				- Has some info to share on his compound.
+				- The Order is going to send Knights to burn the manor to the ground before month's end, but will be in contact regarding this with Rupert, Thalia.
+				- **Will give Spell Scroll of Dispel Magic if they agree in name of the Silver Order.**
+				- **Will offer a magic item suited to a Cleric/Paladin, as well as 250 GP.**
+			- Put out notice that a relic of Saint Vitruvio has been part of recent news and that these people will be contacted regarding it soon.
+				- PC Motivations: 
 					- Emile: Will be interested in motivations of Ophelia Reed.
 					- Levi: Mobius might mention something to him, or you can add in that one of the people here is a Genasi of a specific magic school. Kudos Khan mention.
 					- Mobius: Will have an interest in some of the contaminated or harmed individuals. Maybe some of the academy people.
-					- Rupert: Will likely want to stop this.
-					- Thalia: Will likely want to stop this.
-		- Nathaniel Flint: Sharing the word of the Testament with an interested crowd is Nathaniel Flint, reading "Enlightenment, C1:V1, 'The Light shelters us, preserves us, edifies us, and to us the Light has given the promise of a New Dawn.' It is important to understand in these dark times where our lights are and to recognize those who shy away from flame need be wary of those who cast shade. Any injured are welcome to Hendrix Farm." He'll then heal a dude with a really bad head gash, from the Silver Order's almost fully lost team. First convert secure. **Did, likely successful on 5-6 total from 2d6 roll. Have this be the inciting incident that gets some of the party in this direction and also where Edelgard might go towards Thalia or Emile.**
+					- Rupert: Burn a potentially 'evil' mage is good. Will likely want to stop the advancement into Emberwood, perhaps.
+					- Thalia: Will likely want to stop this if it involves the Chapel.
+		- Nathaniel Flint: Sharing the word of the Testament with an interested crowd is Nathaniel Flint, reading "Enlightenment, C6:V4, 'The Falling Fire has passed through the Flame; thus, it cannot belong to the vile evil that seeks to overcome.' It is important to understand in these dark times where our lights are and to recognize those who shy away from flame need be wary of those who cast shade. Any injured are welcome to Hendrix Farm." He'll then heal a dude with a really bad head gash, from the Silver Order's almost fully lost team. First convert secure. **Did, likely successful on 5-6 total from 2d6 roll. Got six knights out of this.**
+			- **For Pilgrimage Hint, reference Enlightenment Chapter 7, Verse 4.**
+			- **For 'All that Glitters':** Nathaniel talks about Oscar Yoren.
+				- He attacked sanctified scouts in Queen's Park Garden, killed one. Has a piece of golden delerium with him that the Falling Fire wants back.
+				- They're willing to forgive Oscar, but want him to travel to Champion's Gate.
+					- Oscar's willing if they go kill a spectator and give him 25 GP as travel fee. (Mason's Notes)
 		- Do this: ![[Pasted image 20250219000837.png]]
 			- PC Motivations:
 					- Emile: Interested in what happened to lost Silver Order party. 
@@ -408,16 +495,16 @@ Encounter rolls:
 					- Thalia: More people might get hurt from this.
 	- Consider a possible timeline for each scene relative to the ones other people do. these don't need to be set in stone.
 		- **Timeline in progress.**
-		- **Nathaniel Flint** first. ==Did this.==
-		- **Spencer D. Kramer** fairly early on.
-		- **Captain Ansom Lang** after the first block week of downtime, he's going between Shepherd's Gate and the Old Watchtower in the meantime.
-		- **Ophelia Reed** at the Dawn Duel later into Downtime.
-		- **Amiri** either later into downtime. Probably while Dawn Duel is going on.
+		- **Ophelia Reed** at the Dawn Duel later into Downtime. First.
+		- **Nathaniel Flint** 
+		- **Spencer D. Kramer** going into city..
+		- **Captain Ansom Lang** or **Petra will go to party** after the first block week of downtime, he's going between Shepherd's Gate and the Old Watchtower in the meantime.
+		- **Amiri** either later into downtime. Probably when Levi is coming back from class.
 		- **River** after a few days of downtime.
 	- Figure out what would happen if the PCs never entered this scene. for example, what happens if the front succeeds? would that bring about one of their major milestones?
 		- Amiri: 
 		- Captain Ansom Lang:
-		- High Flamekeeper Ophelia Reed:
+		- High Flamekeeper Ophelia Reed: Knights become more present in Emberwood village, mixed feelings from people.
 		- Nathaniel: He would successfully bring in 1d10 Silver Order Knights. It's not major, but it's significant. ==Succeeds and brings in six Silver Order Knights.==
 		- River: 
 		- Spencer D. Kramer: 
@@ -426,7 +513,7 @@ Encounter rolls:
 	Have a handful of filler events or encounters ready.
 	- For each PC who's goal you weren't able to include in a major scene, develop a scene where they're able to further their goals.
 	- **Who has yet to get that treatment:** ==Emile, Mobius.== **Write theirs during break if you have to**
-		- **Rupert** gets a short dialogue with Kramer about his wife and about how to become inured against the horrors of Drakkenheim.
+		- **Rupert** gets a short dialogue with Kramer about his wife **during patrol** and about how to become inured against the horrors of Drakkenheim.
 			- They have to be willing to trade favors here. Kramer's is that he'll help show Rupert how to resist contamination, Rupert's has to be that he won't be the one to kill Oscar Yoren.
 			- Cannot under any circumstances tell Dr. Mobius or Emile D'Arlan, else something devious might happen to the new location where Mrs. McNamara lies.
 			- Agree to a partnership, temporary though it may be.
@@ -444,20 +531,20 @@ Encounter rolls:
 					- Doesn't react or do anything with Thalia unless touched or spoken to. At which point, on a rooftop near the walls of the inner city... she says, '**Conserve your motions from this place and set them elsewhere. Count them in fingerlengths. The one who is about to fall swings their arms the wildest**.' Pointing to the far distant crater barely seen through the haze-
 					- And then you wake up.
 			- **Part 2:** has some time with Honour interacting, Honour then beckoning Thalia to join her at the area surrounding Hendrix Farm to deal with the particularly hurt people while Hanna and Isaac take care of those that can actually afford to pay for injuries.
-		- **Levi**. River inspection over his body. Include Academy Ring stuff.
+		- **Levi**. Scene with Kuromi giving help for Oscar Yoren. Prepare the 
 			- Have River provide him with Amethyst Academy drip, then get Kuromi to run into Levi around the same time. Mobius might be out of the house at the Delicatessen getting some food for James Ockman 'the Ocky way', meaning he'll be gone for at least an hour. 
 				- Pristine formal attire. Royal purple suit, heliotrope handkerchief, dark plum shoes.
 				- Subtle jacket. Kind of an off-black color. 
 	- Roll for random encounters and have 1-2 of them ready for each hour of play.
 		- Delerium dreg encounter in the streets. **Have a disembodied psyche possessing one of the dregs.**
 			- Very simple to kill/avoid these guys. Getting out of the fight with 10 (2d6+3) HP missing is not unusual. 
-			- One will **explode** dealing 2d
+			- One will **explode** dealing 2d6 and save against contamination.
 		- Silver Order panicked encounter, they're maddened or delirious. 
 			- - lv4, CR4: 6 **Silver Order Soldier** and 1 **Silver Order Acolyte** ==SO Expanded PDF.==
 	- Prepare a very brief outline for transitional scenes, such as shopping or resting in town.
 		- 
 		- ==**In Progress**==
-- # Step 8: Scene Backgrounds (Done)
+# Step 8: Scene Backgrounds (Done)
 	Further develop each scene.
 	- For each scene, find or create a suitable map for the surrounding location if needed, such as a dungeon or a town map. **Needing color.**
 	- ==**Weather:**==
@@ -586,7 +673,7 @@ Encounter rolls:
 			10 - **Thalia:** Saint Tarna was no Paladin, no traditional Flamekeeper. She began her career into learning faith as a woman roaring against an unfair world with a sword in her hand. 
 		**NPCs:**
 		**World:**
-			11 - The names of the Arcadian Council are ==(Yohan)== Eoghan Ghostweaver, Cyrilia Verdenta, and Neldor Willoweep.
+			11 - The names of the Arcadian Council are ==(Yohan)== Eoghan Ghostweaver, Cyrillia Verdenta, and Neldor Willoweep.
 		**City:**
 - **Old Secrets:**
 		1. ~~Amiri's plane has some fuel with some Delerium in it.~~ ==Party used Osmosis to learn this one.==
@@ -595,7 +682,7 @@ Encounter rolls:
 		4. ~~Amiri was the one who stole the plane, himself.~~ ==Levi already suspects and has all but confirmed this.==
 		5. Thieves' Cant can be something that either Emile or Rupert can learn about via a history check or something similar when looking at people. It's something to learn on a dice check, more likely for Emile.
 		6. The Rat's Nest used to be a pretty spotty dive bar that people who now serve as Queen's Men frequented.
-		7. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrilia Verdenta, and Neldor Willoweep.
+		7. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrillia Verdenta, and Neldor Willoweep.
 		8. Mageborn children from Elyria were actually rescued from some kind of cult.
 		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		10. Saint Vitruvio was once a farmer before he became a Saint.
@@ -696,4 +783,66 @@ Standing:
 - Silver Order: Associates. (Neutral)
 	- Assisted Falling Fire during the Feast of the Faithful.
 
-
+# Step 9: Secrets and Clues (Done)
+What can the PCs discover about the world and events?
+	- For each scene, come up with a secret that could give away important information.
+	- For each location, come up with a piece of history or information that could either help the PCs explore it, or lure them to it.
+	- For each session, have at least 10 secrets or clues, but don't include where, when, or how those secrets or clues are discovered. Reveal them at moments that make sense in-game.
+	**New Secrets.** 11/10
+	==Lucretia can share up to two or three of these in good faith.==
+		**Factions:**
+			1. **Amethyst Academy:** Oscar Yoren is a prominent figure and past Archmage Apprentice of the necromancy wizard from the academy directorate. He's violated all but one of the Edicts of Lumen and is on the chopping block.
+			2. **Followers of the Falling Fire:** Chapel of Saint Ardenna was made by tithing the people of Emberwood and straggling survivors immediately after the fall of Drakkenheim.
+			3. **Hooded Lanterns:** Oscar Yoren's been snatching stuff from people for over ten years, surviving in the Outer City of Drakkenheim.
+			4. **Knights of the Silver Order:** Uncertain leads on a relic of Saint Vitruvio have been surmised to exist in one of a few locations, either of the Chapel of Saint Brenna or the Chapel of Saint Selina.
+			5. **Queen's Men:** Apparently the Queen's Men have provided shelter to some of the failed pilgrim prospects that went alone into Drakkenheim, and have even demonstrated Mageborn assistance for getting some out of the city and some into safer spaces.
+		**Player Characters:**
+			6 - **Emile:** The Silver Order do not mind breaking part of the old city in order to fulfill their mission.
+			7 - **Levi:** Some of the students from his lectures are Oscar Yoren's students.
+			8 - **Mobius:** The name Scion, of the man who had been asking about Kramer some sessions back, is not a given name but a title of an organization that hasn't been heard of in a thousand years. One Mobius was a part of.
+			9 - **Rupert:** Sariah's grave is empty.
+			10 - **Thalia:** Saint Tarna was no Paladin, no traditional Flamekeeper. She began her career into learning faith as a woman roaring against an unfair world with a sword in her hand. 
+		**NPCs:**
+		**World:**
+			11 - The names of the Arcadian Council are ==(Yohan)== Eoghan Ghostweaver, Cyrillia Verdenta, and Neldor Willoweep.
+		**City:**
+- **Old Secrets:**
+		1. ~~Amiri's plane has some fuel with some Delerium in it.~~ ==Party used Osmosis to learn this one.==
+		2. The green fires from Kramer are a variant of Witchfires which will be part of a a little fey spirit event within Drakkenheim where some spirits are let out into the world to do things and cause little mischiefs; A lot of the materials that he was gathering from Tobias were going to go into witchfire supplies.
+		3. ~~Kramer is the one throwing out fireballs and other spells along the outer city to scare people in Emberwood.~~ ==Literal confrontation with the man himself, from a grant distance.==
+		4. ~~Amiri was the one who stole the plane, himself.~~ ==Levi already suspects and has all but confirmed this.==
+		5. Thieves' Cant can be something that either Emile or Rupert can learn about via a history check or something similar when looking at people. It's something to learn on a dice check, more likely for Emile.
+		6. The Rat's Nest used to be a pretty spotty dive bar that people who now serve as Queen's Men frequented.
+		7. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrillia Verdenta, and Neldor Willoweep.
+		8. Mageborn children from Elyria were actually rescued from some kind of cult.
+		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
+		10. Saint Vitruvio was once a farmer before he became a Saint.
+		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~ ==Found this a while ago.==
+- # Step 10: Aftermath (Yet to be Session End)
+	What happens after the PCs have done their thing? What does everyone else do?
+	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
+		- Captain Ansom: TBD.
+		- Amiri: TBD.
+		- River: In TBD.
+		- High Flamekeeper Ophelia Reed: TBD.
+		- Nathaniel Flint: TBD.
+		- Spencer D. Kramer: TBD.
+	- If the PCs changed one of the locations in a major way, such as clearing out a stronghold or dungeon, consider who or what will be waiting to take advantage of the new status quo.
+	- Consider possible ways to reveal this information to the PCs in the future.
+- ==Downtime Notes from Session:==
+	- Emile: 10 days left. -5 for black market carousing.
+		- 14 rolled on disguising self. Named Camillo Petri. 
+		- Complication turned away first information via Jupiter Jack interfering.
+		- Miss Bliss then became an informant based on number four from contact table. Lady Whitescale as actual name, woman from Caspia who reinvested marriage funds to her own business. 
+			- Goes by 'Le Renard Noir', or the Black Fox over dead drop. 
+	- Levi: 14 days left (-1/2 for Estate and 1/2 for River = 1 day, then another four days for study downtime.) 
+		- Heads off with Rupert for the McNamara Estate.
+		- Showcases all spells except Cause Fear and Disguise Self.
+	- Mobius: 10 days left (-5 for Amethyst Academy lectures)
+		- Devoted to Experimental Weaponry. 
+	- Rupert: 14 days left. (-1 day for the estate)
+		- Heads to estate immediately.
+		- Talked with Levi, and Tobias.
+	- Thalia: 10 days left (-5 for Von Kessel Colosseum Dawn Duel)
+		- Rolled 3 for first duel, then got win.
+		- Rolled 3 for second win, 

@@ -217,7 +217,7 @@ What can the PCs discover about the world and events?
 		3. ~~Amiri was the one who stole the plane, himself.~~
 		4. Thieves' Cant can be something that either Emile or Rupert can learn about via a history check or something similar when looking at people. It's something to learn on a dice check, more likely for Emile.
 		5. The Rat's Nest used to be a pretty spotty dive bar that people who now serve as Queen's Men frequented.
-		6. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrilia Verdenta, and Neldor Willoweep.
+		6. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrillia Verdenta, and Neldor Willoweep.
 		7. Mageborn children from Elyria were actually rescued from some kind of cult.
 		8. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		9. Saint Vitruvio was once a farmer before he became a Saint.
