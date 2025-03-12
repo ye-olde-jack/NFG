@@ -10,11 +10,11 @@
 Total: 22.
 
 # Token Tracker (At end of session) 
-- DM Tokens: 6. Progress: 0/5.
+- DM Tokens: 5. Progress: 4/5.
 - Nick: 3 Tokens. -1 token for first combat. -1 for second combat. -2 from last combat
 - Henri: 2 Tokens. -3 for 'I know a guy.', -1 for second combat of Dawn Duel. +1 from bringing chocolate.
-- Joe: 4 Tokens.
-- Pat: 3 Tokens. -1 on a reroll.
+- Joe: 4 Tokens. 
+- Pat: 2 Tokens. -1 on a reroll.
 - Matt: 3 Tokens. -1 for Reroll with Academy downtime.
 Party total: Total: 15.
 
@@ -24,7 +24,7 @@ Party total: Total: 15.
 		- [[Emile D'Arlan]] denied comment on any large issues or his romantic life as Emberwood's Most-Eligible Bachelor when questioned by the reporter.
 		- [[Levi SlaughterDale]] begins on the way to have a conversation with [[River]], regarding a ring from [[The Amethyst Academy]] and an examination for his [[Contamination]].
 		- [[Doctor Archivel Gecker Mobius]] obliged a grand plan for the new year of advancement, support for others in the town, and created a good public foothold for some of the Academy. This was matched with some publicity raked in from the events of the fireworks from the [[Feast of the Faithful]].
-		- [[Rupert McNamara]] declared a few things that didn't make it on air, with the reporter making a few barbs regarding his late wife along the way.
+		- [[Rupert McNamara]] remained silent that didn't make it on air, with the reporter making a few barbs regarding his late wife along the way.
 		- [[Thalia Bleakheart]] played the diligent part of a wall, with some embellishment from the reporter on her exploits in the city.
 - Downtime begins, five days down of fifteen.
 - Thalia: 'Dawn Duels and recovery.'

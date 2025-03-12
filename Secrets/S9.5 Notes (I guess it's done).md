@@ -10,7 +10,7 @@
 4. ~~Make sure to do something with Hosh, have him get that honest occupation Rupert was harping on.~~ **Check, did.**
 5. Cut between people every fifteen to twenty minutes, shorter to like eight to ten tops if in group stuff. Better include other people's motivations.
 6. Include a scene with Mobius seeing Cyrillia. 
-7. **Make cards for Aqua Expurgo and bracelets.**
+7. **Make cards for Aqua Delerium and bracelets.**
 
 # Banger Lines
 - 'Both fear and hope are needed in order to make a change.'
@@ -26,19 +26,9 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 - Have Mobius' intro ready.
 	- It's a scene where he's basically crafting a magical item. The crafting is a thing that's been taking place over a few days and this is like the moment of truth.
 - Starts:
-	- Montage where Mobius covers the last four days preparing for the crafting event.
-	- Begins with Mobius going through clothes, preparing himself for something difficult or uncertain about. Song kicks it.
-	- Cut to schematics, grab blood sample. Show him working on it.
-	- Sees Thalia in infirmary, swipes blood sample from her disguised as nurse. 
-	- Cut to walking through Emberwood, schematics poking out from bag. Step two is secure proper frame for the item, see Tobias talking with D'Arlan picking up equipment.
-	- Cut to walking up to Jessica, schematics poking out. Step three is collect folk magic artifacts. 
-	- Cut to walking out of town, encounter Rupert and some Knights of the Silver Order. Step four is find a good spot to work.
-- Perception roll to notice Hosh was tailing him.
+	- 
 
-
-- 
 - ==**Ain't no place for no heroes drop.**==
-- Enter into Firecracker going from person to person getting statements of what happened. He gives the recap. 
 
 ## During break:
 - Check your phones.
@@ -180,17 +170,6 @@ Call them beautiful bastards and ask them if they're ready to play some D&D.
 	- Brand, Common.
 		- While this carving is set upon your body, you may twice per day as a reaction expend a hit-die to add to the healing of one creature you can see or hear within sixty feet of you. Whatever number you roll, you take half that amount as damage.
 		- During a moment where one with this mark would try to hide, creatures who have touched delerium and remained uncontaminated have advantage on Perception and Survival checks to locate creatures with this carving.
-
-Encounter rolls: 
-
-# Token Tracker (See S8 Notes)
-- DM Tokens: 3. Progress: 4/5.
-- Nick: 6 Tokens. 
-- Henri: 4 Tokens.
-- Joe: 3 Tokens.
-- Pat: 2 Tokens. 
-- Matt: 3 Tokens.
-
 
 # Token Bait: (Done, mostly)
 - Emile:
@@ -789,66 +768,3 @@ Standing:
 - Silver Order: Associates. (Neutral)
 	- Assisted Falling Fire during the Feast of the Faithful.
 
-# Step 9: Secrets and Clues (Done)
-What can the PCs discover about the world and events?
-	- For each scene, come up with a secret that could give away important information.
-	- For each location, come up with a piece of history or information that could either help the PCs explore it, or lure them to it.
-	- For each session, have at least 10 secrets or clues, but don't include where, when, or how those secrets or clues are discovered. Reveal them at moments that make sense in-game.
-	**New Secrets.** 11/10
-	==Lucretia can share up to two or three of these in good faith.==
-		**Factions:**
-			1. **Amethyst Academy:** Oscar Yoren is a prominent figure and past Archmage Apprentice of the necromancy wizard from the academy directorate. He's violated all but one of the Edicts of Lumen and is on the chopping block.
-			2. **Followers of the Falling Fire:** Chapel of Saint Ardenna was made by tithing the people of Emberwood and straggling survivors immediately after the fall of Drakkenheim.
-			3. **Hooded Lanterns:** Oscar Yoren's been snatching stuff from people for over ten years, surviving in the Outer City of Drakkenheim.
-			4. **Knights of the Silver Order:** Uncertain leads on a relic of Saint Vitruvio have been surmised to exist in one of a few locations, either of the Chapel of Saint Brenna or the Chapel of Saint Selina.
-			5. **Queen's Men:** Apparently the Queen's Men have provided shelter to some of the failed pilgrim prospects that went alone into Drakkenheim, and have even demonstrated Mageborn assistance for getting some out of the city and some into safer spaces.
-		**Player Characters:**
-			6 - **Emile:** The Silver Order do not mind breaking part of the old city in order to fulfill their mission.
-			7 - **Levi:** Some of the students from his lectures are Oscar Yoren's students.
-			8 - **Mobius:** The name Scion, of the man who had been asking about Kramer some sessions back, is not a given name but a title of an organization that hasn't been heard of in a thousand years. One Mobius was a part of.
-			9 - **Rupert:** Sariah's grave is empty.
-			10 - **Thalia:** Saint Tarna was no Paladin, no traditional Flamekeeper. She began her career into learning faith as a woman roaring against an unfair world with a sword in her hand. 
-		**NPCs:**
-		**World:**
-			11 - ~~The names of the Arcadian Council are ==(Yohan)== Eoghan Ghostweaver, Cyrillia Verdenta, and Neldor Willoweep.~~
-		**City:**
-- **Old Secrets:**
-		1. ~~Amiri's plane has some fuel with some Delerium in it.~~ ==Party used Osmosis to learn this one.==
-		2. The green fires from Kramer are a variant of Witchfires which will be part of a a little fey spirit event within Drakkenheim where some spirits are let out into the world to do things and cause little mischiefs; A lot of the materials that he was gathering from Tobias were going to go into witchfire supplies.
-		3. ~~Kramer is the one throwing out fireballs and other spells along the outer city to scare people in Emberwood.~~ ==Literal confrontation with the man himself, from a grant distance.==
-		4. ~~Amiri was the one who stole the plane, himself.~~ ==Levi already suspects and has all but confirmed this.==
-		5. Thieves' Cant can be something that either Emile or Rupert can learn about via a history check or something similar when looking at people. It's something to learn on a dice check, more likely for Emile.
-		6. The Rat's Nest used to be a pretty spotty dive bar that people who now serve as Queen's Men frequented.
-		7. The names of the Arcadian Council are Eoghan Ghostweaver, Cyrillia Verdenta, and Neldor Willoweep.
-		8. Mageborn children from Elyria were actually rescued from some kind of cult.
-		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
-		10. Saint Vitruvio was once a farmer before he became a Saint.
-		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~ ==Found this a while ago.==
-- # Step 10: Aftermath (Yet to be Session End)
-	What happens after the PCs have done their thing? What does everyone else do?
-	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
-		- Captain Ansom: TBD.
-		- Amiri: TBD.
-		- River: In TBD.
-		- High Flamekeeper Ophelia Reed: TBD.
-		- Nathaniel Flint: TBD.
-		- Spencer D. Kramer: TBD.
-	- If the PCs changed one of the locations in a major way, such as clearing out a stronghold or dungeon, consider who or what will be waiting to take advantage of the new status quo.
-	- Consider possible ways to reveal this information to the PCs in the future.
-- ==Downtime Notes from Session:==
-	- Emile: 10 days left. -5 for black market carousing.
-		- 14 rolled on disguising self. Named Camillo Petri. 
-		- Complication turned away first information via Jupiter Jack interfering.
-		- Miss Bliss then became an informant based on number four from contact table. Lady Whitescale as actual name, woman from Caspia who reinvested marriage funds to her own business. 
-			- Goes by 'Le Renard Noir', or the Black Fox over dead drop. 
-	- Levi: 14 days left (-1/2 for Estate and 1/2 for River = 1 day, then another four days for study downtime.) 
-		- Heads off with Rupert for the McNamara Estate.
-		- Showcases all spells except Cause Fear and Disguise Self.
-	- Mobius: 10 days left (-5 for Amethyst Academy lectures)
-		- Devoted to Experimental Weaponry. 
-	- Rupert: 14 days left. (-1 day for the estate)
-		- Heads to estate immediately.
-		- Talked with Levi, and Tobias.
-	- Thalia: 10 days left (-5 for Von Kessel Colosseum Dawn Duel)
-		- Rolled 3 for first duel, then got win.
-		- Rolled 3 for second win, 

@@ -15,6 +15,33 @@ kanban-plugin: board
 	Renown with interested factions depending on developments: **All Factions available.**
 	Emberwood housing opportunity from trapped refugees.
 	Rescue for Euclid, the Unbeliever.
+- [ ] **Visit the [[Black Ivory Inn]].**
+	
+	Rewards:
+	**Level up**!
+	Potential [[Delerium]] in fragments and chips.
+	Healing Potions, ingredients for potions.
+	Crafting components for magic items.
+	Magic Item: "Shiver" spirit boon.
+	Magic Item: Portable Hole.
+- [ ] **Hunt down [[Spencer D. Kramer]].**
+	
+	Rewards:
+	Fulfillment beyond your greatest wishes. (Requires further story progression to know)
+
+
+## In Progress
+
+- [ ] **Research the [[Contamination]] plaguing [[Levi SlaughterDale]] and [[Rupert McNamara]].**
+	
+	Rewards:
+	Potential avenue for discovering a cure.
+	Learn more about how to destroy [[Delerium]].
+- [ ] **Investigate and identify the source of the Radio Interference in [[Emberwood Village]].**
+	
+	Rewards:
+	Radio Kit.
+	Faction renown between appreciative parties, including the [[Hooded Lanterns]].
 - [ ] **Hunt down the [[Malfeasant]] [[Oscar Yoren]].**
 	
 	Rewards:
@@ -48,33 +75,6 @@ kanban-plugin: board
 	Passage through Champion's Gate.
 	Welcome services from Hendrix Farm.
 	Contamination aid.
-- [ ] **Visit the [[Black Ivory Inn]].**
-	
-	Rewards:
-	**Level up**!
-	Potential [[Delerium]] in fragments and chips.
-	Healing Potions, ingredients for potions.
-	Crafting components for magic items.
-	Magic Item: "Shiver" spirit boon.
-	Magic Item: Portable Hole.
-- [ ] **Hunt down [[Spencer D. Kramer]].**
-	
-	Rewards:
-	Fulfillment beyond your greatest wishes. (Requires further story progression to know)
-
-
-## In Progress
-
-- [ ] **Research the [[Contamination]] plaguing [[Levi SlaughterDale]] and [[Rupert McNamara]].**
-	
-	Rewards:
-	Potential avenue for discovering a cure.
-	Learn more about how to destroy [[Delerium]].
-- [ ] **Investigate and identify the source of the Radio Interference in [[Emberwood Village]].**
-	
-	Rewards:
-	Radio Kit.
-	Faction renown between appreciative parties, including the [[Hooded Lanterns]].
 
 
 ## Completed
