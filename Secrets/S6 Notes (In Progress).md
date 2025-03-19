@@ -94,7 +94,7 @@ Keeping the rest of the world on Drakkenheim alive:
 		- ~~**Lord Commander leaves Emberwood to regroup forces by Shepherd's Gate, apparently on watch for attacks from Gnolls to the Outer City.**~~
 		- **Knight Captain apparently leading forces within Camp Dawn on strenuous training sequence, ensuring they are prepared for anything to come.**
 			- Can be found out on DC 13-15 check of some kind: Was apparently requested to stay there by Ophelia Reed.
-		- ~~**Lucretia Matthias apparently met with some representatives from Arcadia that have since split up after hearing a prophecy from her. Unknown what the prophecy is, but the previous three member Council of Arcadia has split to join the Silver Order, retire to the Shrine of the Morrigan, and travel to Queen's Park Garden.**~~
+		- ~~**Lucretia Mathias apparently met with some representatives from Arcadia that have since split up after hearing a prophecy from her. Unknown what the prophecy is, but the previous three member Council of Arcadia has split to join the Silver Order, retire to the Shrine of the Morrigan, and travel to Queen's Park Garden.**~~
 		- **The name of Eldrick Runeweaver once again thanked as personally present for the receiving of Mageborn from Elyria. A recent discovery of multiple mageborn has lead to a successful validation for the Edicts of Lumen as the children get handed over to representatives of the Amethyst Academy. The children are all coming from a cult that got busted and murdered but that's way less public.**
 		- Elyria include a recent adjudication for the Lord Regent being elected anew, parade for Knights of the Silver Order having gone by and clean-up is beginning.
 		- Caspia includes the sorcererous houses in a frenzy after some killings done by the notorious Spencer D. Kramer, specifically House Bajavi (Illusions and Necromancy), House Gauth (Evocation and Abjuration), and House Eyerul (Conjuration and Divination).
@@ -134,7 +134,7 @@ What have the major NPCs been up to?
 		- Flamekeeper Isaac: Opposing Academy.
 			- Advocate against the purchase and selling of Delerium.
 		- River: Opposing Falling Fire.
-			- Warn others against the Falling Fire and mention that Lucretia Matthias is a liar and that the Falling Fire has no clear unified beliefs among them, that the beliefs will differ among the lot of them.
+			- Warn others against the Falling Fire and mention that Lucretia Mathias is a liar and that the Falling Fire has no clear unified beliefs among them, that the beliefs will differ among the lot of them.
 		- Spencer D. Kramer: Opposing Hooded Lanterns
 			- Recently provides Delerium to the Ratlings and is responsible for giving the Rat Prince a Delerium grill braces set.
 		- Captain Ansom: Opposing Queen's Men
@@ -218,7 +218,7 @@ What can the PCs discover about the world and events?
 		8. Mageborn children from Elyria were actually rescued from some kind of cult.
 		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		10. Saint Vitruvio was once a farmer before he became a Saint.
-		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
+		11. ~~Lucretia Mathias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
 - # Step 10: Aftermath (Done)
 What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.

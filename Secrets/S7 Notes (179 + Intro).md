@@ -77,7 +77,7 @@ Encounter rolls:
 
 
 # Prep
-- # Step 1: Major Fronts (Done)
+- # Step 1: Major Fronts (Fine)
 	A front is basically a villain or some kind of major issue. major issues can be something like an arcane disaster or natural catastrophe.
 	- Come up with 3 to 5 villains or major issues: Amiri, Ophelia Reed, Nathaniel Flint, Spencer D. Kramer, River, and Captain Ansom.
 	- For Amiri, Ophelia, Isaac, and Ansom: see session four notes.
@@ -128,39 +128,34 @@ Encounter rolls:
 		- Eldrick Runeweaver: Opposing Falling Fire as Adversaries, Cautious of Silver Order.
 		- Spencer D. Kramer: Opposing everyone, maybe even himself.
 		- Elias Drexel: Opposing Queen's Men.
-		- Amari/Queen of Thieves: Opposing Hooded Lanterns.
+		- Amiri/Queen of Thieves: Opposing Hooded Lanterns.
 		- Theodore Marshall: Cautious of Falling Fire, indifferent or earnest to most others.
 	- For each NPC, determine whether or not there is a faction that exists for us and our characters to interact with.
 		- **Completed**.
-- # Step 3: World Events (Done: Vids bulleted below are extra)
+- # Step 3: World Events (IP)
 	- Dungeon Coach DC 20 Video.
 	- Matt Colville video on on making towns.
 	Keeping the rest of the world on Drakkenheim alive:
 	- Determine some major events that would be significant or interesting to some of our characters going on in Drakkenheim overall. <>indicates freely learned about.
-		- Drakkenheim Rumor: **Rumors that a man with seven eyes tends to the sick in an old water treatment facility. Some say people have even come away from it without the touch of contamination.**
-		- <>Emberwood: **Knight Captain Theodore Marshal apparently leading forces within Camp Dawn on strenuous training sequence, ensuring they are prepared for anything to come.**
-			- Can be found out on DC 13-15 check of some kind: Was apparently requested to stay there by Ophelia Reed in turn to his own request for her to .
-		- Newspaper: **The name of Eldrick Runeweaver, current lead of the Amethyst Academy once again thanked as personally present for the receiving of Mageborn from Elyria. A recent discovery of multiple mageborn has lead to a successful validation for the Edicts of Lumen as the children get handed over to representatives of the Amethyst Academy.**
-			- The children are all coming from a cult that got busted and murdered but that's way less public. Some kinda DC can get that info.
-		- Newspaper: Trade relations with the nearing continent of Kislev are booming in this post-war era.
-		- <>Newspaper: Come May of 1915, the next Caspian Kingsmoot will occur. Some families and a variety of kingdoms within Caspia are already settling into gear for this.
-		- <>Emberwood: raucous tension from prior day that was heard about in the Chapel of Saint Ardenna actually turned out to be an overzealous lighting of the newly installed brazier at the Chapel.
-			- Rumors are around the town for what that really might be.
-			- DC 13-14 check reveals that Nathaniel Flint was seen talking to the local newspaper reporter. (NPC from Rupert's backstory, **read grey book.**)
-		- Drakkenheim: Recent efforts to establish small parties to recover those lost wandering the streets of Drakkenheim for one reason or another have been reestablished. Joint effort broached between Silver Order and Hooded Lanterns of this fact.
-		- <>Drakkenheim: A band of around two dozen attempted a pilgrimage on their own into the city during the Feast of the Faithful, it went quite poorly.
-			- Space for notes: 
+		- Drakkenheim Rumor: 
+		- <>Emberwood: 
+		- Newspaper: 
+		- Newspaper: 
+		- <>Newspaper: 
+		- <>Emberwood: Emma Crowe apparently used some of her dad's money in order to go get him a new set of gloves from the local tailor.
+		- Drakkenheim: 
+		- <>Drakkenheim: **The Witchfires are getting more numerous lately...**
 	- Determine what day, season, year, etc. it currently is.
-		- Day is November 30th, 1914. Next day begins December 1st, 1914. 9 days from that day, River will have another mission.
+		- Day is December 16th, 1914. **Rupert's Birthday**.
 	- Determine if there's some kind of special occasion or holiday occurring or approaching. maybe people are getting ready for or cleaning up after a holiday?
-		- People are cleaning up after the Feast. Most are going to be shaken from some of the recent events, but not a lot of people are stressing over it and took time to clear away from being near the Chapel as a result.
-- # Step 4: PCs current goals and plans (Done.)
-	- Where is your character currently? **Mostly heading into Shepherd's Gate**
-		- Thalia is leaving Drakkenheim with the rest of the party, having just finished assisting in the eventful part the Rat's Nest Tavern and being told to head into the City by Flamekeeper Isaac. Ophelia Reed wants to keep some negative pressure on Thalia, which is represented by some potential mistrust from the rest of the people in Emberwood. She also just figured out some stuff about herself and her date of birth thanks to the Holiday Spirit and this will lead to another vision of the Crater (Minor Scene).
-		- Rupert is coming with the rest of the group out of Drakkenheim, having just survived near death as an ordeal after needing effort to have corralled a lot of the party during the Feast and kept up with some NPCs like Ophelia Reed and Isaac. Both these NPCs want him. He gets a scar from this.
-		- Dr. Mobius is attempting to get fireworks or firefly show together for the Feast to do some decent celebrating and call an appealing look to be cast on the academy. He is coming off of that recent near death in the Outer City and potentially has had an encounter with a spirit, depending on what the players want.
-		- Levi's in the middle of leaving the Outer City, exhausting a lot of his abilities along the way. He wants to learn some more about his contamination.
-		- Emile is heading back to Emberwood from the Rat's Nest tavern, having headed into the city after calming down multiple members of the Chapel post events during the Feast.
+		- Out of celebration for Rupert's birthday, Officer Yannick has thrown a little pow-wow at the Red Lion Hotel for a few people to celebrate "the day a damn champ was born, always believed in that guy" and is shilling out some money to hopefully welcome in a few new members to the Silver Order. **Another thing that happens is the McNamara family reaches out to Rupert, through a courier- who just says a portrait of Sariah was recently commissioned based off of a copy had at the real McNamara Manor 'the McNamanor' and is at the post office if he wants to get it.**
+- # Step 4: PCs current goals and plans (IP.)
+	- Where is your character currently? **All getting ready to head to Reed Manor to fight Oscar Yoren.**
+		- Thalia just spent downtime fighting in the Dawn Duels, assisting at Hendrix Farm, and training with Syr Baldrum.
+		- Rupert just got done fighting in the Dawn Duels, going on patrol for the Silver Order during day shift, and giving a banger of a speech.
+		- Dr. Mobius finished doing some experimenting at the Amethyst Academy, performing crimes against humanity, and heading back for some more studies. 
+		- Levi's made Erik Romero as a persona, done patrols as him. He also attended some personal workshop with River, and got his first Academy Ring.
+		- Emile is researching Oscar Yoren, researching Kramer, and just got done with Hendrix Farm cooking aid as well as securing a meeting between Silver Order and Hooded Lanterns- if not a day.
 	- What are they trying to get to or where are they trying to go?
 		- Thalia is trying to get to the Chapel and is there, wanting to train up her combat prowess, to secure that dog name alongside Honor, and to make it back home. Hanna is going to suggest Thalia uphold her values as she sees fit to, Honor is going to suggest some more reading options like a few passages from the Testament, and Flamekeeper Isaac is going to do some effort to reinforce stuff about monsters, surveying and sticking with the rest of the party, and so on.
 			- Minor scene with Isaac.
@@ -238,7 +233,7 @@ Encounter rolls:
 			- Step 7.
 		- Rupert - Spencer D. Kramer is going to want to stop Rupert from destroying Delerium, partly to get Rupert on his side. Maybe he does this by assuming an illusory shape within Drakkenheim, and through doing this joins up with the rival adventuring party in order to get close to them and **boom**, murder em'.
 		- Thalia - is trying to get stopped by Ophelia Reed, mostly by sent liaisons to get her and potentially Rupert away from the Chapel. Over to Camp Dawn. 
-- # Step 5: NPCs current goals and plans (Done)
+- # Step 5: NPCs current goals and plans (IP)
 	- What have the major NPCs been up to?
 	- Decide what plans they have been making.
 		- Amiri: Increase the night life at the Midnight Court. Have Jupiter Jack set up some announcements.
@@ -262,33 +257,31 @@ Encounter rolls:
 		- Spencer D. Kramer: Dispel or covertly attack the bird River uses.
 			- Keep making the Witchfires.
 		- Theodore & Ophelia Reed: Speak to more effective offerings of healing and claim presence at the Chapel of Saint Ardenna with a few of their people. 
-- # Step 6: Major Scenes (In Progress 4/6)
+- # Step 6: Major Scenes (IP 0/6)
 	Potential scenes that might come up during play
 	- For each Front, develop a scene of them moving forward their plans in some way. don't include how PCs end up in the scene.
-		- Amiri: During a late night at the market, a few new stalls come forward and have some open libations for the crowd passing through- though only those that seem to have a particular phrase between them. "Acknowledge the Anon, that's the one who made this possible."
-			- Feast of the Fruitful.
-			- Delerium damage on engine in spots, but that looks recent- unlike the rust.
-			- It's quality spirits. Displayed like a roast pig are some impressive pieces of machinery. (DC 15 to figure out where they're from) (The cosmetic damage on them in the form of rust makes it unlikely they're from the recently stolen plane but that's a Kuromi special)
+		- Amiri: 
+			- 
 				- PC Motivations:
-					- Emile: Missing Plane.
-					- Levi: Anon mentioned, taunted.
-					- Mobius: Attached to Levi, but maybe the engine also has some strange signs of delerium usage.
-					- Rupert: Have them call it the 'Feast of the Fruitful' for people who put real work in. 
-					- Thalia: Have them call it the 'Feast of the Fruitful' for people who put real work in. 
-		- Ansom Lang: Start an enlistment for local patrols and scanning around the King's Gate, in an attempt to learn more about the area for passage into the inner city. There was a provisional unit from the Silver Order sent out and they were attacked by some kind of powerful monstrosities into another, the likes of which has yet to be seen in Drakkenheim before.
+					- Emile: 
+					- Levi: 
+					- Mobius: 
+					- Rupert: 
+					- Thalia: 
+		- Ansom Lang: 
 				- PC Motivations:
-					- Emile: Interest in the monstrosities because they're from Kramer.
-					- Levi: Interest in this fact because on the way back, the weird figurine he's got starts buzzing.
-					- Mobius: Interest in the monstrosities because they're from Kramer.
-					- Rupert: Powerful monsters afoot + Silver Order patrol fallen. Major loss because the force is as small as it is.
-					- Thalia: Edelgard is really affected by this and will hate on Thalia because of her getting back safe. Silver Order knight, Arthur Krieg, was the same age as Thalia.
-		- River: A certain red crow has been hanging around the Bark & Buzzard. Not only that, postage has been set in a few of the biergartens, dining halls, and along the staple-marked electrical lines that go throughout the village. What do they say? "Malfeasant Mage Oscar Yoren, Wanted Death or Alive. Reward: Magic Item crafted by the Amethyst Academy + 250 GP per hunter."
+					- Emile: 
+					- Levi: 
+					- Mobius: 
+					- Rupert: 
+					- Thalia: 
+		- River:
 				- PC Motivations:
-					- Emile: Hooded Lanterns also want this guy to keep doing business, on account of the fact that he used to sell them potions. Get him to keep doing that.
-					- Levi: Queen's Men want the health potions that this guy sells, get him to sell to them instead of the Hooded Lanterns because they ain't shit.
-					- Mobius: Oscar Yoren has contaminated spells and magic, worth getting.
-					- Rupert: Experiments on monsters, this cannot stand!
-					- Thalia: Existence of Oscar Yoren might be connected to the Silver Order party dying. Flamekeeper Isaac is interested.
+					- Emile: 
+					- Levi: 
+					- Mobius: 
+					- Rupert: 
+					- Thalia: 
 		- High Flamekeeper Ophelia Reed:
 			- PC Motivations: 
 					- Emile:
@@ -296,14 +289,14 @@ Encounter rolls:
 					- Mobius:
 					- Rupert:
 					- Thalia: 
-		- Nathaniel Flint: Sharing the word of the Testament with an interested crowd is Nathaniel Flint, reading "Enlightenment, C1:V1, 'The Light shelters us, preserves us, edifies us, and to us the Light has given the promise of a New Dawn.' It is important to understand in these dark times where our lights are and to recognize those who shy away from flame need be wary of those who cast shade. Any injured are welcome to Hendrix Farm." He'll then heal a dude with a really bad head gash, from the Silver Order's almost fully lost team. First convert secure.
+		- Nathaniel Flint: 
 			- PC Motivations:
-					- Emile: Interested in what happened to lost Silver Order party. 
-					- Levi: His figurine buzzes in response to being near this other guy. Maybe give him a dream vision from the POV of the Galvanized Prowler.
-					- Mobius: He's holding the book Mobius gave him.
-					- Rupert: Interested in what happened to lost Silver Order party. Plus the monster.
-					- Thalia: Interested in what happened to lost Silver Order party. Plus the Falling Fire, maybe. See if Honor can also be in the scene.
-		- Spencer D. Kramer: A lot of the witchfires are burning along the multitudinous parts of the outer city. Monsters seem to be pulling closer to them, which includes 
+					- Emile: 
+					- Levi: 
+					- Mobius: 
+					- Rupert: 
+					- Thalia: 
+		- Spencer D. Kramer: 
 			- PC Motivations:
 					- Emile:
 					- Levi:
@@ -313,7 +306,7 @@ Encounter rolls:
 	- Consider a possible timeline for each scene relative to the ones other people do. these don't need to be set in stone.
 	- Figure out what would happen if the PCs never entered this scene. for example, what happens if the front succeeds? would that bring about one of their major milestones?
 	- Think of ways to include some of your PCs goals or motivations into the scene.
-- # Step 7: Plan out Minor Scenes (In Progress)
+- # Step 7: Plan out Minor Scenes (IP)
 	Have a handful of filler events or encounters ready.
 	- For each PC who's goal you weren't able to include in a major scene, develop a scene where they're able to further their goals.
 	- **Who has yet to get that treatment:** ==Levi, Emile, Mobius, Rupert, Thalia.==
@@ -327,7 +320,7 @@ Encounter rolls:
 		- Silver Order panicked encounter, they're maddened or delirious.
 	- Prepare a very brief outline for transitional scenes, such as shopping or resting in town.
 		- Along the way out of town they see a storm rapidly forming...
-- # Step 8: Scene Backgrounds (Done)
+- # Step 8: Scene Backgrounds (IP)
 	Further develop each scene.
 	- For each scene, find or create a suitable map for the surrounding location if needed, such as a dungeon or a town map. **Needing color.**
 	- Write a description or background for each scene.
@@ -381,7 +374,7 @@ Encounter rolls:
 			- Basic track for the town should work: https://youtu.be/S9uCbvC3dOY 
 		- For Watchtower:
 			- Mourningstar 40K Darktide music.
-- # Step 9: Secrets and Clues (In Progress)
+- # Step 9: Secrets and Clues (IP)
 	What can the PCs discover about the world and events?
 	- For each scene, come up with a secret that could give away important information.
 	- For each location, come up with a piece of history or information that could either help the PCs explore it, or lure them to it.
@@ -396,7 +389,7 @@ Encounter rolls:
 		8. Mageborn children from Elyria were actually rescued from some kind of cult.
 		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		10. Saint Vitruvio was once a farmer before he became a Saint.
-		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
+		11. ~~Lucretia Mathias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~
 - # Step 10: Aftermath (Cont. into next session)
 	What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.

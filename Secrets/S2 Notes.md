@@ -6,7 +6,7 @@ A front is basically a villain or some kind of major issue. major issues can be 
 \- Step one, provide equipment to make sure a few bandits survive. Step two, collect and offer fencing for bandits as long as they provide information. Step three, hire new bandits if old ones are dead and if all are dead- uh oh.
 2. Villain two: Amiri/Queen's Men.
 \- Goal: Have Levi SlaughterDale return to the WaterDale Troupe.
-\- Step one, remain ever present in Levi's life and live rent free in his thoughts. Step two, do great things to get his attention and show off. Step three, offer Levi the occasional job or sent the occasional goon to talk up the Troupe- especially talking up Amari.
+\- Step one, remain ever present in Levi's life and live rent free in his thoughts. Step two, do great things to get his attention and show off. Step three, offer Levi the occasional job or sent the occasional goon to talk up the Troupe- especially talking up Amiri.
 3. Villain three: Flamekeeper Isaac/Falling Fire.
 \- Goal: Make Thalia into weapon that defeats the Silver Order.
 \- Step one, demonstrate Thalia as capable tool to Rupert and have Rupert ingratiated into local church scene. Step two, have someone Thalia cares about in Silver Order or in Falling Fire- either get hurt by Order or love Falling Fire, which the Silver Order will hate by proxy. Step three, provide continual guidance and indoctrinate Rupert as second mentor figure. This will get Isaac in better graces for Lucretia.

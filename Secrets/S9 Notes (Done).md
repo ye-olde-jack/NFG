@@ -272,7 +272,7 @@ Encounter rolls:
 		- Eldrick Runeweaver: Opposing Falling Fire as Adversaries, Cautious of Silver Order.
 		- Spencer D. Kramer: Opposing everyone, maybe even himself.
 		- Elias Drexel: Opposing Queen's Men.
-		- Amari/Queen of Thieves: Opposing Hooded Lanterns.
+		- Amiri/Queen of Thieves: Opposing Hooded Lanterns.
 		- Theodore Marshall: Cautious of Falling Fire, indifferent or earnest to most others.
 	- For each NPC, determine whether or not there is a faction that exists for us and our characters to interact with.
 		- **Completed**.
@@ -692,7 +692,7 @@ Further develop each scene.
 		8. Mageborn children from Elyria were actually rescued from some kind of cult.
 		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		10. Saint Vitruvio was once a farmer before he became a Saint.
-		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~ ==Found this a while ago.==
+		11. ~~Lucretia Mathias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~ ==Found this a while ago.==
 - # Step 10: Aftermath (Yet to be Session End)
 	What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.
@@ -823,7 +823,7 @@ What can the PCs discover about the world and events?
 		8. Mageborn children from Elyria were actually rescued from some kind of cult.
 		9. The presence of Kislevite people has been found traveling through Emberwood and moving in the direction of Buckledown Row.
 		10. Saint Vitruvio was once a farmer before he became a Saint.
-		11. ~~Lucretia Matthias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~ ==Found this a while ago.==
+		11. ~~Lucretia Mathias was said to begin publishing the Testament of the Falling Fire before the fall of the meteor, but others say they've found publications dated after as the first.~~ ==Found this a while ago.==
 - # Step 10: Aftermath (Yet to be Session End)
 	What happens after the PCs have done their thing? What does everyone else do?
 	- For the scenes that PCs didn't enter, assume that one of the fronts succeeds, one of them fails, and the rest never come to fruition.

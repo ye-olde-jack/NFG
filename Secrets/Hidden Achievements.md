@@ -73,3 +73,4 @@
 - **Take a Dip**. Be submerged in contaminated water or sludge.
 - **Love Blooms**. A PC falls in love or gets married.
 - **A King's Ransom.** The PCs' valuables total 15,000 gp or more.
+- **So Long.** ==A PC leaves the party.==

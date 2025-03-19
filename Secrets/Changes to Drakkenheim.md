@@ -20,7 +20,7 @@
 - Instead of being cartoonishly evil, the von Drakken line was hardly exceptional, and their dynasty came to an end when they were politically outmaneuvered by the von Kessels. This opens up a von Drakken heir as a much more doable storyline.
 
 #### Elyria
-- The last Elyrian King is going to step down, meaning you could play a PC who was the last king, and people like Lucretia Matthias may have more to say about the event.
+- The last Elyrian King is going to step down, meaning you could play a PC who was the last king, and people like Lucretia Mathias may have more to say about the event.
 
 # Wider World
 #### General Lore
