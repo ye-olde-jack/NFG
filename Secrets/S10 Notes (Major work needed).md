@@ -633,7 +633,8 @@ Further develop each scene.
 			- Basic track for the town should work: https://youtu.be/S9uCbvC3dOY 
 		- For Watchtower:
 			- Mourningstar 40K Darktide music.
-- # Step 9: Secrets and Clues (IP)
+
+# Step 9: Secrets and Clues (IP)
 	What can the PCs discover about the world and events?
 	- For each scene, come up with a secret that could give away important information.
 	- For each location, come up with a piece of history or information that could either help the PCs explore it, or lure them to it.

@@ -1,8 +1,9 @@
-Age by start of campaign in November 15th, 1914: 
+Age by start of campaign in November 15th, 1914: 50s-60s
+Birthday: December 16th.
 
 # Motivation and Beliefs
 #### Core Motivations
-
+- 
 #### Fear
 
 #### Risk
